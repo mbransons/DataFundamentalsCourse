@@ -1,0 +1,4899 @@
+1
+00:01:06,596 --> 00:01:10,344
+
+
+2
+00:01:10,431 --> 00:01:12,431
+
+
+3
+00:01:16,903 --> 00:01:19,583
+
+
+4
+00:02:33,781 --> 00:02:35,180
+It's beautiful here.
+
+5
+00:02:36,485 --> 00:02:38,008
+It was our aunt's.
+
+6
+00:02:38,412 --> 00:02:40,196
+We used to come here
+as kids.
+
+7
+00:02:41,203 --> 00:02:43,391
+The Order uses it now
+as a safe house.
+
+8
+00:02:45,273 --> 00:02:46,914
+What's left of us, at least.
+
+9
+00:02:49,405 --> 00:02:51,453
+Muggles think these keep
+evil away,
+
+10
+00:02:51,969 --> 00:02:53,399
+but they're wrong.
+
+11
+00:02:56,000 --> 00:02:57,547
+I need to talk
+to the goblin.
+
+12
+00:03:09,805 --> 00:03:10,961
+How are you?
+
+13
+00:03:13,088 --> 00:03:14,321
+Alive.
+
+14
+00:03:19,742 --> 00:03:20,995
+You probably don't remember...
+
+15
+00:03:21,083 --> 00:03:22,236
+That I showed you
+to your vault
+
+16
+00:03:22,323 --> 00:03:23,992
+the first time
+you came to Gringotts?
+
+17
+00:03:24,906 --> 00:03:27,867
+Even amongst goblins
+you're famous, Harry Potter.
+
+18
+00:03:31,828 --> 00:03:33,336
+You buried the elf.
+
+19
+00:03:33,930 --> 00:03:34,969
+Yes.
+
+20
+00:03:35,242 --> 00:03:36,875
+<font color="#00ff00">GRIPHOOK:</font> And brought me
+here.
+
+21
+00:03:39,047 --> 00:03:40,344
+You are...
+
+22
+00:03:42,625 --> 00:03:44,711
+..a very unusual wizard.
+
+23
+00:03:52,381 --> 00:03:54,397
+How did you come
+by this sword?
+
+24
+00:03:59,186 --> 00:04:00,600
+It's complicated.
+
+25
+00:04:02,670 --> 00:04:04,264
+Why did Bellatrix Lestrange
+think
+
+26
+00:04:04,352 --> 00:04:06,201
+it should be in her
+vault at Gringotts?
+
+27
+00:04:07,632 --> 00:04:09,358
+It's complicated.
+
+28
+00:04:12,859 --> 00:04:14,803
+The sword presented itself
+to us
+
+29
+00:04:14,890 --> 00:04:16,350
+in a moment of need.
+
+30
+00:04:16,819 --> 00:04:18,295
+We didn't steal it.
+
+31
+00:04:21,359 --> 00:04:23,449
+There is a sword
+in Madam Lestrange's vault
+
+32
+00:04:23,537 --> 00:04:24,784
+identical to this one...
+
+33
+00:04:24,923 --> 00:04:26,334
+..but it is a fake.
+
+34
+00:04:27,014 --> 00:04:28,551
+It was placed there
+this past summer.
+
+35
+00:04:28,639 --> 00:04:30,272
+And she never suspected
+it was a fake?
+
+36
+00:04:30,360 --> 00:04:31,851
+The replica is
+very convincing.
+
+37
+00:04:32,016 --> 00:04:33,537
+Only a goblin would
+recognize that
+
+38
+00:04:33,625 --> 00:04:35,694
+this is the true sword
+of Gryffindor.
+
+39
+00:04:36,132 --> 00:04:37,475
+Who is the acquaintance?
+
+40
+00:04:38,047 --> 00:04:39,708
+A Hogwarts professor.
+
+41
+00:04:40,326 --> 00:04:42,576
+As I understand it,
+he's now headmaster.
+
+42
+00:04:43,226 --> 00:04:44,475
+Snape?
+
+43
+00:04:45,560 --> 00:04:47,873
+He put a fake sword
+in Bellatrix's vault?
+
+44
+00:04:48,756 --> 00:04:49,756
+Why?
+
+45
+00:04:49,867 --> 00:04:51,178
+There are more than
+a few
+
+46
+00:04:51,266 --> 00:04:54,100
+curious things in the vaults
+at Gringotts.
+
+47
+00:04:55,325 --> 00:04:58,155
+And in Madam Lestrange's vault
+as well?
+
+48
+00:05:01,157 --> 00:05:02,365
+Perhaps.
+
+49
+00:05:04,648 --> 00:05:06,487
+I need to get into Gringotts.
+
+50
+00:05:06,881 --> 00:05:08,381
+Into one of the vaults.
+
+51
+00:05:08,864 --> 00:05:10,028
+This is impossible.
+
+52
+00:05:10,116 --> 00:05:11,508
+Alone, yes.
+
+53
+00:05:11,819 --> 00:05:13,670
+But with you,
+no.
+
+54
+00:05:19,086 --> 00:05:20,588
+<font color="#00ff00">GRIPHOOK:</font> Why should I
+help you?
+
+55
+00:05:20,754 --> 00:05:23,490
+I have gold.
+Lots of it.
+
+56
+00:05:23,722 --> 00:05:26,467
+- I have no interest in gold.
+- <font color="#00ff00">HARRY: </font>Then what?
+
+57
+00:05:31,987 --> 00:05:33,037
+That.
+
+58
+00:05:34,185 --> 00:05:35,655
+That is my price.
+
+59
+00:05:49,256 --> 00:05:51,865
+<font color="#00ff00">HERMIONE: </font>Are you thinking
+there's a Horcrux in Bellatrix's vault?
+
+60
+00:05:52,045 --> 00:05:54,426
+<font color="#00ff00">HARRY: </font>She was terrified
+when she thought we'd been in there.
+
+61
+00:05:54,513 --> 00:05:56,459
+She kept asking you
+what else we'd taken.
+
+62
+00:05:56,653 --> 00:05:58,442
+I bet you there's a Horcrux
+in there,
+
+63
+00:05:58,530 --> 00:05:59,753
+another piece of his soul.
+
+64
+00:05:59,841 --> 00:06:02,881
+Let's find it and kill it,
+we're one step closer to killing him.
+
+65
+00:06:02,977 --> 00:06:04,545
+<font color="#00ff00">RON: </font>And what happens
+when we find it?
+
+66
+00:06:04,725 --> 00:06:06,085
+How are we supposed
+to destroy it now,
+
+67
+00:06:06,172 --> 00:06:07,772
+you've given the
+sword to Griphook?
+
+68
+00:06:08,516 --> 00:06:10,564
+<font color="#00ff00">HARRY: </font>I'm still working
+on that part.
+
+69
+00:06:12,864 --> 00:06:14,045
+He's weak.
+
+70
+00:06:23,879 --> 00:06:25,075
+Yes?
+
+71
+00:06:26,868 --> 00:06:30,911
+Mr. Ollivander,
+I need to ask you a few questions.
+
+72
+00:06:31,151 --> 00:06:33,364
+<font color="#00ff00">OLLIVANDER: </font>Anything, my boy,
+anything.
+
+73
+00:06:35,005 --> 00:06:37,153
+<font color="#00ff00">HARRY: </font>Would you mind
+identifying this wand?
+
+74
+00:06:37,407 --> 00:06:39,802
+We need to know
+if it's safe to use.
+
+75
+00:06:46,262 --> 00:06:47,575
+Walnut.
+
+76
+00:06:48,885 --> 00:06:50,778
+Dragon heartstring.
+
+77
+00:06:52,166 --> 00:06:54,232
+Twelve and three-quarter inches.
+
+78
+00:06:55,833 --> 00:06:57,427
+Unyie...
+
+79
+00:06:59,732 --> 00:07:01,107
+..Unyielding.
+
+80
+00:07:02,577 --> 00:07:06,614
+This belonged
+to Bellatrix Lestrange.
+
+81
+00:07:06,936 --> 00:07:09,068
+Treat it carefully.
+
+82
+00:07:10,434 --> 00:07:11,686
+And this?
+
+83
+00:07:15,166 --> 00:07:16,419
+Hawthorn.
+
+84
+00:07:18,338 --> 00:07:20,372
+And unicorn hair.
+
+85
+00:07:21,155 --> 00:07:25,318
+Ten inches.
+Reasonably pliant.
+
+86
+00:07:29,396 --> 00:07:33,333
+This... was the wand
+of Draco Malfoy.
+
+87
+00:07:34,651 --> 00:07:37,044
+Was?
+Is it not still?
+
+88
+00:07:37,200 --> 00:07:40,739
+Well, perhaps not,
+if you won it from him.
+
+89
+00:07:43,825 --> 00:07:46,591
+I sense its allegiance has
+changed.
+
+90
+00:07:52,017 --> 00:07:56,380
+You talk about wands
+as if they have feelings...
+
+91
+00:07:58,880 --> 00:08:00,169
+..can think.
+
+92
+00:08:03,521 --> 00:08:07,411
+The wand chooses the wizard,
+Mr. Potter.
+
+93
+00:08:08,573 --> 00:08:10,724
+That much has always
+been clear to
+
+94
+00:08:10,812 --> 00:08:13,450
+those of us
+who have studied wandlore.
+
+95
+00:08:15,216 --> 00:08:18,193
+And... what do you know
+about the Deathly Hallows?
+
+96
+00:08:23,151 --> 00:08:25,755
+It is rumored
+there are three:
+
+97
+00:08:28,073 --> 00:08:30,607
+The Elder Wand...
+
+98
+00:08:30,893 --> 00:08:33,251
+..the Cloak of Invisibility
+
+99
+00:08:33,517 --> 00:08:36,048
+to hide you
+from your enemies...
+
+100
+00:08:36,292 --> 00:08:41,837
+..and the Resurrection Stone
+to bring back loved ones from the dead.
+
+101
+00:08:42,337 --> 00:08:46,915
+Together,
+they make one the master of death.
+
+102
+00:08:47,775 --> 00:08:53,634
+But few... truly believe
+that such objects exist.
+
+103
+00:08:53,765 --> 00:08:55,064
+<font color="#00ff00">HARRY: </font>Do you?
+
+104
+00:08:55,931 --> 00:08:57,845
+Do you believe they exist,
+sir?
+
+105
+00:09:01,412 --> 00:09:03,946
+I see no reason
+to...
+
+106
+00:09:04,034 --> 00:09:07,509
+..put stock into
+an old wives' tale.
+
+107
+00:09:08,733 --> 00:09:09,950
+You're lying.
+
+108
+00:09:11,241 --> 00:09:12,970
+You know one exists.
+
+109
+00:09:13,571 --> 00:09:15,204
+You told him
+about it.
+
+110
+00:09:15,454 --> 00:09:18,150
+You told him about
+the Elder Wand
+
+111
+00:09:18,400 --> 00:09:21,157
+and... where he could go
+looking for it.
+
+112
+00:09:24,683 --> 00:09:26,384
+He tortured me.
+
+113
+00:09:29,235 --> 00:09:30,986
+Besides...
+
+114
+00:09:32,103 --> 00:09:34,345
+..I only conveyed rumors.
+
+115
+00:09:36,606 --> 00:09:38,153
+There's...
+
+116
+00:09:39,524 --> 00:09:42,470
+..there's no telling
+whether he will find it.
+
+117
+00:09:45,572 --> 00:09:47,392
+He has found it,
+sir.
+
+118
+00:09:53,417 --> 00:09:54,736
+We'll let you rest.
+
+119
+00:09:57,637 --> 00:10:00,118
+<font color="#00ff00">OLLIVANDER: </font>He's after you,
+Mr. Potter.
+
+120
+00:10:00,516 --> 00:10:03,572
+If it's true,
+what you say,
+
+121
+00:10:03,789 --> 00:10:05,947
+and he has
+the Elder Wand...
+
+122
+00:10:08,423 --> 00:10:09,962
+..I'm afraid...
+
+123
+00:10:10,611 --> 00:10:13,329
+..you really don't stand
+a chance.
+
+124
+00:10:14,829 --> 00:10:16,065
+Well, I suppose
+I'll have to kill him
+
+125
+00:10:16,152 --> 00:10:17,407
+before he finds me,
+then.
+
+126
+00:10:23,573 --> 00:10:25,126
+<font color="#00ff00">RON: </font>Are you sure that's hers?
+
+127
+00:10:27,481 --> 00:10:28,642
+Positive.
+
+128
+00:10:35,134 --> 00:10:36,259
+Well?
+
+129
+00:10:37,822 --> 00:10:39,157
+How do I look?
+
+130
+00:10:40,102 --> 00:10:41,353
+<font color="#00ff00">RON: </font>Hideous.
+
+131
+00:10:42,473 --> 00:10:45,611
+You can give that to Hermione to hold,
+all right, Griphook?
+
+132
+00:11:05,563 --> 00:11:06,810
+We're relying on you.
+
+133
+00:11:06,898 --> 00:11:08,867
+If you get us past the guards
+and into the vault,
+
+134
+00:11:08,954 --> 00:11:10,367
+the sword's yours.
+
+135
+00:11:23,373 --> 00:11:24,648
+Madam Lestrange.
+
+136
+00:11:24,840 --> 00:11:26,250
+<font color="#00ff00">HERMIONE: </font>Good morning.
+
+137
+00:11:27,919 --> 00:11:31,281
+<font color="#00ff00">GRIPHOOK:</font> "Good morning"?
+"Good morning"?
+
+138
+00:11:31,664 --> 00:11:34,375
+You're Bellatrix Lestrange,
+not some dewy-eyed school girl.
+
+139
+00:11:34,463 --> 00:11:36,133
+<font color="#00ff00">RON: </font>Hey. Easy.
+
+140
+00:11:36,679 --> 00:11:38,328
+She gives us away,
+
+141
+00:11:38,415 --> 00:11:41,469
+we might as well use that sword
+to slit our own throats.
+
+142
+00:11:41,655 --> 00:11:42,921
+Understand?
+
+143
+00:11:43,601 --> 00:11:46,648
+No, he's right.
+I was being stupid.
+
+144
+00:11:47,284 --> 00:11:48,578
+<font color="#00ff00">HARRY: </font>Okay.
+
+145
+00:11:48,895 --> 00:11:50,523
+Let's do it.
+
+146
+00:12:41,128 --> 00:12:42,721
+<font color="#ffc30f">(PEN SCRATCHING PAPER)</font>
+
+147
+00:12:48,564 --> 00:12:49,838
+<font color="#ffc30f">(CLEARS THROAT)</font>
+
+148
+00:12:55,340 --> 00:12:58,127
+I wish
+to enter my vault.
+
+149
+00:13:01,433 --> 00:13:03,604
+Identification?
+
+150
+00:13:06,775 --> 00:13:09,260
+I hardly think
+that'll be necessary.
+
+151
+00:13:11,923 --> 00:13:13,705
+Madam Lestrange.
+
+152
+00:13:19,087 --> 00:13:21,315
+I don't like to be kept
+waiting.
+
+153
+00:13:21,738 --> 00:13:23,160
+<font color="#00ff00">GRIPHOOK:</font> <i>They know.</i>
+
+154
+00:13:23,549 --> 00:13:25,759
+<i>They know
+she's an imposter.</i>
+
+155
+00:13:28,600 --> 00:13:30,346
+<i>They've been warned.</i>
+
+156
+00:13:38,312 --> 00:13:39,565
+Harry?
+
+157
+00:13:40,657 --> 00:13:42,158
+What do we do, Harry?
+
+158
+00:13:48,142 --> 00:13:52,182
+Madam Lestrange,
+would you mind presenting your wand?
+
+159
+00:13:52,862 --> 00:13:54,352
+And why should I do that?
+
+160
+00:13:54,440 --> 00:13:55,994
+It's the bank's policy.
+
+161
+00:13:56,081 --> 00:13:59,424
+I'm sure you understand
+given the current climate.
+
+162
+00:14:00,130 --> 00:14:03,304
+No.
+I most certainly do not understand.
+
+163
+00:14:03,491 --> 00:14:07,065
+I'm afraid
+I must insist.
+
+164
+00:14:12,479 --> 00:14:14,643
+<font color="#ffc30f">HARRY WHISPERS:</font> <i>Imperio.</i>
+
+165
+00:14:14,745 --> 00:14:18,158
+<font color="#ffc30f">(SNIFFS THEN SIGHS)</font>
+
+166
+00:14:19,929 --> 00:14:24,002
+Very well, Madam Lestrange.
+If you will follow me.
+
+167
+00:15:00,389 --> 00:15:01,732
+<font color="#00ff00">HARRY: </font>What is that, Griphook?
+
+168
+00:15:02,253 --> 00:15:04,521
+<font color="#ffc30f">(SQUEAKING AND GRINDING)</font>
+
+169
+00:15:06,814 --> 00:15:08,157
+Griphook.
+
+170
+00:15:15,774 --> 00:15:17,865
+<font color="#ffc30f">(ALL PANTING)</font>
+
+171
+00:15:21,611 --> 00:15:23,079
+<font color="#ffc30f">(ALARM SCREECHING)</font>
+
+172
+00:15:23,167 --> 00:15:25,435
+<font color="#ffc30f">(SCREAMING)</font>
+
+173
+00:15:26,775 --> 00:15:28,740
+<font color="#00ff00">HERMIONE: </font>Arresto momentum.
+
+174
+00:15:30,507 --> 00:15:32,341
+<font color="#ffc30f">(ALL GRUNT)</font>
+
+175
+00:15:33,163 --> 00:15:34,794
+<font color="#00ff00">HARRY: </font>Well done, Hermione.
+
+176
+00:15:36,037 --> 00:15:38,466
+<font color="#ffc30f">(ALARM CONTINUES SCREECHING
+IN DISTANCE)</font>
+
+177
+00:15:43,090 --> 00:15:44,935
+Oh, no,
+you look like you again.
+
+178
+00:15:45,593 --> 00:15:49,396
+The Thief's Downfall.
+Washes away all enchantments.
+
+179
+00:15:49,597 --> 00:15:50,723
+Can be deadly.
+
+180
+00:15:50,850 --> 00:15:52,123
+You don't say.
+
+181
+00:15:52,620 --> 00:15:55,154
+Just out of interest, is there
+any other way out of here?
+
+182
+00:15:55,835 --> 00:15:56,998
+No.
+
+183
+00:15:58,439 --> 00:16:01,927
+What the devil are all
+you doing down here?
+
+184
+00:16:02,427 --> 00:16:03,644
+Thieves!
+
+185
+00:16:03,741 --> 00:16:05,615
+- When you gave up the keys, you...
+- Lmperio.
+
+186
+00:16:05,711 --> 00:16:10,193
+<font color="#ffc30f">(SNIFFS THEN SIGHS)</font>
+
+187
+00:16:10,701 --> 00:16:13,474
+<font color="#ffc30f">(CREATURE ROARS NEARBY)</font>
+
+188
+00:16:17,212 --> 00:16:18,669
+That doesn't sound good.
+
+189
+00:16:21,146 --> 00:16:23,630
+<font color="#ffc30f">(GROWLING)</font>
+
+190
+00:16:29,719 --> 00:16:31,084
+<font color="#00ff00">RON: </font>Bloody hell.
+
+191
+00:16:31,211 --> 00:16:32,716
+That's a Ukrainian Ironbelly.
+
+192
+00:16:32,815 --> 00:16:34,005
+Here.
+
+193
+00:16:38,723 --> 00:16:40,396
+<font color="#ffc30f">(ROARING)</font>
+
+194
+00:16:44,943 --> 00:16:48,311
+It's been trained to expect pain
+when it hears the noise.
+
+195
+00:16:48,472 --> 00:16:50,107
+<font color="#00ff00">HERMIONE: </font>That's barbaric.
+
+196
+00:17:19,791 --> 00:17:20,947
+Lumos.
+
+197
+00:17:25,768 --> 00:17:27,080
+Blimey.
+
+198
+00:17:34,472 --> 00:17:36,080
+Accio Horcrux.
+
+199
+00:17:38,247 --> 00:17:40,182
+You're not trying that
+one again, are you?
+
+200
+00:17:40,377 --> 00:17:42,353
+<font color="#00ff00">GRIPHOOK:</font> That kind of
+magic won't work in here.
+
+201
+00:17:47,360 --> 00:17:48,744
+<font color="#00ff00">RON: </font>Is it in here, Harry?
+
+202
+00:17:50,171 --> 00:17:51,617
+Can you feel anything?
+
+203
+00:17:59,659 --> 00:18:04,008
+<font color="#ffc30f">(HISSING AND WHISPERING FAINTLY)</font>
+
+204
+00:18:08,532 --> 00:18:10,188
+<font color="#ffc30f">(HERMIONE GASPS)</font>
+
+205
+00:18:13,351 --> 00:18:15,979
+That's it.
+Up there.
+
+206
+00:18:19,397 --> 00:18:22,789
+They've added the Gemino curse.
+Everything you touch will multiply.
+
+207
+00:18:23,000 --> 00:18:24,438
+Give me the sword.
+
+208
+00:18:42,406 --> 00:18:44,079
+Stop moving.
+
+209
+00:19:06,544 --> 00:19:07,700
+Got it.
+
+210
+00:19:10,631 --> 00:19:12,176
+We had a deal, Griphook.
+
+211
+00:19:12,264 --> 00:19:13,645
+The cup for the sword.
+
+212
+00:19:19,394 --> 00:19:21,044
+I said I'd get you in.
+
+213
+00:19:21,216 --> 00:19:23,817
+I didn't say anything
+about getting you out.
+
+214
+00:19:45,832 --> 00:19:46,924
+<font color="#00ff00">HARRY: </font>Griphook!
+
+215
+00:19:47,012 --> 00:19:48,988
+- <font color="#00ff00">GRIPHOOK:</font> Thieves! Help!
+- Griphook!
+
+216
+00:19:49,076 --> 00:19:50,317
+Thieves!
+
+217
+00:19:52,013 --> 00:19:53,325
+<font color="#ffc30f">(BOGROD CHUCKLES)</font>
+
+218
+00:19:53,420 --> 00:19:56,817
+Foul little git.
+Least we've still got Bogrod.
+
+219
+00:20:03,912 --> 00:20:05,185
+That's unfortunate.
+
+220
+00:20:09,567 --> 00:20:11,825
+<font color="#00ff00">HERMIONE: </font>We can't just stand here.
+Who's got an idea?
+
+221
+00:20:11,983 --> 00:20:13,259
+You're the brilliant one.
+
+222
+00:20:13,599 --> 00:20:15,867
+I've got something,
+but it's mad.
+
+223
+00:20:16,302 --> 00:20:17,841
+Reducto.
+
+224
+00:20:30,212 --> 00:20:31,638
+Well, come on, then.
+
+225
+00:20:33,891 --> 00:20:35,939
+Relashio.
+
+226
+00:21:03,159 --> 00:21:04,784
+<font color="#ffc30f">(RUMBLING FAINTLY)</font>
+
+227
+00:21:14,976 --> 00:21:16,300
+<font color="#ffc30f">(ALL YELLING)</font>
+
+228
+00:21:22,763 --> 00:21:24,686
+<font color="#00ff00"><font color="#00ff00">GOBLIN: </font></font>He's moving! Aah!
+
+229
+00:21:46,620 --> 00:21:48,964
+<font color="#ffc30f">(PANTING)</font>
+
+230
+00:21:51,229 --> 00:21:52,401
+<font color="#00ff00">RON: </font>Now what?
+
+231
+00:21:52,626 --> 00:21:53,772
+Reducto.
+
+232
+00:21:55,092 --> 00:21:56,499
+Hold on.
+
+233
+00:22:06,100 --> 00:22:09,819
+<font color="#00ff00">RON: </font>That was brilliant.
+Absolutely brilliant.
+
+234
+00:22:37,392 --> 00:22:38,646
+<font color="#00ff00">HARRY: </font>We're dropping.
+
+235
+00:22:42,092 --> 00:22:44,345
+- <font color="#00ff00">RON: </font>I say we jump.
+- When?
+
+236
+00:22:44,433 --> 00:22:45,810
+Now.
+
+237
+00:23:07,660 --> 00:23:08,707
+<font color="#ffc30f">(YELLS)</font>
+
+238
+00:23:13,172 --> 00:23:14,424
+<font color="#ffc30f">(GASPING)</font>
+
+239
+00:23:36,237 --> 00:23:38,000
+<font color="#ffc30f">(ALL PANTING)</font>
+
+240
+00:23:40,293 --> 00:23:42,945
+He knows.
+You-Know-Who.
+
+241
+00:23:43,382 --> 00:23:45,009
+He knows
+we broke into Gringotts.
+
+242
+00:23:45,167 --> 00:23:46,179
+He knows what we took
+
+243
+00:23:46,267 --> 00:23:48,267
+and he knows
+we're hunting Horcruxes.
+
+244
+00:23:48,465 --> 00:23:50,266
+- How is it you know?
+- I saw him.
+
+245
+00:23:50,529 --> 00:23:53,318
+<font color="#00ff00">HERMIONE: </font>You let him in?
+Harry, you can't do that.
+
+246
+00:23:53,406 --> 00:23:55,105
+Hermione,
+I can't always help it.
+
+247
+00:23:55,193 --> 00:23:56,889
+Well, maybe I can.
+I don't know.
+
+248
+00:23:56,977 --> 00:23:58,594
+<font color="#00ff00">RON: </font>Never mind.
+What happened?
+
+249
+00:23:58,794 --> 00:24:00,727
+Well, he's angry.
+
+250
+00:24:00,969 --> 00:24:02,347
+And scared too.
+
+251
+00:24:02,521 --> 00:24:04,537
+He knows, if we find
+and destroy all the Horcruxes
+
+252
+00:24:04,625 --> 00:24:05,938
+we'll
+be able to kill him.
+
+253
+00:24:06,151 --> 00:24:09,250
+I reckon he'll stop at nothing
+to make sure we don't find the rest.
+
+254
+00:24:10,977 --> 00:24:13,336
+There's more.
+One of them's at Hogwarts.
+
+255
+00:24:13,475 --> 00:24:14,977
+<font color="#00ff00">HERMIONE: </font>What?
+
+256
+00:24:15,258 --> 00:24:16,922
+- You saw it?
+- I saw the castle
+
+257
+00:24:17,009 --> 00:24:18,187
+and Rowena Ravenclaw.
+
+258
+00:24:18,275 --> 00:24:20,782
+It must have to do with her.
+We have to go there now.
+
+259
+00:24:20,870 --> 00:24:22,477
+We can't do that.
+
+260
+00:24:22,564 --> 00:24:24,461
+We've got to plan.
+We've got to figure it out.
+
+261
+00:24:24,549 --> 00:24:27,578
+Hermione, when have any of
+our plans ever actually worked?
+
+262
+00:24:27,703 --> 00:24:30,121
+We plan, we get there,
+all hell breaks loose.
+
+263
+00:24:31,188 --> 00:24:32,440
+He's right.
+
+264
+00:24:32,612 --> 00:24:35,255
+One problem:
+Snape's headmaster now.
+
+265
+00:24:35,375 --> 00:24:36,944
+We can't just walk
+through the front door.
+
+266
+00:24:37,031 --> 00:24:38,976
+Um, well,
+
+267
+00:24:39,617 --> 00:24:41,836
+we'll go to Hogsmeade,
+to Honeydukes.
+
+268
+00:24:41,924 --> 00:24:44,055
+Take the secret passage
+in the cellar.
+
+269
+00:24:44,506 --> 00:24:47,547
+It's...
+There's something wrong with him.
+
+270
+00:24:48,044 --> 00:24:49,977
+It's like, you know, in the past,
+
+271
+00:24:50,305 --> 00:24:52,461
+I've always been able to follow
+his thoughts.
+
+272
+00:24:52,556 --> 00:24:54,852
+And now everything
+just feels disconnected.
+
+273
+00:24:55,545 --> 00:24:56,969
+Maybe
+it's the Horcruxes.
+
+274
+00:24:57,061 --> 00:24:58,961
+Maybe he's growing weaker.
+Maybe he's dying.
+
+275
+00:24:59,049 --> 00:25:02,047
+No.
+No, it's more like he's wounded.
+
+276
+00:25:02,492 --> 00:25:04,649
+If anything,
+he feels more dangerous.
+
+277
+00:25:09,595 --> 00:25:11,766
+<i>Voldemort in parsel tongue:</i>
+
+278
+00:25:29,738 --> 00:25:31,219
+<font color="#ffc30f">(NAGINI HISSES)</font>
+
+279
+00:25:47,820 --> 00:25:50,789
+<font color="#ffc30f">(ALARM SCREECHING)</font>
+
+280
+00:25:51,010 --> 00:25:52,883
+<font color="#ffc30f">(MEN SHOUTING NEARBY)</font>
+
+281
+00:25:54,743 --> 00:25:56,719
+- <font color="#00ff00">MAN 1: </font><i>They're here!</i>
+- <font color="#00ff00">MAN 2: </font><i>Search everywhere!</i>
+
+282
+00:25:56,908 --> 00:25:59,227
+<font color="#00ff00">MAN 1: </font><i>Look down by the stables!
+You two, come with me!</i>
+
+283
+00:26:00,207 --> 00:26:01,709
+<font color="#00ff00">MAN 3: </font><i>Any sign?</i>
+
+284
+00:26:14,922 --> 00:26:16,924
+<font color="#ffc30f">(ALARM SCREECHING)</font>
+
+285
+00:26:17,254 --> 00:26:18,301
+<font color="#00ff00">MAN 4: </font><i>Potter!</i>
+
+286
+00:26:31,371 --> 00:26:32,912
+<font color="#00ff00">OLD MAN: </font>In here, Potter.
+
+287
+00:26:46,503 --> 00:26:47,916
+Did you get a look at him?
+
+288
+00:26:48,630 --> 00:26:51,429
+- For a second, I thought it was...
+- <font color="#00ff00">HERMIONE: </font>I know. Dumbledore.
+
+289
+00:26:51,732 --> 00:26:53,807
+<font color="#ffc30f">(MEN CHATTERING NEARBY)</font>
+
+290
+00:27:08,025 --> 00:27:09,323
+Harry?
+
+291
+00:27:11,403 --> 00:27:13,057
+I can see you in this.
+
+292
+00:27:21,687 --> 00:27:23,245
+<font color="#ffc30f">(DOOR OPENS)</font>
+
+293
+00:27:26,526 --> 00:27:29,362
+You bloody fools.
+What were you thinking coming here?
+
+294
+00:27:29,504 --> 00:27:31,839
+Have you any idea
+how dangerous it is?
+
+295
+00:27:31,965 --> 00:27:35,144
+You're Aberforth,
+Dumbledore's brother.
+
+296
+00:27:36,178 --> 00:27:38,199
+It's you who
+I've been seeing in here.
+
+297
+00:27:38,750 --> 00:27:40,308
+You're the one
+who sent Dobby.
+
+298
+00:27:40,599 --> 00:27:41,896
+Where have you left him?
+
+299
+00:27:42,168 --> 00:27:43,511
+He's dead.
+
+300
+00:27:44,196 --> 00:27:46,121
+Sorry to hear it.
+I liked that elf.
+
+301
+00:27:46,247 --> 00:27:48,566
+- Who gave that to you?
+- The mirror?
+
+302
+00:27:49,704 --> 00:27:52,306
+Mundungus Fletcher,
+about a year ago.
+
+303
+00:27:52,409 --> 00:27:55,121
+- Dung had no right. It belonged to...
+- ABERFORTH: Sirius.
+
+304
+00:27:55,979 --> 00:27:57,761
+Albus told me.
+
+305
+00:27:58,321 --> 00:28:01,345
+He also told me
+you'd likely be hacked off
+
+306
+00:28:01,433 --> 00:28:02,970
+if you ever found out
+I had it...
+
+307
+00:28:03,081 --> 00:28:07,207
+..but ask yourself,
+where would you be if I didn't?
+
+308
+00:28:10,824 --> 00:28:13,308
+Do you hear from the others much?
+From the Order?
+
+309
+00:28:13,674 --> 00:28:15,511
+The Order's finished.
+
+310
+00:28:15,746 --> 00:28:17,230
+You-Know-Who's won.
+
+311
+00:28:17,344 --> 00:28:20,683
+Anyone who says otherwise
+is kidding themselves.
+
+312
+00:28:20,889 --> 00:28:23,363
+We need to get into Hogwarts,
+tonight.
+
+313
+00:28:23,850 --> 00:28:25,464
+Dumbledore gave us
+a job to do.
+
+314
+00:28:25,602 --> 00:28:27,066
+Did he now?
+
+315
+00:28:27,577 --> 00:28:29,910
+Nice job?
+Easy?
+
+316
+00:28:30,635 --> 00:28:32,535
+We've been hunting
+Horcruxes.
+
+317
+00:28:33,277 --> 00:28:35,290
+We think the last one's
+inside the castle,
+
+318
+00:28:35,378 --> 00:28:36,775
+but we'll need help
+getting in.
+
+319
+00:28:36,863 --> 00:28:38,792
+That's not a job
+my brother's given you.
+
+320
+00:28:38,879 --> 00:28:40,597
+It's a suicide mission.
+
+321
+00:28:40,742 --> 00:28:42,988
+Do yourself a favor, boy,
+go home.
+
+322
+00:28:43,222 --> 00:28:44,251
+Live a little longer.
+
+323
+00:28:44,339 --> 00:28:46,121
+Dumbledore trusted me
+to see this through.
+
+324
+00:28:46,209 --> 00:28:48,308
+What makes you think
+you can trust him?
+
+325
+00:28:49,376 --> 00:28:52,033
+You think you can believe anything
+my brother told you?
+
+326
+00:28:52,121 --> 00:28:55,730
+In all the time you knew him,
+did he ever mention my name?
+
+327
+00:28:56,850 --> 00:28:58,566
+Did he ever mention hers?
+
+328
+00:28:59,151 --> 00:29:02,652
+- Why should he...?
+- Keep secrets? You tell me.
+
+329
+00:29:03,849 --> 00:29:06,667
+- I trusted him.
+- That's a boy's answer.
+
+330
+00:29:07,519 --> 00:29:10,707
+A boy who goes chasing Horcruxes
+on the word of a man...
+
+331
+00:29:10,800 --> 00:29:13,626
+..who wouldn't even tell him
+where to start. You're lying!
+
+332
+00:29:14,192 --> 00:29:17,992
+Not just to me, that doesn't matter.
+To yourself as well.
+
+333
+00:29:18,155 --> 00:29:20,071
+That's what a fool does.
+
+334
+00:29:20,310 --> 00:29:24,251
+You don't strike me as a fool,
+Harry Potter.
+
+335
+00:29:24,411 --> 00:29:28,517
+So I'll ask you again.
+There must be a reason.
+
+336
+00:29:31,017 --> 00:29:32,446
+I'm not interested in
+what happened
+
+337
+00:29:32,534 --> 00:29:33,720
+between you
+and your brother.
+
+338
+00:29:35,138 --> 00:29:36,978
+I don't care
+that you've given up.
+
+339
+00:29:39,835 --> 00:29:41,688
+I trusted the man
+I knew.
+
+340
+00:29:45,599 --> 00:29:47,649
+And we need to get into
+the castle tonight.
+
+341
+00:29:53,940 --> 00:29:55,688
+You know what to do.
+
+342
+00:30:02,949 --> 00:30:04,259
+<font color="#00ff00">HARRY: </font>Where have you sent her?
+
+343
+00:30:05,251 --> 00:30:08,345
+You'll see
+soon enough.
+
+344
+00:30:15,136 --> 00:30:17,341
+That's your sister, Ariana,
+isn't it?
+
+345
+00:30:18,757 --> 00:30:20,899
+She died very young,
+didn't she?
+
+346
+00:30:22,552 --> 00:30:26,307
+My brother sacrificed many things,
+Mr. Potter...
+
+347
+00:30:26,480 --> 00:30:28,630
+..on his journey
+to find power...
+
+348
+00:30:29,142 --> 00:30:30,598
+..including Ariana.
+
+349
+00:30:31,812 --> 00:30:33,927
+And she was devoted to him.
+
+350
+00:30:35,212 --> 00:30:36,997
+He gave her everything...
+
+351
+00:30:38,693 --> 00:30:40,036
+..but time.
+
+352
+00:30:41,822 --> 00:30:43,505
+<font color="#00ff00">HERMIONE: </font>Thank you,
+Mr. Dumbledore.
+
+353
+00:30:48,499 --> 00:30:49,700
+<font color="#ffc30f">(DOOR CLOSES)</font>
+
+354
+00:30:51,092 --> 00:30:52,887
+He did save our lives twice.
+
+355
+00:30:54,083 --> 00:30:55,848
+Kept an eye on us
+in that mirror.
+
+356
+00:30:57,629 --> 00:30:59,895
+<font color="#ffc30f">(WHISPERS)</font> That doesn't seem
+like someone who's given up.
+
+357
+00:31:05,767 --> 00:31:07,114
+She's coming back.
+
+358
+00:31:08,643 --> 00:31:09,941
+<font color="#00ff00">RON: </font>Who's that with her?
+
+359
+00:31:18,108 --> 00:31:19,067
+Neville.
+
+360
+00:31:19,155 --> 00:31:21,184
+- Oh, you look...
+- Like hell, I reckon.
+
+361
+00:31:22,066 --> 00:31:24,694
+This is nothing.
+Seamus is worse.
+
+362
+00:31:25,029 --> 00:31:28,075
+Hey, Ab, we've got a couple
+more coming through.
+
+363
+00:31:30,043 --> 00:31:31,881
+<font color="#00ff00">RON: </font>Don't remember this
+on the Marauder's Map.
+
+364
+00:31:31,968 --> 00:31:33,891
+That's because
+it never existed till now.
+
+365
+00:31:34,101 --> 00:31:35,941
+The seven secret passages
+were sealed off
+
+366
+00:31:36,029 --> 00:31:37,348
+before the start of the year.
+
+367
+00:31:37,451 --> 00:31:39,249
+This is the only way
+in or out now.
+
+368
+00:31:39,771 --> 00:31:42,075
+The grounds are crawling with
+Death Eaters and Dementors.
+
+369
+00:31:42,340 --> 00:31:44,058
+<font color="#00ff00">HERMIONE: </font>How bad is Snape
+as headmaster?
+
+370
+00:31:44,146 --> 00:31:45,153
+Hardly ever see him.
+
+371
+00:31:45,241 --> 00:31:46,981
+It's the Carrows you need
+to watch out for.
+
+372
+00:31:47,094 --> 00:31:48,141
+Carrows?
+
+373
+00:31:48,297 --> 00:31:51,012
+Yeah. Brother and sister.
+In charge of discipline.
+
+374
+00:31:51,183 --> 00:31:52,794
+They like punishment,
+the Carrows.
+
+375
+00:31:52,948 --> 00:31:55,005
+<font color="#00ff00">HERMIONE: </font>They did that to you?
+Why?
+
+376
+00:31:55,235 --> 00:31:58,574
+<font color="#00ff00">NEVILLE: </font><i>Today's Dark Arts lessons
+had us practicing the Cruciatus Curse.</i>
+
+377
+00:31:58,938 --> 00:32:00,192
+<i>On first-years.</i>
+
+378
+00:32:01,151 --> 00:32:02,637
+<i>I refused.</i>
+
+379
+00:32:03,778 --> 00:32:05,208
+<i>Hogwarts has changed.</i>
+
+380
+00:32:18,793 --> 00:32:20,667
+Let's have a bit of fun,
+shall we?
+
+381
+00:32:26,384 --> 00:32:29,399
+Hey, listen up, you lot.
+Brought you a surprise.
+
+382
+00:32:29,501 --> 00:32:31,547
+Not more of Aberforth's cooking,
+I hope.
+
+383
+00:32:31,877 --> 00:32:33,735
+Be a surprise if we can digest it.
+
+384
+00:32:36,051 --> 00:32:37,143
+Blimey.
+
+385
+00:32:37,569 --> 00:32:39,954
+- Harry!
+- Yeah!
+
+386
+00:32:52,621 --> 00:32:55,243
+Get the word out to Remus and
+the others that Harry's back.
+
+387
+00:32:55,704 --> 00:32:57,877
+Okay, okay, let's not kill him
+before You-Know-Who...
+
+388
+00:32:57,974 --> 00:32:59,399
+River, D.A. calling.
+Do you read?
+
+389
+00:32:59,487 --> 00:33:01,414
+We have a new weather report.
+Lightning has struck.
+
+390
+00:33:01,501 --> 00:33:02,564
+I repeat
+Lightning has struck.
+
+391
+00:33:02,651 --> 00:33:03,876
+What's the plan, Harry?
+
+392
+00:33:09,687 --> 00:33:10,875
+<font color="#00ff00">HARRY: </font>Okay.
+
+393
+00:33:11,471 --> 00:33:13,266
+There's something
+we need to find.
+
+394
+00:33:13,765 --> 00:33:15,985
+Something hidden here in the castle.
+
+395
+00:33:16,157 --> 00:33:18,157
+And it may help us
+defeat You-Know-Who.
+
+396
+00:33:18,817 --> 00:33:20,615
+Right.
+What is it?
+
+397
+00:33:20,862 --> 00:33:22,034
+We don't know.
+
+398
+00:33:23,984 --> 00:33:26,304
+- <font color="#00ff00">NEVILLE: </font>Where is it?
+- <font color="#00ff00">HARRY: </font>We don't know that either.
+
+399
+00:33:28,280 --> 00:33:30,844
+- I realize it's not much to go on.
+- That's nothing to go on.
+
+400
+00:33:31,658 --> 00:33:33,696
+I think it has something
+to do with Ravenclaw.
+
+401
+00:33:34,154 --> 00:33:39,016
+Um, it'll be... small,
+easily concealed.
+
+402
+00:33:39,763 --> 00:33:41,313
+Anyone, any ideas?
+
+403
+00:33:43,304 --> 00:33:45,807
+Well, there's Rowena
+Ravenclaw's lost diadem.
+
+404
+00:33:45,895 --> 00:33:47,204
+Oh, bloody hell.
+Here we go.
+
+405
+00:33:48,508 --> 00:33:50,290
+<font color="#00ff00">LUNA: </font>Lost diadem
+of Ravenclaw?
+
+406
+00:33:51,268 --> 00:33:54,719
+Hasn't anyone heard of it?
+It's quite famous.
+
+407
+00:33:55,188 --> 00:33:58,618
+Yes, but, Luna, it's lost,
+for centuries now.
+
+408
+00:33:58,760 --> 00:34:01,149
+There isn't a person alive
+today who's seen it.
+
+409
+00:34:01,730 --> 00:34:03,890
+Excuse me. Can someone tell
+me what a bloody diadem is?
+
+410
+00:34:04,019 --> 00:34:07,149
+It's a sort of crown.
+You know, like a tiara.
+
+411
+00:34:07,312 --> 00:34:09,064
+<font color="#ffc30f">(RUMBLING)</font>
+
+412
+00:34:10,080 --> 00:34:11,227
+Harry.
+
+413
+00:34:12,680 --> 00:34:13,899
+Hi there.
+
+414
+00:34:17,120 --> 00:34:19,994
+Six months she hasn't seen me
+and it's like I'm Frankie First-Year.
+
+415
+00:34:20,373 --> 00:34:22,125
+- I'm her brother.
+- Got lots of those.
+
+416
+00:34:22,213 --> 00:34:24,307
+- There's only one Harry.
+- Shut up, Seamus.
+
+417
+00:34:24,753 --> 00:34:26,010
+What is it, Ginny?
+
+418
+00:34:26,382 --> 00:34:27,612
+Snape knows.
+
+419
+00:34:28,026 --> 00:34:30,158
+He knows that
+Harry was spotted in Hogsmeade.
+
+420
+00:34:34,876 --> 00:34:37,072
+<font color="#ffc30f">(GROUP MARCHING)</font>
+
+421
+00:35:09,834 --> 00:35:11,541
+Many of you are
+surely wondering
+
+422
+00:35:11,629 --> 00:35:14,416
+why I have summoned you
+at this hour.
+
+423
+00:35:17,714 --> 00:35:20,752
+It's come to my attention
+that earlier this evening...
+
+424
+00:35:22,865 --> 00:35:25,118
+..Harry Potter was sighted
+in Hogsmeade.
+
+425
+00:35:25,206 --> 00:35:27,088
+<font color="#ffc30f">(MURMURING)</font>
+
+426
+00:35:27,691 --> 00:35:28,838
+Now...
+
+427
+00:35:29,442 --> 00:35:31,244
+..should anyone...
+
+428
+00:35:32,549 --> 00:35:38,143
+..student or staff,
+attempt to aid Mr. Potter...
+
+429
+00:35:39,126 --> 00:35:41,049
+..they will be punished...
+
+430
+00:35:41,311 --> 00:35:46,125
+..in a manner consistent with
+the severity of their transgression.
+
+431
+00:35:46,213 --> 00:35:47,494
+Furthermore...
+
+432
+00:35:48,628 --> 00:35:52,752
+..any person found to have
+knowledge of these events...
+
+433
+00:35:54,634 --> 00:35:58,110
+..who fails
+to come forward...
+
+434
+00:35:59,474 --> 00:36:03,587
+..will be treated
+as...
+
+435
+00:36:04,690 --> 00:36:07,321
+..equally guilty.
+
+436
+00:36:10,173 --> 00:36:11,618
+Now then...
+
+437
+00:36:15,556 --> 00:36:17,501
+..if anyone here...
+
+438
+00:36:18,158 --> 00:36:23,922
+..has any knowledge of
+Mr. Potter's movements this evening...
+
+439
+00:36:26,541 --> 00:36:29,594
+..I invite them to step
+forward...
+
+440
+00:36:33,965 --> 00:36:35,204
+..now.
+
+441
+00:36:46,186 --> 00:36:48,365
+<font color="#ffc30f">(MURMURING)</font>
+
+442
+00:36:50,315 --> 00:36:54,195
+It seems, despite your
+exhaustive defensive strategies...
+
+443
+00:36:54,368 --> 00:36:57,170
+..you still have a bit of
+a security problem, headmaster.
+
+444
+00:37:00,555 --> 00:37:02,486
+And I'm afraid
+it's quite extensive.
+
+445
+00:37:04,287 --> 00:37:06,424
+How dare you stand
+where he stood?
+
+446
+00:37:07,928 --> 00:37:09,713
+Tell them
+how it happened that night.
+
+447
+00:37:10,081 --> 00:37:12,103
+Tell them
+how you looked him in the eye,
+
+448
+00:37:12,191 --> 00:37:14,603
+a man who trusted you,
+and killed him.
+
+449
+00:37:15,215 --> 00:37:16,299
+Tell them.
+
+450
+00:37:34,862 --> 00:37:35,988
+<font color="#ffc30f">(WIZARDS GRUNT)</font>
+
+451
+00:37:41,834 --> 00:37:43,119
+<font color="#00ff00"><font color="#00ff00">MCGONAGALL: </font></font>Coward!
+
+452
+00:37:45,703 --> 00:37:48,206
+<font color="#ffc30f">(STUDENTS CHEERING)</font>
+
+453
+00:37:51,796 --> 00:37:54,408
+<font color="#00ff00"><font color="#00ff00">VOLDEMORT: </font></font>Harry.
+
+454
+00:37:55,302 --> 00:37:56,643
+<font color="#00ff00"><font color="#00ff00">MCGONAGALL: </font></font>Potter?
+
+455
+00:38:06,391 --> 00:38:08,564
+<font color="#ffc30f">(RUMBLING)</font>
+
+456
+00:38:13,648 --> 00:38:15,776
+<font color="#ffc30f">(GIRL 1 SCREAMING)</font>
+
+457
+00:38:20,071 --> 00:38:22,338
+<font color="#ffc30f">(GIRL 2 SCREAMING)</font>
+
+458
+00:38:26,350 --> 00:38:28,908
+<font color="#ffc30f">(GIRL 3 SCREAMING)</font>
+
+459
+00:38:31,171 --> 00:38:36,627
+<font color="#00ff00">VOLDEMORT: </font><i>I know that
+many of you will want to fight.</i>
+
+460
+00:38:36,814 --> 00:38:41,760
+<i>Some of you may even think
+that to fight is wise.</i>
+
+461
+00:38:42,418 --> 00:38:44,674
+<i>But this is folly.</i>
+
+462
+00:38:45,854 --> 00:38:49,057
+<i>Give me Harry Potter.</i>
+
+463
+00:38:49,680 --> 00:38:53,650
+<i>Do this
+and none shall be harmed.</i>
+
+464
+00:38:53,791 --> 00:38:56,674
+<i>Give me Harry Potter</i>
+
+465
+00:38:56,761 --> 00:38:59,924
+<i>and I shall leave
+Hogwarts untouched.</i>
+
+466
+00:39:00,320 --> 00:39:03,244
+Give me Harry Potter...
+
+467
+00:39:03,406 --> 00:39:07,331
+<i>..and you will be rewarded.</i>
+
+468
+00:39:07,596 --> 00:39:10,666
+<i>You have one hour.</i>
+
+469
+00:39:20,840 --> 00:39:22,550
+<font color="#00ff00">PANSY: </font>What are you waiting for?
+
+470
+00:39:22,743 --> 00:39:24,097
+Someone grab him.
+
+471
+00:39:33,269 --> 00:39:35,192
+<font color="#00ff00">FILCH: </font><i>Students out of bed.</i>
+
+472
+00:39:35,980 --> 00:39:38,112
+<i>Students out of bed!</i>
+
+473
+00:39:38,399 --> 00:39:40,063
+Students in the corridor!
+
+474
+00:39:40,151 --> 00:39:42,213
+They are supposed
+to be out of bed,
+
+475
+00:39:42,301 --> 00:39:43,617
+you blithering idiot.
+
+476
+00:39:44,772 --> 00:39:45,878
+Oh.
+
+477
+00:39:46,950 --> 00:39:47,997
+Sorry, ma'am.
+
+478
+00:39:48,085 --> 00:39:51,862
+As it happens, Mr. Filch,
+your arrival is most opportune.
+
+479
+00:39:52,205 --> 00:39:54,549
+If you would,
+I would like you, please...
+
+480
+00:39:54,707 --> 00:39:59,050
+..to lead Miss Parkinson and the
+rest of Slytherin House from the hall.
+
+481
+00:39:59,138 --> 00:40:01,835
+Exactly where is it I'll be
+leading them to, ma'am?
+
+482
+00:40:01,923 --> 00:40:03,831
+The dungeons would do.
+
+483
+00:40:04,781 --> 00:40:06,533
+<font color="#ffc30f">(CHEERING)</font>
+
+484
+00:40:06,803 --> 00:40:09,104
+<font color="#00ff00">FILCH: </font>Right.
+Come on. Come on.
+
+485
+00:40:09,192 --> 00:40:11,782
+I presume you have a reason
+for returning, Potter.
+
+486
+00:40:11,870 --> 00:40:12,909
+What is it you need?
+
+487
+00:40:12,997 --> 00:40:15,886
+Time, professor.
+As much as you can get me.
+
+488
+00:40:16,312 --> 00:40:19,487
+Do what you have to do.
+I'll secure the castle.
+
+489
+00:40:20,678 --> 00:40:21,870
+Potter.
+
+490
+00:40:24,229 --> 00:40:25,815
+It's good to see you.
+
+491
+00:40:26,833 --> 00:40:28,684
+It's good to see you too,
+professor.
+
+492
+00:40:29,877 --> 00:40:31,786
+Hold the fort, Neville.
+
+493
+00:40:32,239 --> 00:40:34,458
+<font color="#ffc30f">(STUDENTS CHATTERING)</font>
+
+494
+00:40:35,478 --> 00:40:37,496
+<font color="#00ff00">GIRL: </font><i>Hurry up,
+come on!</i>
+
+495
+00:40:44,762 --> 00:40:46,435
+<font color="#00ff00">RON: </font>Harry.
+Hermione and I have been thinking.
+
+496
+00:40:46,522 --> 00:40:48,432
+It doesn't matter
+if we find a Horcrux.
+
+497
+00:40:48,520 --> 00:40:50,841
+- What do you mean?
+- Unless we can destroy it.
+
+498
+00:40:51,028 --> 00:40:52,178
+<font color="#00ff00">RON: </font>So we were thinking...
+
+499
+00:40:52,289 --> 00:40:54,841
+Ron was thinking. It was Ron's idea.
+It's brilliant.
+
+500
+00:40:54,984 --> 00:40:57,731
+You destroyed Tom Riddle's diary
+with a basilisk fang, right?
+
+501
+00:40:58,184 --> 00:41:00,544
+Me and Hermione know
+where we might find one.
+
+502
+00:41:00,684 --> 00:41:01,934
+Okay.
+
+503
+00:41:02,606 --> 00:41:04,114
+Okay, but take this.
+
+504
+00:41:04,302 --> 00:41:06,270
+That way you
+can find me when you get back.
+
+505
+00:41:06,458 --> 00:41:08,552
+- Where are you going?
+- Ravenclaw common room.
+
+506
+00:41:08,687 --> 00:41:10,239
+Gotta start somewhere.
+
+507
+00:41:16,317 --> 00:41:19,216
+<font color="#00ff00">LUNA: </font>Harry.
+Harry!
+
+508
+00:41:19,946 --> 00:41:21,614
+Let me get this straight.
+
+509
+00:41:21,701 --> 00:41:23,575
+You're giving us permission
+to do this?
+
+510
+00:41:23,663 --> 00:41:25,540
+That is correct,
+Longbottom.
+
+511
+00:41:25,743 --> 00:41:27,278
+To blow it up?
+Boom?
+
+512
+00:41:27,383 --> 00:41:28,786
+Boom!
+
+513
+00:41:29,020 --> 00:41:32,098
+Wicked. But how on earth
+are we gonna do that?
+
+514
+00:41:32,529 --> 00:41:34,903
+Why don't you confer
+with Mr. Finnigan?
+
+515
+00:41:35,141 --> 00:41:38,807
+As I recall, he has a particular
+proclivity for pyrotechnics.
+
+516
+00:41:38,895 --> 00:41:39,975
+I can bring it down.
+
+517
+00:41:40,063 --> 00:41:41,747
+That's the spirit.
+Now away you go.
+
+518
+00:41:43,316 --> 00:41:44,739
+You do realize,
+of course,
+
+519
+00:41:44,872 --> 00:41:46,846
+we can't keep out
+You-Know-Who indefinitely.
+
+520
+00:41:46,934 --> 00:41:49,255
+<font color="#00ff00">MCGONAGALL: </font>Well, that doesn't mean
+we can't delay him.
+
+521
+00:41:50,656 --> 00:41:55,130
+And his name is Voldemort, Filius.
+You might as well use it.
+
+522
+00:41:55,328 --> 00:41:58,252
+He's going to try to kill you
+either way.
+
+523
+00:42:00,492 --> 00:42:03,911
+Piertotum Locomotor.
+
+524
+00:42:19,164 --> 00:42:20,866
+Hogwarts is threatened.
+
+525
+00:42:20,978 --> 00:42:27,061
+Man the boundaries. Protect us.
+Do your duty to our school.
+
+526
+00:42:30,530 --> 00:42:33,530
+I've always wanted
+to use that spell.
+
+527
+00:42:43,126 --> 00:42:48,126
+Protego Maxima. Fianto Duri.
+Repello lnimicum.
+
+528
+00:42:56,013 --> 00:42:57,194
+Protego Maxima.
+
+529
+00:43:25,795 --> 00:43:28,957
+Harry, wait.
+I need to talk to you.
+
+530
+00:43:29,045 --> 00:43:30,132
+I'm a bit preoccupied
+at the moment, Luna.
+
+531
+00:43:30,219 --> 00:43:31,819
+You won't find anything where
+you're going.
+
+532
+00:43:31,906 --> 00:43:33,053
+You're wasting time.
+
+533
+00:43:33,141 --> 00:43:35,143
+- Look, we'll talk later, okay, Luna?
+- Harry.
+
+534
+00:43:35,231 --> 00:43:36,883
+- Later.
+- Harry Potter!
+
+535
+00:43:36,971 --> 00:43:38,939
+You listen to me right now!
+
+536
+00:43:40,498 --> 00:43:43,678
+Don't you remember what Cho said
+about Rowena Ravenolaw's diadem?
+
+537
+00:43:43,928 --> 00:43:46,569
+"There's not a person alive
+who's seen it."
+
+538
+00:43:47,225 --> 00:43:48,788
+it's obvious, isn't it?
+
+539
+00:43:49,146 --> 00:43:51,662
+We have to talk to someone
+who's dead.
+
+540
+00:44:02,191 --> 00:44:04,170
+It's very impressive,
+isn't it?
+
+541
+00:44:20,306 --> 00:44:22,934
+<i>If you're to find her,
+you'll find her down there.</i>
+
+542
+00:44:23,022 --> 00:44:24,598
+- <font color="#00ff00">HARRY: </font><i>Aren't you coming?</i>
+- <font color="#00ff00">LUNA: </font><i>No.</i>
+
+543
+00:44:24,685 --> 00:44:26,985
+I think it's best
+if you two talk alone.
+
+544
+00:44:27,354 --> 00:44:28,798
+She's very shy.
+
+545
+00:44:56,092 --> 00:44:57,639
+<font color="#00ff00">HARRY: </font>You're the Grey Lady...
+
+546
+00:44:58,291 --> 00:44:59,951
+..the Ghost of
+Ravenclaw Tower.
+
+547
+00:45:00,114 --> 00:45:01,888
+I do not answer
+to that name.
+
+548
+00:45:02,089 --> 00:45:03,849
+No, I'm sorry, I'm sorry.
+
+549
+00:45:04,028 --> 00:45:06,849
+I t's Helena, isn't it?
+Helena Ravenclaw.
+
+550
+00:45:07,240 --> 00:45:08,638
+Rowena's daughter.
+
+551
+00:45:09,341 --> 00:45:11,170
+Are you a friend of
+Luna's?
+
+552
+00:45:11,482 --> 00:45:12,646
+<font color="#00ff00">HARRY: </font>Yes.
+
+553
+00:45:13,402 --> 00:45:15,427
+And she thought
+you might be able to help me.
+
+554
+00:45:17,947 --> 00:45:20,216
+You seek
+my mother's diadem.
+
+555
+00:45:21,962 --> 00:45:23,490
+Yes.
+
+556
+00:45:24,662 --> 00:45:25,873
+That's right.
+
+557
+00:45:27,346 --> 00:45:31,841
+Luna is kind,
+unlike so many of the others.
+
+558
+00:45:32,295 --> 00:45:35,865
+But she was wrong.
+I cannot help you.
+
+559
+00:45:40,065 --> 00:45:41,716
+Wait. Please.
+
+560
+00:45:43,996 --> 00:45:45,873
+I want to destroy it.
+
+561
+00:46:22,345 --> 00:46:24,018
+<font color="#ffc30f">(VOLDEMORT CHUCKLES)</font>
+
+562
+00:46:24,219 --> 00:46:26,087
+<font color="#00ff00">VOLDEMORT: </font>They never learn.
+
+563
+00:46:27,774 --> 00:46:29,258
+Such a pity.
+
+564
+00:46:29,844 --> 00:46:32,548
+But, my Lord...
+
+565
+00:46:33,606 --> 00:46:35,110
+..shouldn't we wait for...?
+
+566
+00:46:35,910 --> 00:46:37,628
+My Lord.
+
+567
+00:46:42,909 --> 00:46:44,204
+Begin.
+
+568
+00:47:03,196 --> 00:47:04,895
+<font color="#ffc30f">(RUMBLING)</font>
+
+569
+00:47:04,983 --> 00:47:07,338
+That's what you want too,
+isn't it, Helena?
+
+570
+00:47:12,892 --> 00:47:14,144
+You want it destroyed.
+
+571
+00:47:14,232 --> 00:47:17,048
+Another swore to destroy
+it many years ago...
+
+572
+00:47:17,720 --> 00:47:20,495
+..a strange boy
+with a strange name.
+
+573
+00:47:20,653 --> 00:47:22,947
+- Tom Riddle.
+- But he lied.
+
+574
+00:47:23,561 --> 00:47:24,733
+He's lied to many people.
+
+575
+00:47:24,821 --> 00:47:28,048
+I know what he's done!
+I know who he is!
+
+576
+00:47:28,285 --> 00:47:31,752
+He defiled it
+with dark magic!
+
+577
+00:47:46,178 --> 00:47:49,666
+<font color="#00ff00">HARRY: </font>I can destroy it
+once and for all.
+
+578
+00:47:51,866 --> 00:47:54,588
+But only if you tell me
+where he hid it.
+
+579
+00:47:56,654 --> 00:48:02,384
+You do know
+where he hid it, don't you, Helena?
+
+580
+00:48:04,000 --> 00:48:05,658
+You just
+have to tell me.
+
+581
+00:48:07,853 --> 00:48:09,291
+Please.
+
+582
+00:48:21,547 --> 00:48:23,140
+Strange.
+
+583
+00:48:26,719 --> 00:48:29,203
+You remind me of him
+a bit.
+
+584
+00:48:31,056 --> 00:48:32,308
+It's here...
+
+585
+00:48:32,975 --> 00:48:37,164
+..in the castle, in the place
+where everything is hidden.
+
+586
+00:48:39,440 --> 00:48:40,862
+If you have to ask...
+
+587
+00:48:40,954 --> 00:48:42,562
+..you will never know.
+
+588
+00:48:44,202 --> 00:48:47,562
+If you know,
+you need only ask.
+
+589
+00:48:49,408 --> 00:48:50,578
+Thank you.
+
+590
+00:48:56,040 --> 00:48:57,852
+<font color="#ffc30f">(STUDENTS CLAMORING)</font>
+
+591
+00:49:03,881 --> 00:49:07,774
+Tell Professor McGONAGALL Remus
+and I will handle this side of the castle.
+
+592
+00:49:08,948 --> 00:49:10,266
+Yes, sir.
+
+593
+00:49:14,070 --> 00:49:17,701
+<font color="#00ff00">SHACKLEBOLT: </font>Hey, Dean, on second
+thoughts, tell Professor McGONAGALL...
+
+594
+00:49:17,789 --> 00:49:20,438
+...we might need one or
+two more wands this side.
+
+595
+00:49:22,391 --> 00:49:25,699
+<font color="#00ff00">REMUS: </font>It is the quality of one's
+convictions that determines success...
+
+596
+00:49:25,787 --> 00:49:27,539
+..not the number of followers.
+
+597
+00:49:27,987 --> 00:49:29,130
+Who said that?
+
+598
+00:49:30,282 --> 00:49:31,520
+Me.
+
+599
+00:49:36,543 --> 00:49:38,051
+You okay, Freddie?
+
+600
+00:49:38,822 --> 00:49:40,020
+Yeah.
+
+601
+00:49:41,707 --> 00:49:43,020
+Me too.
+
+602
+00:49:51,887 --> 00:49:54,140
+<font color="#ffff00"><i>Speaking in Parseltongue...</i></font>
+
+603
+00:50:00,580 --> 00:50:03,652
+Harry talks in his sleep.
+Have you noticed?
+
+604
+00:50:05,052 --> 00:50:06,597
+No, of course not.
+
+605
+00:50:33,304 --> 00:50:35,847
+<font color="#ffc30f">(YELLING AND SCREAMING IN DISTANCE)</font>
+
+606
+00:50:54,700 --> 00:50:55,957
+Yeah?
+
+607
+00:50:56,535 --> 00:50:58,098
+You and whose army?
+
+608
+00:51:18,168 --> 00:51:20,150
+- You do it.
+- I can't.
+
+609
+00:51:20,238 --> 00:51:21,863
+Yes, you can.
+
+610
+00:51:49,713 --> 00:51:51,431
+<font color="#ffc30f">(YELLS)</font>
+
+611
+00:51:52,372 --> 00:51:53,736
+<font color="#ffc30f">(GASPS)</font>
+
+612
+00:52:33,524 --> 00:52:34,618
+<font color="#ffc30f">(BOTH CHUCKLE)</font>
+
+613
+00:52:35,784 --> 00:52:36,784
+<font color="#ffc30f">(WAILS)</font>
+
+614
+00:52:40,581 --> 00:52:42,583
+<font color="#ffc30f">(RUMBLING)</font>
+
+615
+00:53:00,370 --> 00:53:01,537
+<font color="#ffc30f">(GRUNTS)</font>
+
+616
+00:53:55,088 --> 00:53:57,275
+<font color="#ffc30f">(YELLING)</font>
+
+617
+00:54:20,239 --> 00:54:21,527
+<font color="#00ff00">GINNY: </font>Neville!
+
+618
+00:54:34,378 --> 00:54:36,176
+<font color="#ffc30f">(PANTING)</font>
+
+619
+00:54:39,049 --> 00:54:40,298
+That went well.
+
+620
+00:55:26,931 --> 00:55:31,518
+<font color="#00ff00">MCGONAGALL: </font><i>Get inside!
+This way, everyone. Take cover!</i>
+
+621
+00:55:44,990 --> 00:55:46,537
+<font color="#ffc30f">(SCREAMING)</font>
+
+622
+00:55:48,718 --> 00:55:50,295
+<font color="#00ff00">HARRY: </font>Stupefy!
+
+623
+00:55:51,918 --> 00:55:53,420
+Get your coat on!
+
+624
+00:55:53,616 --> 00:55:56,850
+Ginny. Neville.
+Are you all right?
+
+625
+00:55:56,952 --> 00:55:59,873
+Never better.
+I feel like I could spit fire.
+
+626
+00:55:59,990 --> 00:56:01,334
+You haven't seen Luna,
+have you?
+
+627
+00:56:01,563 --> 00:56:03,506
+- Luna?
+- I'm mad for her!
+
+628
+00:56:03,682 --> 00:56:05,167
+I think it's about time
+I told her since
+
+629
+00:56:05,254 --> 00:56:07,260
+we'll probably both
+be dead by dawn.
+
+630
+00:56:11,839 --> 00:56:13,182
+I know.
+
+631
+00:56:18,716 --> 00:56:20,466
+<font color="#ffc30f">(DRACO GRUNTS)</font>
+
+632
+00:56:41,505 --> 00:56:43,927
+Bloody hell.
+We'll never find it on this.
+
+633
+00:56:44,257 --> 00:56:46,931
+- There he is, just there.
+- <font color="#00ff00">RON: </font>Brilliant.
+
+634
+00:56:47,039 --> 00:56:50,339
+He just vanished.
+Just now. I saw it.
+
+635
+00:56:50,555 --> 00:56:52,474
+<font color="#ffc30f">(RUMBLING)</font>
+
+636
+00:56:53,650 --> 00:56:55,269
+Maybe he's gone to the
+Room no one.
+
+637
+00:56:55,481 --> 00:56:58,317
+It doesn't show up on the map, does it?
+You said that last year.
+
+638
+00:56:59,296 --> 00:57:01,015
+That's right.
+I... I did.
+
+639
+00:57:01,817 --> 00:57:03,101
+Let's go.
+
+640
+00:57:04,133 --> 00:57:05,366
+Brilliant.
+
+641
+00:57:11,505 --> 00:57:12,679
+<font color="#00ff00">DRACO: </font>Come on!
+
+642
+00:58:11,136 --> 00:58:13,639
+<font color="#ffc30f">(VOICES WHISPERING)</font>
+
+643
+00:58:16,224 --> 00:58:18,477
+<font color="#ffc30f">(HIGH-PITCHED RINGING)</font>
+
+644
+00:59:05,062 --> 00:59:06,405
+<font color="#00ff00">DRACO: </font>Well, well.
+
+645
+00:59:07,442 --> 00:59:09,536
+What brings you here,
+Potter?
+
+646
+00:59:10,362 --> 00:59:11,663
+I could ask you the same.
+
+647
+00:59:12,698 --> 00:59:14,272
+You have something
+of mine.
+
+648
+00:59:15,726 --> 00:59:16,944
+I'd like it back.
+
+649
+00:59:17,032 --> 00:59:19,718
+- What's wrong with the one you have?
+- DRACO: It's my mother's.
+
+650
+00:59:19,909 --> 00:59:23,155
+It's powerful, but it's
+not the same.
+
+651
+00:59:24,033 --> 00:59:27,046
+Doesn't quite understand me.
+
+652
+00:59:28,037 --> 00:59:29,505
+Know what I mean?
+
+653
+00:59:30,121 --> 00:59:31,459
+Why didn't you tell her?
+
+654
+00:59:33,742 --> 00:59:34,959
+Bellatrix.
+
+655
+00:59:38,329 --> 00:59:42,101
+You knew it was me.
+You didn't say anything.
+
+656
+00:59:42,789 --> 00:59:47,254
+Come on, Draco.
+Don't be a prat. Do him.
+
+657
+00:59:48,730 --> 00:59:50,051
+<font color="#00ff00">DRACO: </font>Easy.
+
+658
+00:59:51,452 --> 00:59:52,749
+Expelliarmus.
+
+659
+00:59:53,029 --> 00:59:54,076
+Avada Kedavra!
+
+660
+00:59:54,164 --> 00:59:55,317
+Stupefy!
+
+661
+00:59:58,234 --> 00:59:59,451
+<font color="#ffc30f">(YELLS)</font>
+
+662
+00:59:59,539 --> 01:00:02,138
+<font color="#00ff00">RON: </font>That's my girlfriend,
+you numpties!
+
+663
+01:00:04,416 --> 01:00:06,589
+<font color="#ffc30f">(HARRY PANTING AND COUGHING)</font>
+
+664
+01:00:10,881 --> 01:00:12,508
+<font color="#ffc30f">(CHATTERING)</font>
+
+665
+01:00:12,674 --> 01:00:14,426
+<font color="#ffc30f">(SCREECHING)</font>
+
+666
+01:00:24,257 --> 01:00:25,422
+<font color="#00ff00">HARRY: </font>Got it.
+
+667
+01:00:32,777 --> 01:00:34,120
+<font color="#00ff00">RON: </font><i>Run!</i>
+
+668
+01:00:35,347 --> 01:00:36,564
+<i>Run!</i>
+
+669
+01:00:36,922 --> 01:00:38,753
+<font color="#ffc30f">(RON SCREAMING)</font>
+
+670
+01:00:40,619 --> 01:00:43,463
+Goyle's setting the bloody place on fire!
+
+671
+01:01:05,101 --> 01:01:06,569
+<font color="#ffc30f">(ROARS)</font>
+
+672
+01:01:44,628 --> 01:01:46,252
+<font color="#ffc30f">(SCREAMS)</font>
+
+673
+01:01:50,174 --> 01:01:51,932
+Come on!
+This way!
+
+674
+01:01:59,698 --> 01:02:01,393
+We can't leave them.
+
+675
+01:02:01,866 --> 01:02:03,272
+He's joking, right?
+
+676
+01:02:12,711 --> 01:02:15,834
+If we die for them,
+Harry, I'm gonna kill you.
+
+677
+01:02:31,313 --> 01:02:32,735
+<font color="#ffc30f">(GRUNTING)</font>
+
+678
+01:02:38,236 --> 01:02:39,337
+<font color="#00ff00">HERMIONE: </font>Harry!
+
+679
+01:02:55,570 --> 01:02:57,088
+<font color="#ffc30f">(HISSES)</font>
+
+680
+01:02:58,631 --> 01:03:01,259
+<font color="#ffc30f">(PANTING AND GROANING)</font>
+
+681
+01:03:26,326 --> 01:03:27,578
+My Lord?
+
+682
+01:03:27,777 --> 01:03:30,326
+Avada Kedavra!
+
+683
+01:03:36,583 --> 01:03:40,452
+Come, Nagini.
+I need to keep you safe.
+
+684
+01:03:42,156 --> 01:03:43,397
+<font color="#ffc30f">(PANTING)</font>
+
+685
+01:03:53,311 --> 01:03:54,670
+<font color="#00ff00">HARRY: </font>It's the snake.
+
+686
+01:03:55,313 --> 01:03:58,678
+She's the last one.
+It's the last Horcrux.
+
+687
+01:04:05,599 --> 01:04:07,045
+<font color="#00ff00">RON: </font>Look inside him, Harry.
+
+688
+01:04:08,234 --> 01:04:11,896
+Find out where he is.
+If we find him, we can find the snake.
+
+689
+01:04:12,122 --> 01:04:13,553
+Then we can end this.
+
+690
+01:04:41,950 --> 01:04:43,113
+<font color="#00ff00">LUCIUS: </font>My Lord?
+
+691
+01:04:44,036 --> 01:04:47,708
+Might it be less, uh...
+
+692
+01:04:48,491 --> 01:04:52,224
+Might it not be more prudent
+to call off this attack...
+
+693
+01:04:53,170 --> 01:04:55,758
+..and simply seek the boy
+yourself?
+
+694
+01:04:56,038 --> 01:04:59,273
+<font color="#00ff00">VOLDEMORT: </font>I do not need
+to seek the boy.
+
+695
+01:04:59,450 --> 01:05:02,693
+Before the night is out,
+he will come to me.
+
+696
+01:05:02,781 --> 01:05:04,117
+Do you understand?
+
+697
+01:05:05,586 --> 01:05:07,414
+Look at me.
+
+698
+01:05:07,974 --> 01:05:11,340
+How can you live with yourself,
+Lucius?
+
+699
+01:05:12,032 --> 01:05:13,332
+I don't know.
+
+700
+01:05:16,012 --> 01:05:18,129
+Go and find Severus.
+
+701
+01:05:19,118 --> 01:05:20,793
+Bring him to me.
+
+702
+01:05:29,255 --> 01:05:30,676
+I know where he is.
+
+703
+01:05:40,960 --> 01:05:42,381
+<font color="#00ff00">OLIVER: </font>Come on!
+
+704
+01:05:56,518 --> 01:05:58,041
+<font color="#ffc30f">(YELLS)</font>
+
+705
+01:06:03,441 --> 01:06:05,489
+<font color="#ffc30f">(GRUNTING)</font>
+
+706
+01:06:15,826 --> 01:06:17,529
+<font color="#ffc30f">(SPIDERS SQUEAKING)</font>
+
+707
+01:06:23,127 --> 01:06:24,619
+<font color="#00ff00">BOY: </font>Crucio!
+
+708
+01:06:30,531 --> 01:06:31,664
+<font color="#00ff00">HERMIONE: </font>No!
+
+709
+01:07:18,558 --> 01:07:21,962
+<font color="#00ff00">SNAPE: </font>You have performed extraordinary
+magic with this wand, my Lord...
+
+710
+01:07:22,050 --> 01:07:24,026
+..in the last few hours alone.
+
+711
+01:07:24,234 --> 01:07:25,573
+<font color="#00ff00">VOLDEMORT: </font>No.
+
+712
+01:07:26,313 --> 01:07:29,613
+No, I am extraordinary...
+
+713
+01:07:29,782 --> 01:07:33,412
+..but the wand
+resists me.
+
+714
+01:07:33,507 --> 01:07:36,503
+<font color="#00ff00">SNAPE: </font>There is no wand
+more powerful.
+
+715
+01:07:37,112 --> 01:07:39,276
+Ollivander himself has said it.
+
+716
+01:07:39,807 --> 01:07:45,166
+Tonight, when the boy comes,
+it will not fail you. I am sure of it.
+
+717
+01:07:47,545 --> 01:07:49,846
+It answers to you...
+
+718
+01:07:51,215 --> 01:07:53,800
+..and you
+only.
+
+719
+01:07:54,302 --> 01:07:55,596
+Does it?
+
+720
+01:07:58,720 --> 01:08:00,089
+My Lord?
+
+721
+01:08:02,644 --> 01:08:06,471
+The wand,
+does it truly answer to me?
+
+722
+01:08:08,725 --> 01:08:10,853
+You're a clever man,
+Severus.
+
+723
+01:08:11,027 --> 01:08:12,768
+Surely you must know.
+
+724
+01:08:14,590 --> 01:08:17,659
+Where does its true loyalty
+lie?
+
+725
+01:08:18,756 --> 01:08:20,057
+<font color="#00ff00">SNAPE:</font>
+With you...
+
+726
+01:08:21,079 --> 01:08:23,034
+..of course,
+my Lord.
+
+727
+01:08:23,373 --> 01:08:24,971
+<font color="#00ff00">VOLDEMORT: </font>The Elder Wand...
+
+728
+01:08:25,328 --> 01:08:27,925
+..cannot serve me properly,
+because,
+
+729
+01:08:28,440 --> 01:08:30,815
+I'm not
+its true master.
+
+730
+01:08:32,145 --> 01:08:37,011
+The Elder Wand belongs to the wizard
+who killed its last owner.
+
+731
+01:08:43,700 --> 01:08:46,409
+You killed Dumbledore,
+Severus.
+
+732
+01:08:48,231 --> 01:08:52,823
+While you live,
+the Elder Wand cannot truly be mine.
+
+733
+01:08:54,946 --> 01:08:58,511
+You've been a good and
+faithful servant, Severus...
+
+734
+01:08:59,200 --> 01:09:03,612
+..but only I can live
+forever.
+
+735
+01:09:07,583 --> 01:09:08,815
+My Lord...
+
+736
+01:09:11,796 --> 01:09:13,175
+<font color="#ffc30f">(THUDS)</font>
+
+737
+01:09:14,584 --> 01:09:16,659
+<font color="#00ff00">VOLDEMORT: </font>Nagini, kill.
+
+738
+01:09:25,392 --> 01:09:27,941
+<font color="#ffc30f">(SNAPE GASPING)</font>
+
+739
+01:10:17,394 --> 01:10:18,705
+<font color="#00ff00">SNAPE: </font>Take them.
+
+740
+01:10:20,499 --> 01:10:22,314
+Take them.
+
+741
+01:10:23,236 --> 01:10:24,704
+Please.
+
+742
+01:10:24,989 --> 01:10:28,710
+Give me something.
+Quickly. A flask, anything.
+
+743
+01:10:47,002 --> 01:10:48,806
+<font color="#00ff00">SNAPE: </font>Take them to the Pensieve.
+
+744
+01:10:52,049 --> 01:10:53,423
+Look at me.
+
+745
+01:10:59,804 --> 01:11:01,907
+You have your mother's eyes.
+
+746
+01:11:10,438 --> 01:11:11,899
+<font color="#ffc30f">(SIGHS)</font>
+
+747
+01:11:36,255 --> 01:11:39,481
+<font color="#00ff00">VOLDEMORT: </font><i>You have fought valiantly...</i>
+
+748
+01:11:41,155 --> 01:11:43,020
+<i>...but in vain.</i>
+
+749
+01:11:47,243 --> 01:11:49,442
+<i>I do not wish this.</i>
+
+750
+01:11:49,583 --> 01:11:55,247
+<i>Every drop of magical blood
+spilled is a terrible waste.</i>
+
+751
+01:11:55,453 --> 01:11:59,571
+<i>I therefore command
+my forces to retreat.</i>
+
+752
+01:12:00,110 --> 01:12:05,662
+<i>In their absence,
+dispose of your dead with dignity.</i>
+
+753
+01:12:06,219 --> 01:12:12,272
+<i>Harry Potter,
+I now speak directly to you.</i>
+
+754
+01:12:12,560 --> 01:12:17,942
+<i>On this night, you have allowed
+your friends to die for you...</i>
+
+755
+01:12:18,107 --> 01:12:20,610
+<i>...rather than face me yourself.</i>
+
+756
+01:12:20,768 --> 01:12:23,914
+<i>There is no greater dishonor.</i>
+
+757
+01:12:24,043 --> 01:12:29,409
+<i>Join me in the Forbidden Forest
+and confront your fate.</i>
+
+758
+01:12:30,703 --> 01:12:33,260
+<i>If you do not do this...</i>
+
+759
+01:12:33,450 --> 01:12:40,129
+<i>...I shall kill
+every last man, woman and child...</i>
+
+760
+01:12:40,323 --> 01:12:44,479
+<i>...who tries to conceal you
+from me.</i>
+
+761
+01:13:04,439 --> 01:13:05,918
+<font color="#00ff00">HERMIONE: </font>Where is everybody?
+
+762
+01:13:31,346 --> 01:13:32,456
+Harry.
+
+763
+01:13:38,172 --> 01:13:40,768
+<font color="#00ff00">SPROUT:</font> Oh, come on.
+What's the matter with you?
+
+764
+01:13:40,856 --> 01:13:42,676
+<font color="#00ff00">TRELAWNEY: </font>Oh, she's passed.
+
+765
+01:13:44,276 --> 01:13:46,095
+There, she's gone.
+
+766
+01:13:54,745 --> 01:13:56,689
+<font color="#ffc30f">(SOBBING)</font>
+
+767
+01:15:55,274 --> 01:15:56,460
+<font color="#00ff00">PETUNIA: </font><i>Freak!</i>
+
+768
+01:15:56,548 --> 01:15:57,757
+<i>Come here.</i>
+
+769
+01:15:58,063 --> 01:16:00,616
+I'm gonna tell Mummy. You're a freak.
+
+770
+01:16:00,710 --> 01:16:02,491
+You're a freak, Lily!
+
+771
+01:16:02,579 --> 01:16:04,206
+Come here.
+
+772
+01:16:25,813 --> 01:16:29,113
+<font color="#00ff00">SNAPE: </font><i>She's jealous because
+she's ordinary and you're special.</i>
+
+773
+01:16:29,275 --> 01:16:31,319
+<font color="#00ff00">LILY:</font> That's mean, Severus.
+
+774
+01:16:45,791 --> 01:16:47,647
+<font color="#ffc30f">(LILY LAUGHING)</font>
+
+775
+01:16:54,586 --> 01:16:56,680
+<font color="#00ff00">SORTING HAT: </font>Gryffindor!
+
+776
+01:16:56,886 --> 01:16:59,053
+<font color="#ffc30f">(STUDENTS APPLAUDING)</font>
+
+777
+01:17:04,268 --> 01:17:07,192
+- Hi. I'm James.
+- Hi. I'm Lily.
+
+778
+01:17:11,555 --> 01:17:15,553
+<font color="#00ff00">SNAPE: </font><i>Just like your father.
+Lazy. Arrogant.</i>
+
+779
+01:17:15,641 --> 01:17:17,814
+<font color="#00ff00">HARRY: </font><i>Don't say a
+word against my father.</i>
+
+780
+01:17:24,525 --> 01:17:25,939
+<font color="#00ff00">TRELAWNEY:</font> Blood shall be spilt...
+
+781
+01:17:26,049 --> 01:17:30,962
+..and servant and master
+shall be reunited once more.
+
+782
+01:17:31,128 --> 01:17:33,051
+<font color="#00ff00">VOLDEMORT: </font><i>Severus.</i>
+
+783
+01:17:34,005 --> 01:17:35,892
+<font color="#00ff00">SNAPE:</font> <i>No. Don't kill me.</i>
+
+784
+01:17:36,417 --> 01:17:38,924
+<font color="#00ff00">DUMBLEDORE: </font><i>The prophecy
+did not refer to a woman.</i>
+
+785
+01:17:40,249 --> 01:17:42,635
+It spoke of a boy born
+at the end of July.
+
+786
+01:17:42,723 --> 01:17:44,976
+Yes, but he thinks
+it's her son.
+
+787
+01:17:45,512 --> 01:17:48,174
+He intends to hunt them down now,
+to kill them.
+
+788
+01:17:48,763 --> 01:17:52,963
+Hide her.
+Hide them all. I beg you.
+
+789
+01:17:53,331 --> 01:17:56,541
+<font color="#00ff00">DUMBLEDORE: </font>What will you
+give me in exchange, Severus?
+
+790
+01:17:58,256 --> 01:17:59,303
+Anything.
+
+791
+01:17:59,391 --> 01:18:04,713
+<font color="#00ff00">LILY: </font>Harry. Harry, you
+are so loved. So loved.
+
+792
+01:18:05,281 --> 01:18:07,487
+Harry, Mama loves you.
+
+793
+01:18:07,852 --> 01:18:10,049
+Dada loves you.
+
+794
+01:18:11,759 --> 01:18:13,761
+Harry, be safe.
+
+795
+01:18:13,982 --> 01:18:15,029
+Be strong.
+
+796
+01:18:15,117 --> 01:18:16,791
+<font color="#00ff00">VOLDEMORT: </font>Avada Kedavra!
+
+797
+01:18:16,879 --> 01:18:18,677
+<font color="#ffc30f">(SCREAMS)</font>
+
+798
+01:18:21,105 --> 01:18:25,948
+<font color="#00ff00">SNAPE: </font>You said
+you would keep her safe.
+
+799
+01:18:26,036 --> 01:18:30,229
+<font color="#00ff00">DUMBLEDORE: </font>Lily and James put their
+faith in the wrong person, Severus.
+
+800
+01:18:31,091 --> 01:18:32,448
+Rather like you.
+
+801
+01:18:35,288 --> 01:18:36,541
+The boy survives.
+
+802
+01:18:36,629 --> 01:18:39,183
+He doesn't need protection.
+The Dark Lord is gone.
+
+803
+01:18:39,271 --> 01:18:41,082
+The Dark Lord will return.
+
+804
+01:18:41,824 --> 01:18:44,738
+And when he does,
+the boy will be in terrible danger.
+
+805
+01:18:46,468 --> 01:18:48,082
+He has her eyes.
+
+806
+01:18:52,337 --> 01:18:54,660
+If you truly loved her...
+
+807
+01:18:58,257 --> 01:19:02,103
+No one
+can know.
+
+808
+01:19:02,259 --> 01:19:04,779
+<font color="#00ff00">DUMBLEDORE:</font> <i>That I should never
+reveal the best of you, Severus?</i>
+
+809
+01:19:04,930 --> 01:19:05,977
+<font color="#00ff00">SNAPE: </font><i>Your word.</i>
+
+810
+01:19:06,147 --> 01:19:09,050
+<font color="#00ff00">DUMBLEDORE:</font> <i>When you risk your
+life every day to protect the boy?</i>
+
+811
+01:19:09,171 --> 01:19:10,871
+<font color="#00ff00">SNAPE: </font><i>He possesses
+no measurable talent,</i>
+
+812
+01:19:10,959 --> 01:19:12,955
+<i>his arrogance rivals
+that of his father...</i>
+
+813
+01:19:13,043 --> 01:19:14,815
+<i>...and he seems
+to relish his fame.</i>
+
+814
+01:19:14,982 --> 01:19:17,339
+<font color="#00ff00">HARRY: </font><i>Don't say a
+word against my father.</i>
+
+815
+01:19:17,979 --> 01:19:19,621
+<font color="#00ff00">SNAPE:</font> <i>James Potter?</i>
+
+816
+01:19:20,012 --> 01:19:21,879
+<i>Lazy, arrogant.</i>
+
+817
+01:19:22,094 --> 01:19:23,437
+<font color="#00ff00">HARRY: </font><i>My father was a great man.</i>
+
+818
+01:19:23,525 --> 01:19:25,472
+Your father was a swine!
+
+819
+01:19:27,293 --> 01:19:28,722
+<font color="#00ff00">SNAPE:</font> <i>Drink the rest.</i>
+
+820
+01:19:28,987 --> 01:19:32,760
+<i>It will contain the curse to
+your hand for the time being.</i>
+
+821
+01:19:33,216 --> 01:19:34,941
+<i>It will spread, Albus.</i>
+
+822
+01:19:35,419 --> 01:19:36,949
+<font color="#00ff00">DUMBLEDORE: </font><i>How long?</i>
+
+823
+01:19:38,321 --> 01:19:39,782
+<font color="#00ff00">SNAPE:</font> Maybe a year.
+
+824
+01:19:42,760 --> 01:19:44,006
+Don't ignore me, Severus.
+
+825
+01:19:44,094 --> 01:19:45,596
+<font color="#00ff00">DRACO: </font>Harmonia Nectere Passus.
+
+826
+01:19:45,763 --> 01:19:50,275
+We both know Lord Voldemort has
+ordered the Malfoy boy to murder me.
+
+827
+01:19:51,723 --> 01:19:56,143
+But should he fail,
+one should presume the Dark Lord...
+
+828
+01:19:56,231 --> 01:19:58,314
+..will turn to you.
+
+829
+01:20:01,047 --> 01:20:04,689
+You must be the one to kill me,
+Severus.
+
+830
+01:20:05,120 --> 01:20:07,064
+It is the only way.
+
+831
+01:20:08,193 --> 01:20:12,573
+Only then will the Dark
+Lord trust you completely.
+
+832
+01:20:12,818 --> 01:20:15,150
+<font color="#00ff00">SNAPE:</font> Avada Kedavra.
+
+833
+01:20:18,679 --> 01:20:22,884
+<font color="#00ff00">DUMBLEDORE:</font> <i>There will come a time
+when Harry Potter must be told something.</i>
+
+834
+01:20:25,177 --> 01:20:30,494
+But you must wait until Voldemort
+is at his most vulnerable.
+
+835
+01:20:30,641 --> 01:20:32,830
+Must be told what?
+
+836
+01:20:34,009 --> 01:20:35,798
+<font color="#00ff00">DUMBLEDORE: </font>On the
+night Lord Voldemort...
+
+837
+01:20:35,938 --> 01:20:38,251
+..went to Godric's Hollow
+to kill Harry...
+
+838
+01:20:40,173 --> 01:20:42,861
+..and Lily Potter cast
+herself between them...
+
+839
+01:20:43,654 --> 01:20:45,577
+..the curse rebounded.
+
+840
+01:20:47,280 --> 01:20:50,720
+When that happened, a
+part of Voldemort's soul...
+
+841
+01:20:50,902 --> 01:20:55,376
+..latched itself onto the only
+living thing it could find:
+
+842
+01:20:55,939 --> 01:20:57,830
+Harry himself.
+
+843
+01:20:59,560 --> 01:21:03,033
+There's a reason Harry
+can speak with snakes.
+
+844
+01:21:03,525 --> 01:21:07,033
+There's a reason he can look
+into Lord Voldemort's mind.
+
+845
+01:21:08,854 --> 01:21:15,025
+A part
+of Voldemort lives inside him.
+
+846
+01:21:21,358 --> 01:21:23,400
+So when the time comes...
+
+847
+01:21:25,195 --> 01:21:27,306
+..the boy must die?
+
+848
+01:21:29,283 --> 01:21:31,331
+Yes. Yes.
+
+849
+01:21:31,782 --> 01:21:33,322
+He must die.
+
+850
+01:21:52,055 --> 01:21:56,172
+You've kept him alive so that he
+can die at the proper moment.
+
+851
+01:22:00,447 --> 01:22:03,515
+You've been raising him
+like a pig for slaughter.
+
+852
+01:22:04,305 --> 01:22:08,054
+Don't tell me now
+that you've grown to care for the boy?
+
+853
+01:22:13,243 --> 01:22:16,672
+<font color="#00ff00">SNAPE: </font>Expecto Patronum.
+
+854
+01:22:27,392 --> 01:22:28,648
+Lily.
+
+855
+01:22:32,116 --> 01:22:33,718
+After all this time?
+
+856
+01:22:37,935 --> 01:22:39,107
+Always.
+
+857
+01:22:45,295 --> 01:22:47,367
+So when the time comes...
+
+858
+01:22:48,554 --> 01:22:50,742
+..the boy must die?
+
+859
+01:22:51,416 --> 01:22:54,795
+Yes. He must die.
+
+860
+01:22:55,118 --> 01:22:57,625
+And Voldemort
+himself must do it.
+
+861
+01:22:58,554 --> 01:23:00,360
+That is essential.
+
+862
+01:24:05,772 --> 01:24:07,004
+<font color="#00ff00">HERMIONE: </font>Where've you been?
+
+863
+01:24:07,092 --> 01:24:09,748
+- We thought you went to the forest.
+- I'm going there now.
+
+864
+01:24:10,273 --> 01:24:12,631
+<font color="#00ff00">RON: </font>Are you mad? No.
+
+865
+01:24:13,960 --> 01:24:15,928
+You can't give yourself
+up to him.
+
+866
+01:24:19,713 --> 01:24:21,357
+<font color="#00ff00">HERMIONE: </font>What is it, Harry?
+
+867
+01:24:23,238 --> 01:24:24,756
+What is it you know?
+
+868
+01:24:27,895 --> 01:24:30,006
+There's a reason
+I can hear them...
+
+869
+01:24:31,183 --> 01:24:32,506
+..the Horcruxes.
+
+870
+01:24:34,880 --> 01:24:36,787
+I think I've known
+or a while.
+
+871
+01:24:38,724 --> 01:24:40,451
+And I think you have too.
+
+872
+01:24:44,010 --> 01:24:46,637
+- I'll go with you.
+- No, kill the snake.
+
+873
+01:24:47,820 --> 01:24:49,896
+Kill the snake
+and then it's just him.
+
+874
+01:26:10,272 --> 01:26:11,693
+I'm ready to die.
+
+875
+01:26:53,607 --> 01:26:55,560
+The Resurrection Stone.
+
+876
+01:27:25,722 --> 01:27:28,331
+You've been so brave,
+sweetheart.
+
+877
+01:27:33,055 --> 01:27:34,932
+Why are you here?
+
+878
+01:27:35,763 --> 01:27:37,307
+All of you?
+
+879
+01:27:39,942 --> 01:27:41,612
+We never left.
+
+880
+01:27:50,948 --> 01:27:52,268
+Does it...?
+
+881
+01:27:53,360 --> 01:27:54,737
+Does it hurt'?
+
+882
+01:27:55,634 --> 01:27:57,065
+Dying?
+
+883
+01:27:58,255 --> 01:28:00,237
+Quicker than falling asleep.
+
+884
+01:28:04,507 --> 01:28:06,408
+You're nearly there, son.
+
+885
+01:28:06,992 --> 01:28:08,209
+<font color="#00ff00">HARRY: </font>I'm sorry.
+
+886
+01:28:08,564 --> 01:28:11,464
+I never wanted
+any of you to die for me.
+
+887
+01:28:13,512 --> 01:28:15,260
+And, Remus, your son...
+
+888
+01:28:15,366 --> 01:28:18,612
+Others will tell him what his
+mother and father died for.
+
+889
+01:28:19,860 --> 01:28:22,698
+One day, he'll understand.
+
+890
+01:28:34,997 --> 01:28:36,534
+You'll stay with me?
+
+891
+01:28:38,169 --> 01:28:39,737
+Until the end.
+
+892
+01:28:41,052 --> 01:28:42,823
+And he won't be able
+to see you?
+
+893
+01:28:43,174 --> 01:28:44,542
+<font color="#00ff00">SIRIUS: </font>No.
+
+894
+01:28:46,166 --> 01:28:48,026
+We're here, you see.
+
+895
+01:29:03,403 --> 01:29:04,871
+Stay close to me.
+
+896
+01:29:07,157 --> 01:29:08,418
+Always.
+
+897
+01:29:24,090 --> 01:29:27,845
+<font color="#00ff00">DEATH EATER: </font>No sign of him,
+my Lord.
+
+898
+01:29:43,276 --> 01:29:45,408
+<font color="#00ff00">VOLDEMORT: </font>I thought he would come.
+
+899
+01:30:26,769 --> 01:30:30,643
+Harry?
+No! What are you doing here?
+
+900
+01:30:30,740 --> 01:30:32,037
+Quiet!
+
+901
+01:30:42,934 --> 01:30:44,777
+Harry Potter.
+
+902
+01:30:48,543 --> 01:30:50,848
+The Boy Who Lived.
+
+903
+01:30:55,262 --> 01:30:56,949
+Come to die.
+
+904
+01:31:15,923 --> 01:31:17,641
+Avada Kedavra!
+
+905
+01:32:00,914 --> 01:32:03,008
+<font color="#ffc30f">(MAN BREATHING FAINTLY)</font>
+
+906
+01:32:14,149 --> 01:32:17,673
+<font color="#00ff00">DUMBLEDORE:</font> You can't help.
+Harry...
+
+907
+01:32:18,176 --> 01:32:19,974
+..you wonderful boy.
+
+908
+01:32:21,227 --> 01:32:24,141
+You brave, brave man.
+
+909
+01:32:26,968 --> 01:32:28,524
+Let us walk.
+
+910
+01:32:36,449 --> 01:32:38,063
+Professor, what is that?
+
+911
+01:32:41,371 --> 01:32:44,024
+Something beyond
+either of our help.
+
+912
+01:32:47,269 --> 01:32:50,071
+A part of Voldemort sent here
+to die.
+
+913
+01:32:50,922 --> 01:32:52,477
+And exactly
+where are we?
+
+914
+01:32:53,273 --> 01:32:57,278
+I was going to ask you that.
+Where would you say that we are?
+
+915
+01:32:57,476 --> 01:32:58,993
+Well...
+
+916
+01:32:59,288 --> 01:33:01,257
+..it looks like King's Cross station.
+
+917
+01:33:02,273 --> 01:33:04,186
+Only cleaner.
+
+918
+01:33:04,909 --> 01:33:06,475
+And without all the trains.
+
+919
+01:33:07,528 --> 01:33:09,577
+King's Cross,
+is that right?
+
+920
+01:33:10,701 --> 01:33:13,897
+This is, as they say,
+your party.
+
+921
+01:33:15,488 --> 01:33:18,288
+I expect you now realize
+that you and Voldemort...
+
+922
+01:33:18,634 --> 01:33:21,304
+..have been connected by
+something other than fate...
+
+923
+01:33:21,661 --> 01:33:24,600
+..since that night in Godric's
+Hollow all those years ago.
+
+924
+01:33:24,873 --> 01:33:26,591
+So it's true then, sir?
+
+925
+01:33:26,835 --> 01:33:29,155
+A part of him lives within me,
+doesn't it?
+
+926
+01:33:30,046 --> 01:33:31,047
+Did.
+
+927
+01:33:31,175 --> 01:33:35,561
+It was just destroyed many moments ago
+by none other than Voldemort himself.
+
+928
+01:33:37,040 --> 01:33:41,358
+You were the Horcrux
+he never meant to make, Harry.
+
+929
+01:33:54,175 --> 01:33:55,897
+I have to go back, haven't I?
+
+930
+01:33:55,985 --> 01:33:57,936
+Oh. That's up to you.
+
+931
+01:33:58,156 --> 01:33:59,733
+I have a choice?
+
+932
+01:34:00,060 --> 01:34:01,679
+Oh, yes.
+
+933
+01:34:01,935 --> 01:34:04,319
+We're in King's Cross, you say?
+
+934
+01:34:05,950 --> 01:34:10,686
+I think, if you so desired,
+you'd be able to board a train.
+
+935
+01:34:12,038 --> 01:34:13,381
+And where would it take me?
+
+936
+01:34:13,469 --> 01:34:14,721
+<font color="#ffc30f">(DUMBLEDORE CHUCKLES)</font>
+
+937
+01:34:15,045 --> 01:34:16,585
+On.
+
+938
+01:34:19,385 --> 01:34:21,934
+<font color="#ffc30f">(TRAIN WHISTLE WAILS IN DISTANCE)</font>
+
+939
+01:34:34,763 --> 01:34:36,686
+Voldemort has the Elder Wand.
+
+940
+01:34:39,507 --> 01:34:40,628
+True.
+
+941
+01:34:40,716 --> 01:34:43,515
+- And the snake's still alive.
+- Yes.
+
+942
+01:34:44,116 --> 01:34:45,944
+And I've nothing to kill it with.
+
+943
+01:34:46,892 --> 01:34:50,952
+Help will always be given at Hogwarts,
+Harry, to those who ask for it.
+
+944
+01:34:52,728 --> 01:34:56,569
+I've always prized myself on
+my ability to turn a phrase.
+
+945
+01:34:57,382 --> 01:35:00,147
+Words are, in my not
+so humble opinion...
+
+946
+01:35:00,741 --> 01:35:04,022
+..our most inexhaustible
+source of magic...
+
+947
+01:35:04,581 --> 01:35:08,632
+..capable of both inflicting
+injury and remedying it.
+
+948
+01:35:09,481 --> 01:35:14,866
+But I would, in this case,
+amend my original statement to this:
+
+949
+01:35:18,207 --> 01:35:21,757
+Help... will always be given
+at Hogwarts
+
+950
+01:35:21,952 --> 01:35:23,843
+to those
+who deserve it.
+
+951
+01:35:30,305 --> 01:35:32,373
+Do not pity the dead,
+Harry.
+
+952
+01:35:33,391 --> 01:35:34,850
+Pity the living.
+
+953
+01:35:36,087 --> 01:35:40,094
+And, above all,
+all those who live without love.
+
+954
+01:35:41,816 --> 01:35:46,946
+Professor, my mother's
+Patronus was a doe, wasn't it?
+
+955
+01:35:48,391 --> 01:35:50,555
+That's the same
+as Professor Snape's.
+
+956
+01:35:51,805 --> 01:35:54,011
+It's curious,
+don't you think?
+
+957
+01:35:54,115 --> 01:35:58,519
+Actually, if I think about it,
+it doesn't seem curious at all.
+
+958
+01:36:00,827 --> 01:36:02,347
+I'll be going now, Harry.
+
+959
+01:36:03,421 --> 01:36:04,764
+Professor?
+
+960
+01:36:09,370 --> 01:36:10,792
+Is this all real?
+
+961
+01:36:12,221 --> 01:36:14,064
+Gr is it just happening
+inside my head?
+
+962
+01:36:14,152 --> 01:36:17,058
+Of course it's happening
+inside your head, Harry.
+
+963
+01:36:17,904 --> 01:36:20,941
+Why should that mean
+that it's not real?
+
+964
+01:36:27,263 --> 01:36:30,339
+Professor?
+What should I do?
+
+965
+01:36:34,604 --> 01:36:35,886
+Professor?
+
+966
+01:36:39,494 --> 01:36:40,791
+<font color="#00ff00">BELLATRIX: </font>My Lord?
+
+967
+01:36:40,952 --> 01:36:43,032
+My Lord,
+are you hurt?
+
+968
+01:36:43,338 --> 01:36:45,055
+- My Lord?
+- I don't need your help.
+
+969
+01:36:45,143 --> 01:36:47,313
+<font color="#00ff00">BELLATRIX: </font>No.
+Come.
+
+970
+01:36:56,727 --> 01:36:57,891
+The boy.
+
+971
+01:36:58,690 --> 01:36:59,938
+Is he dead?
+
+972
+01:37:14,769 --> 01:37:16,266
+<font color="#ffc30f">(WHISPERS)</font>
+Is he alive?
+
+973
+01:37:17,036 --> 01:37:18,758
+Draco, is he alive?
+
+974
+01:37:46,038 --> 01:37:47,156
+Dead.
+
+975
+01:38:45,675 --> 01:38:46,855
+<font color="#ffc30f">(THUDS)</font>
+
+976
+01:39:14,675 --> 01:39:17,534
+<font color="#00ff00">GINNY:</font> Who is that
+Hagrid's carrying?
+
+977
+01:39:17,928 --> 01:39:19,300
+Neville, who is it?
+
+978
+01:39:20,478 --> 01:39:22,558
+<font color="#00ff00">VOLDEMORT: </font>Harry Potter...
+
+979
+01:39:24,106 --> 01:39:25,527
+..is dead.
+
+980
+01:39:25,665 --> 01:39:27,152
+No! No!
+
+981
+01:39:27,245 --> 01:39:28,636
+<font color="#00ff00">VOLDEMORT: </font>Silence.
+
+982
+01:39:32,526 --> 01:39:34,448
+Stupid girl.
+
+983
+01:39:35,826 --> 01:39:39,081
+Harry Potter is dead.
+
+984
+01:39:39,455 --> 01:39:43,938
+From this day forth,
+you put your faith...
+
+985
+01:39:44,891 --> 01:39:46,188
+..in me.
+
+986
+01:39:56,305 --> 01:39:58,360
+Harry Potter is dead!
+
+987
+01:39:58,690 --> 01:40:00,579
+<font color="#ffc30f">(ALL LAUGH)</font>
+
+988
+01:40:03,524 --> 01:40:06,196
+And now is the time
+to declare yourself.
+
+989
+01:40:08,484 --> 01:40:10,704
+Come forward
+and join us.
+
+990
+01:40:12,811 --> 01:40:14,055
+Or die.
+
+991
+01:40:20,577 --> 01:40:22,087
+<font color="#00ff00">LUCIUS:</font> Draco.
+
+992
+01:40:27,128 --> 01:40:28,446
+Draco.
+
+993
+01:40:31,882 --> 01:40:33,212
+<font color="#00ff00">NARCISSA: </font>Draco...
+
+994
+01:40:36,644 --> 01:40:37,805
+..Come.
+
+995
+01:40:49,338 --> 01:40:52,763
+<font color="#00ff00">VOLDEMORT: </font>Ah.
+Well done, Draco.
+
+996
+01:40:53,738 --> 01:40:55,337
+Well done.
+
+997
+01:41:18,037 --> 01:41:20,647
+Well, I must say
+I'd hoped for better.
+
+998
+01:41:20,735 --> 01:41:23,238
+<font color="#ffc30f">(VOLDEMORT'S FOLLOWERS LAUGH)</font>
+
+999
+01:41:25,282 --> 01:41:27,460
+And who might you be,
+young man?
+
+1000
+01:41:29,523 --> 01:41:31,046
+Neville Longbottom.
+
+1001
+01:41:31,134 --> 01:41:33,327
+<font color="#ffc30f">(VOLDEMORT'S FOLLOWERS LAUGHING)</font>
+
+1002
+01:41:36,739 --> 01:41:40,499
+Well, Neville, I'm sure we can
+find a place for you in our ranks.
+
+1003
+01:41:40,618 --> 01:41:42,179
+I'd like to say something.
+
+1004
+01:41:48,907 --> 01:41:52,028
+Well, Neville,
+I'm sure we'd all be fascinated
+
+1005
+01:41:52,116 --> 01:41:53,936
+to hear
+what you have to say.
+
+1006
+01:41:57,816 --> 01:42:00,186
+- It doesn't matter Harry's gone.
+- Stand down, Neville.
+
+1007
+01:42:00,366 --> 01:42:01,975
+People die every day.
+
+1008
+01:42:04,725 --> 01:42:08,171
+Friends,
+family.
+
+1009
+01:42:10,791 --> 01:42:12,030
+Yeah.
+
+1010
+01:42:13,740 --> 01:42:15,350
+We lost Harry tonight.
+
+1011
+01:42:17,624 --> 01:42:21,163
+But he's still with us, in here.
+
+1012
+01:42:23,035 --> 01:42:24,405
+So's Fred...
+
+1013
+01:42:25,971 --> 01:42:27,249
+..and Remus.
+
+1014
+01:42:28,652 --> 01:42:29,995
+Tonks.
+
+1015
+01:42:31,510 --> 01:42:32,694
+All of them.
+
+1016
+01:42:34,564 --> 01:42:36,194
+They didn't die in vain.
+
+1017
+01:42:42,046 --> 01:42:43,296
+But you will.
+
+1018
+01:42:43,522 --> 01:42:45,444
+- Because you're wrong.
+- Ha-ha-ha.
+
+1019
+01:42:45,532 --> 01:42:47,460
+Harry's heart did beat for us.
+
+1020
+01:42:47,854 --> 01:42:49,481
+For all of us.
+This is not over!
+
+1021
+01:42:51,914 --> 01:42:53,587
+<font color="#ffc30f">(HARRY GRUNTS)</font>
+
+1022
+01:42:54,650 --> 01:42:56,493
+Confringo!
+
+1023
+01:43:00,239 --> 01:43:01,707
+<font color="#ffc30f">(YELLING)</font>
+
+1024
+01:43:04,785 --> 01:43:06,332
+<font color="#00ff00">BELLATRIX: </font>No! No, come back!
+
+1025
+01:43:06,420 --> 01:43:10,391
+Lucius! Come back!
+Come back and fight!
+
+1026
+01:43:10,702 --> 01:43:12,891
+Come back!
+
+1027
+01:43:17,715 --> 01:43:20,889
+I'll lure him into the castle.
+We have to kill the snake.
+
+1028
+01:43:21,051 --> 01:43:22,974
+- <font color="#00ff00">HERMIONE: </font>You'll need this.
+- ARTHUR: Neville!
+
+1029
+01:43:38,712 --> 01:43:40,045
+<font color="#ffc30f">(HISSING NEARBY)</font>
+
+1030
+01:43:51,290 --> 01:43:52,883
+<font color="#ffc30f">(WHOOSH)</font>
+
+1031
+01:44:49,682 --> 01:44:50,683
+<font color="#ffc30f">(YELLS)</font>
+
+1032
+01:46:09,845 --> 01:46:10,892
+<font color="#ffc30f">(HISSES)</font>
+
+1033
+01:46:16,377 --> 01:46:18,985
+Not my daughter, you bitch.
+
+1034
+01:46:19,188 --> 01:46:20,656
+<font color="#ffc30f">(LAUGHS)</font>
+
+1035
+01:46:43,323 --> 01:46:45,110
+<font color="#ffc30f">(VOLDEMORT YELLS)</font>
+
+1036
+01:46:52,208 --> 01:46:53,852
+<font color="#00ff00">HARRY: </font>You were right...
+
+1037
+01:46:55,591 --> 01:46:57,813
+..when you told Snape
+that wand was failing you.
+
+1038
+01:46:57,901 --> 01:46:59,891
+It will always fail you.
+
+1039
+01:47:01,063 --> 01:47:02,656
+<font color="#00ff00">VOLDEMORT: </font>I killed Snape.
+
+1040
+01:47:02,815 --> 01:47:04,587
+But what if the wand
+never belonged to Snape?
+
+1041
+01:47:05,109 --> 01:47:07,368
+What if its allegiance was
+always to someone else?
+
+1042
+01:47:07,684 --> 01:47:11,196
+Come on, Tom. Let's finish
+this the way we started it.
+
+1043
+01:47:11,824 --> 01:47:12,871
+Together.
+
+1044
+01:47:15,577 --> 01:47:17,750
+<font color="#ffc30f">(BOTH YELLING)</font>
+
+1045
+01:48:40,996 --> 01:48:43,090
+<font color="#ffc30f">(YELLS)</font>
+
+1046
+01:50:19,261 --> 01:50:20,763
+<font color="#ffc30f">(STUDENTS CHATTERING)</font>
+
+1047
+01:50:47,182 --> 01:50:48,196
+Ha, ha.
+
+1048
+01:50:48,284 --> 01:50:49,626
+I always figured
+he would be a big fellow.
+
+1049
+01:50:49,713 --> 01:50:53,818
+<i>I couldn't find my wand.
+I haven't lost my wand in my entire life.</i>
+
+1050
+01:50:54,004 --> 01:50:55,893
+It was lost in the folds
+of my gowns.
+
+1051
+01:50:55,981 --> 01:50:58,780
+<i>I managed to find it and
+I dispatched a few of them...</i>
+
+1052
+01:50:58,946 --> 01:51:00,198
+<font color="#00ff00">HAGRID: </font>Harry.
+
+1053
+01:51:00,348 --> 01:51:01,941
+<font color="#ffc30f">(HAGRID CHUCKLES)</font>
+
+1054
+01:52:00,845 --> 01:52:02,286
+<font color="#00ff00">HERMIONE: </font>Why didn't it work
+for him,
+
+1055
+01:52:02,526 --> 01:52:03,916
+the Elder Wand?
+
+1056
+01:52:05,534 --> 01:52:07,346
+It answered to
+somebody else.
+
+1057
+01:52:08,373 --> 01:52:11,172
+When he killed Snape,
+he thought the wand would become his.
+
+1058
+01:52:11,260 --> 01:52:14,807
+But the thing is,
+the wand never belonged to Snape.
+
+1059
+01:52:15,711 --> 01:52:19,604
+It was Draco who disarmed Dumbledore
+that night in the astronomy tower.
+
+1060
+01:52:20,382 --> 01:52:23,705
+From that moment on,
+the wand answered to him.
+
+1061
+01:52:25,269 --> 01:52:27,112
+Until...
+
+1062
+01:52:27,494 --> 01:52:29,807
+..the other night
+when I disarmed Draco
+
+1063
+01:52:30,121 --> 01:52:31,439
+at Malfoy Manor.
+
+1064
+01:52:32,026 --> 01:52:33,354
+So that means...
+
+1065
+01:52:35,689 --> 01:52:36,737
+..it's mine.
+
+1066
+01:52:39,463 --> 01:52:40,703
+<font color="#00ff00">RON: </font>What should we do
+with it?
+
+1067
+01:52:41,257 --> 01:52:42,383
+We?
+
+1068
+01:52:43,447 --> 01:52:45,064
+I'm just saying,
+that's the Elder Wand,
+
+1069
+01:52:45,589 --> 01:52:47,545
+the most powerful
+wand in the world.
+
+1070
+01:52:48,173 --> 01:52:51,072
+With that,
+we'd be invincible.
+
+1071
+01:55:14,931 --> 01:55:16,024
+Together.
+
+1072
+01:55:32,232 --> 01:55:33,609
+<font color="#ffc30f">(WOMEN LAUGH)</font>
+
+1073
+01:55:33,784 --> 01:55:35,957
+<font color="#00ff00">FATHER:</font> <i>Look after each other.</i>
+
+1074
+01:55:55,238 --> 01:55:56,802
+- Bag?
+- Yeah.
+
+1075
+01:55:57,325 --> 01:55:58,372
+Jumper?
+
+1076
+01:55:59,935 --> 01:56:01,317
+I'll miss you.
+
+1077
+01:56:02,881 --> 01:56:04,035
+<font color="#00ff00">RON: </font>Here they come.
+
+1078
+01:56:19,993 --> 01:56:23,517
+Dad,
+what if I am put in Slytherin?
+
+1079
+01:56:26,453 --> 01:56:29,048
+Albus Severus Potter...
+
+1080
+01:56:30,298 --> 01:56:33,290
+..you were named after two
+headmasters of Hogwarts.
+
+1081
+01:56:33,989 --> 01:56:35,616
+One of them was Slytherin...
+
+1082
+01:56:35,727 --> 01:56:38,861
+..and he was
+the bravest man I've ever known.
+
+1083
+01:56:41,059 --> 01:56:42,484
+But just say that I am.
+
+1084
+01:56:42,587 --> 01:56:47,369
+Then Slytherin House
+will have gained a wonderful young wizard.
+
+1085
+01:56:48,579 --> 01:56:50,017
+But, listen,
+
+1086
+01:56:50,167 --> 01:56:53,501
+if it really means that much to you,
+you can choose Gryffindor.
+
+1087
+01:56:54,162 --> 01:56:56,783
+The Sorting Hat takes
+your choice into account.
+
+1088
+01:56:57,666 --> 01:56:59,714
+- Really?
+- Really.
+
+1089
+01:56:59,876 --> 01:57:00,923
+<font color="#ffc30f">(WHISTLE BLOWS)</font>
+
+1090
+01:57:01,079 --> 01:57:03,753
+- <font color="#00ff00">GIRL: </font><i>Bye, Mum.</i>
+- <font color="#00ff00">CONDUCTOR: </font><i>All aboard.</i>
+
+1091
+01:57:03,915 --> 01:57:04,962
+Ready?
+
+1092
+01:57:05,050 --> 01:57:06,220
+Ready.
+
+1093
+01:57:18,930 --> 01:57:20,476
+<font color="#00ff00">BOY:</font> Come on, Jay,
+get a move on.
+
+1094
+01:57:20,564 --> 01:57:21,805
+<font color="#00ff00">JAMES: </font>Come on.
+
+1095
+01:57:21,893 --> 01:57:23,914
+<font color="#ffc30f">(FROG CROAKING)</font>
+
+1096
+01:57:32,319 --> 01:57:35,258
+<font color="#ffc30f">(PEOPLE CHATTERING)</font>
+
+1097
+01:57:54,672 --> 01:57:58,469
+<font color=#ffc30f>Sync corrections</font> by <font color=#00FF00>srjanapala</font>

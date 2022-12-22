@@ -1,0 +1,4603 @@
+1
+00:02:25,114 --> 00:02:27,032
+Are we the first?
+
+2
+00:02:29,910 --> 00:02:32,287
+Are we the first to arrive here?
+
+3
+00:03:13,454 --> 00:03:15,539
+Is the interpreter with you?
+
+4
+00:03:16,665 --> 00:03:21,628
+I'm not a professional interpreter.
+My occupation is cartography.
+
+5
+00:03:22,254 --> 00:03:23,630
+I'm a mapmaker.
+
+6
+00:03:23,839 --> 00:03:26,759
+Can you translate French into English
+and English into French?
+
+7
+00:03:26,967 --> 00:03:30,137
+Yes, I explained to the team leader
+in Villa Hermosa.
+
+8
+00:03:30,346 --> 00:03:32,640
+I'm just a little taken by surprise.
+
+9
+00:03:58,332 --> 00:04:01,335
+They're all there! All of them!
+
+10
+00:04:12,680 --> 00:04:14,932
+Check for landing marks!
+
+11
+00:04:39,790 --> 00:04:43,502
+Mr. Lacombe wants the numbers
+off the engine blocks!
+
+12
+00:04:46,797 --> 00:04:49,717
+M-447148!
+
+13
+00:04:49,925 --> 00:04:54,305
+W-445529!
+
+14
+00:04:54,596 --> 00:04:57,975
+Number 445529, check!
+
+15
+00:04:58,183 --> 00:05:02,730
+Approximately 46 gallons
+in the right tank!
+
+16
+00:05:02,938 --> 00:05:04,773
+447149, check!
+
+17
+00:05:05,024 --> 00:05:07,318
+Tell me something.
+What's happening here?
+
+18
+00:05:07,568 --> 00:05:09,903
+- It's flight number 19!
+- 19 what?
+
+19
+00:05:10,154 --> 00:05:13,907
+It's that training mission from the
+naval air station at Fort Lauderdale.
+
+20
+00:05:14,408 --> 00:05:17,202
+They were doing target runs
+on an old hulk.
+
+21
+00:05:17,411 --> 00:05:19,830
+Who flies crates like these anymore?
+
+22
+00:05:20,080 --> 00:05:24,793
+No one! These planes were reported
+missing in 1945.
+
+23
+00:05:29,882 --> 00:05:31,550
+But it looks brand-new!
+
+24
+00:05:35,971 --> 00:05:37,765
+Where's the pilot?
+
+25
+00:05:38,599 --> 00:05:40,851
+I don't understand!
+
+26
+00:05:41,644 --> 00:05:43,812
+Where's the crew? Hey!
+
+27
+00:05:47,816 --> 00:05:50,653
+How the hell did it get here?!
+
+28
+00:06:23,394 --> 00:06:24,853
+He says this guy's local.
+
+29
+00:06:25,062 --> 00:06:27,690
+He was here last night.
+He saw it happen.
+
+30
+00:06:50,462 --> 00:06:52,047
+Sunburn?
+
+31
+00:07:08,230 --> 00:07:11,108
+He says the sun came out last night.
+
+32
+00:07:12,484 --> 00:07:14,862
+He says it sang to him.
+
+33
+00:07:51,148 --> 00:07:53,359
+Harry, keep an eye on that point-out.
+
+34
+00:07:53,609 --> 00:07:55,611
+He's on 122.5.
+
+35
+00:07:55,819 --> 00:07:57,321
+I'll be right back.
+
+36
+00:07:59,114 --> 00:08:02,618
+Indianapolis Center, you have any
+traffic for Air East 31?
+
+37
+00:08:04,620 --> 00:08:05,746
+Air East 31, negative.
+
+38
+00:08:05,996 --> 00:08:10,918
+The only traffic I have is a TWA L-1011
+in your 6 o'clock position...
+
+39
+00:08:11,210 --> 00:08:13,420
+...range 15 miles...
+
+40
+00:08:13,921 --> 00:08:17,633
+...and an Allegheny DC-9 in
+your 12 o'clock position, 50 miles.
+
+41
+00:08:17,841 --> 00:08:20,719
+Stand by. I'll take a look at
+broadband, over.
+
+42
+00:08:21,512 --> 00:08:24,556
+Air East 31 has traffic 2 o'clock,
+slightly above and descending.
+
+43
+00:08:25,391 --> 00:08:26,809
+Air East 31, roger.
+
+44
+00:08:26,976 --> 00:08:30,020
+I have a primary target
+about that position now.
+
+45
+00:08:30,229 --> 00:08:31,981
+I have no known traffic.
+
+46
+00:08:32,231 --> 00:08:34,316
+Stand by, I'll check low, over.
+
+47
+00:08:35,067 --> 00:08:37,277
+Check and see if they know who it is.
+
+48
+00:08:37,486 --> 00:08:38,862
+Center, Air East 31.
+
+49
+00:08:39,071 --> 00:08:41,073
+The traffic's not lower than us.
+
+50
+00:08:41,323 --> 00:08:44,743
+He's 1 o'clock now,
+still above me and descending.
+
+51
+00:08:45,536 --> 00:08:48,288
+Air East 31,
+can you say aircraft type?
+
+52
+00:08:49,164 --> 00:08:52,835
+Negative, Center, no distinct outline.
+
+53
+00:08:54,253 --> 00:08:57,006
+To tell you the truth,
+the target is rather brilliant.
+
+54
+00:08:57,214 --> 00:09:01,176
+It has the brightest anti-collision
+lights I think I've ever seen.
+
+55
+00:09:01,385 --> 00:09:03,512
+Alternating white to red.
+
+56
+00:09:03,971 --> 00:09:05,597
+The colours are striking.
+
+57
+00:09:05,806 --> 00:09:09,059
+Center, this is TWA 517.
+
+58
+00:09:09,310 --> 00:09:12,521
+Traffic now looks lik e
+extra-bright landing lights.
+
+59
+00:09:12,730 --> 00:09:15,858
+I thought Air East
+had his landing lights on.
+
+60
+00:09:17,151 --> 00:09:18,610
+It could be a satellite.
+
+61
+00:09:18,861 --> 00:09:21,655
+I have a primary target now
+in your 10 o'clock position...
+
+62
+00:09:21,905 --> 00:09:22,990
+...five miles, over.
+
+63
+00:09:23,157 --> 00:09:25,367
+- Never seen anything like that.
+- Affirmative, 31.
+
+64
+00:09:25,534 --> 00:09:28,996
+The traffic is proceeding northeast.
+No altitude readout.
+
+65
+00:09:29,204 --> 00:09:32,124
+Roger, Center. It doesn't appear
+he'll be a problem.
+
+66
+00:09:32,374 --> 00:09:35,711
+He's going to descend
+about 1500 feet below me.
+
+67
+00:09:35,919 --> 00:09:37,504
+Wait a second!
+
+68
+00:09:37,755 --> 00:09:39,006
+Stand by one.
+
+69
+00:09:39,840 --> 00:09:42,551
+Okay, Center, Air East 31.
+The traffic has turned.
+
+70
+00:09:42,760 --> 00:09:46,180
+He's heading for my windshield.
+We're turning immediately.
+
+71
+00:09:47,973 --> 00:09:50,267
+Air East 31, descend
+and maintain flight level 310.
+
+72
+00:09:50,476 --> 00:09:52,353
+Break Allegheny,
+turn right 30 degrees.
+
+73
+00:09:52,561 --> 00:09:57,191
+Get on the horn to the 45th Recon Wing
+and see what they're testing up there.
+
+74
+00:09:57,441 --> 00:10:01,320
+Do you have test operations
+in restricted area 2508?
+
+75
+00:10:01,528 --> 00:10:03,113
+Air East 31, roger.
+
+76
+00:10:03,322 --> 00:10:07,409
+The traffic is luminous and
+exhibiting non-ballistic motion.
+
+77
+00:10:07,618 --> 00:10:10,329
+Roger. Continue descent
+at your discretion.
+
+78
+00:10:10,537 --> 00:10:13,624
+Okay, Center. Descent
+at pilot's discretion is approved.
+
+79
+00:10:13,832 --> 00:10:16,794
+The traffic is approaching head-on,
+ultra-bright and really moving.
+
+80
+00:10:17,002 --> 00:10:20,714
+And right by us! Right now!
+Now, that was really close.
+
+81
+00:10:20,923 --> 00:10:23,759
+Air East 31 is out of 340...
+
+82
+00:10:23,968 --> 00:10:26,095
+Ask if they want to report officially.
+
+83
+00:10:26,720 --> 00:10:30,265
+TWA 517, do you want to report a UFO?
+Over.
+
+84
+00:10:34,770 --> 00:10:38,607
+TWA 517, do you want to report a UFO?
+Over.
+
+85
+00:10:40,609 --> 00:10:43,654
+Negative. We don't want to report.
+
+86
+00:10:43,862 --> 00:10:47,074
+Air East 31,
+do you wish to report a UFO? Over.
+
+87
+00:10:48,742 --> 00:10:51,537
+Negative. We don't want
+to report one either.
+
+88
+00:10:52,079 --> 00:10:55,833
+Air East 31, do you wish to
+file a report of any kind? Over.
+
+89
+00:10:56,583 --> 00:10:59,545
+I wouldn't know what kind
+of report to file, Center.
+
+90
+00:10:59,795 --> 00:11:01,797
+Air East 31, me neither.
+
+91
+00:11:02,006 --> 00:11:04,466
+I'll try to track traffic
+to destination, over.
+
+92
+00:13:33,657 --> 00:13:36,035
+- What are you doing?
+- I'm just...
+
+93
+00:13:40,414 --> 00:13:42,291
+What?
+
+94
+00:13:51,592 --> 00:13:52,926
+Barry?
+
+95
+00:14:04,021 --> 00:14:05,314
+Honey?
+
+96
+00:14:15,574 --> 00:14:17,242
+Honey?
+
+97
+00:14:21,038 --> 00:14:22,623
+Barry!
+
+98
+00:14:24,708 --> 00:14:26,794
+Barry.
+
+99
+00:14:27,461 --> 00:14:28,962
+Barry!
+
+100
+00:14:42,685 --> 00:14:45,688
+Dad, do my problems for me.
+
+101
+00:14:47,106 --> 00:14:51,276
+I don't have to do your problems for
+you. You do your problems for you.
+
+102
+00:14:51,485 --> 00:14:55,072
+That's why I graduated,
+so I don't have to do problems.
+
+103
+00:14:55,572 --> 00:14:58,158
+I don't understand these fractions.
+
+104
+00:14:58,367 --> 00:15:01,620
+All right. What's one-third of 60?
+
+105
+00:15:02,329 --> 00:15:04,415
+That's a fraction.
+I don't understand them.
+
+106
+00:15:04,623 --> 00:15:06,000
+All right, look.
+
+107
+00:15:06,333 --> 00:15:07,876
+Let's say...
+
+108
+00:15:09,003 --> 00:15:12,464
+...that this boxcar is 60 feet long.
+
+109
+00:15:13,465 --> 00:15:16,427
+And one-third is across
+this switch here.
+
+110
+00:15:16,593 --> 00:15:19,847
+All right? Okay?
+
+111
+00:15:20,014 --> 00:15:24,018
+And now another train is coming.
+
+112
+00:15:26,145 --> 00:15:29,148
+How far do you have to move
+this boxcar off the track...
+
+113
+00:15:29,356 --> 00:15:31,859
+...so that the other train
+doesn't smash it?
+
+114
+00:15:32,067 --> 00:15:34,737
+Quickly, Brad, there are thousands
+of lives at stake.
+
+115
+00:15:35,571 --> 00:15:37,364
+Brad, any answer.
+
+116
+00:15:39,783 --> 00:15:41,869
+Remember last weekend...
+
+117
+00:15:42,328 --> 00:15:45,831
+...you promised everybody a movie
+this weekend?
+
+118
+00:15:47,916 --> 00:15:49,168
+Honey?
+
+119
+00:15:51,962 --> 00:15:55,841
+- And you also promised Goofy Golf.
+- Oh, yeah.
+
+120
+00:16:00,638 --> 00:16:04,308
+Roy, what is all this stuff
+on my table?
+
+121
+00:16:04,808 --> 00:16:07,186
+I thought I told you
+this was for my stuff.
+
+122
+00:16:07,394 --> 00:16:09,355
+I mean, you can have that table.
+
+123
+00:16:09,563 --> 00:16:11,106
+I don't want this on my table.
+
+124
+00:16:11,357 --> 00:16:13,484
+This can cause tetanus!
+
+125
+00:16:13,901 --> 00:16:16,320
+- What is this?!
+- You know what's playing?
+
+126
+00:16:16,570 --> 00:16:19,406
+Pinocchio!
+The kids have never seen Pinocchio.
+
+127
+00:16:19,615 --> 00:16:22,242
+You guys have never seen it.
+You'll love it.
+
+128
+00:16:22,451 --> 00:16:23,702
+I don't believe this.
+
+129
+00:16:23,911 --> 00:16:28,540
+Who wants to go see
+some dumb cartoon rated G for kids?
+
+130
+00:16:28,791 --> 00:16:30,668
+- How old are you?
+- Eight.
+
+131
+00:16:30,876 --> 00:16:32,586
+- You wanna be 9?
+- Yeah.
+
+132
+00:16:32,836 --> 00:16:35,464
+Then you're gonna see Pinocchio
+tomorrow night.
+
+133
+00:16:36,590 --> 00:16:38,926
+That's a wonderful way
+to win over your children.
+
+134
+00:16:39,093 --> 00:16:43,097
+I'm not serious. I'm just saying
+that I grew up with Pinocchio.
+
+135
+00:16:43,305 --> 00:16:46,225
+And if kids are still kids,
+they're gonna eat it up.
+
+136
+00:16:47,559 --> 00:16:48,686
+Okay.
+
+137
+00:16:48,894 --> 00:16:51,313
+Okay, I'm wrong.
+I'm Wrong Roy, all right?
+
+138
+00:16:51,522 --> 00:16:55,359
+Toby! You are close to death!
+Come out here!
+
+139
+00:17:00,239 --> 00:17:05,202
+Okay, now, I'll give you your choice.
+I'm not gonna be biased in any way.
+
+140
+00:17:05,369 --> 00:17:09,540
+You can either play Goofy Golf, which
+means a lot of waiting and pushing...
+
+141
+00:17:09,748 --> 00:17:12,084
+...or you can see Pinocchio...
+
+142
+00:17:12,334 --> 00:17:16,588
+...which is a lot of furry animals and
+magic and a wonderful time. Okay?
+
+143
+00:17:16,755 --> 00:17:18,507
+- Now, let's vote.
+- Golf!
+
+144
+00:17:18,716 --> 00:17:20,342
+All right, everybody to bed!
+
+145
+00:17:20,592 --> 00:17:24,680
+No way! Dad said we could finish
+watching The Ten Commandments!
+
+146
+00:17:25,639 --> 00:17:28,267
+Roy, that movie is four hours long.
+
+147
+00:17:28,475 --> 00:17:30,936
+I told them
+they'd watch only five commandments.
+
+148
+00:17:31,145 --> 00:17:32,688
+- Hi, Ronnie, it's Earl.
+- Hi, Earl.
+
+149
+00:17:32,855 --> 00:17:36,066
+We got a big problem.
+I need your old man in the field.
+
+150
+00:17:36,275 --> 00:17:38,277
+Roy can't drive at night without me.
+
+151
+00:17:38,485 --> 00:17:40,654
+We're experiencing an overall outage.
+
+152
+00:17:40,904 --> 00:17:43,824
+Wait, wait, wait, I can't... Hey, honey.
+
+153
+00:17:44,533 --> 00:17:48,078
+Jiminy Cricket!
+It's Earl on the phone.
+
+154
+00:17:51,123 --> 00:17:52,583
+Just a second.
+
+155
+00:17:52,750 --> 00:17:53,792
+- Hello.
+- Neary.
+
+156
+00:17:53,959 --> 00:17:57,379
+Get into your truck
+and report to line N in Tolono.
+
+157
+00:17:57,588 --> 00:18:01,592
+We're losing power across the grid.
+Has the outage hit you yet?
+
+158
+00:18:01,759 --> 00:18:06,263
+Neary? Neary? Neary?
+
+159
+00:18:14,104 --> 00:18:15,147
+Hey! Lights!
+
+160
+00:18:41,256 --> 00:18:43,717
+Barry!
+
+161
+00:18:51,058 --> 00:18:53,394
+Barry!
+
+162
+00:19:06,115 --> 00:19:08,158
+Help! I'm lost.
+
+163
+00:19:10,869 --> 00:19:13,622
+You're gonna cough up a little
+Tolono, right?
+
+164
+00:19:14,123 --> 00:19:17,292
+Cough up a Tolono
+or an interstate, a Highway 90.
+
+165
+00:19:17,501 --> 00:19:19,837
+A little familiar landmark
+of some sort.
+
+166
+00:19:20,379 --> 00:19:23,090
+- Cornbread Road, south of 20.
+- Cornbread?
+
+167
+00:19:23,549 --> 00:19:25,217
+Power must have been restored.
+
+168
+00:19:25,426 --> 00:19:28,637
+Couple hundred neighbours think
+it's Saturday night.
+
+169
+00:19:28,846 --> 00:19:29,930
+Dispatch, this is 411.
+
+170
+00:19:30,180 --> 00:19:33,017
+Do you want me to disregard
+that Tolono call?
+
+171
+00:19:36,437 --> 00:19:38,480
+You're in the middle of the road,
+jackass!
+
+172
+00:19:39,106 --> 00:19:42,151
+Can you tell me where Cornbread is?
+Turkey!
+
+173
+00:20:10,304 --> 00:20:13,557
+A-34... A-34... F-27.
+
+174
+00:20:14,850 --> 00:20:17,978
+M-Mary-10 through M-Mary-12. Okay.
+
+175
+00:20:18,228 --> 00:20:21,065
+Ten-47.
+
+176
+00:20:24,818 --> 00:20:25,903
+All right.
+
+177
+00:20:26,070 --> 00:20:29,990
+Stoppage in the single circuits
+will lead you right to nowhere.
+
+178
+00:20:32,701 --> 00:20:34,286
+M-Mary-10.
+
+179
+00:21:04,650 --> 00:21:09,196
+Unit 211, 10-30, five, sev...
+
+180
+00:21:40,644 --> 00:21:42,354
+Oh, shit.
+
+181
+00:23:32,131 --> 00:23:36,719
+Unit 211, I'm back up on the street.
+What do you guys got out there?
+
+182
+00:23:37,386 --> 00:23:39,221
+I don't believe this!
+
+183
+00:23:39,930 --> 00:23:42,016
+My God! It's bigger than a house!
+
+184
+00:23:44,018 --> 00:23:46,103
+This thing is lik e a barn.
+
+185
+00:23:46,895 --> 00:23:49,315
+This is absolutely crazy.
+
+186
+00:23:51,734 --> 00:23:53,527
+What is your location?
+
+187
+00:23:53,694 --> 00:23:57,364
+Just off the Telemark Expressway
+and east toward Harper Valley.
+
+188
+00:25:04,056 --> 00:25:05,891
+Barry.
+
+189
+00:25:06,976 --> 00:25:08,102
+No!
+
+190
+00:25:08,477 --> 00:25:09,728
+Watch out!
+
+191
+00:25:15,150 --> 00:25:17,903
+Oh, my God! Lady! Lady!
+
+192
+00:25:18,112 --> 00:25:19,989
+Are you okay? I'm sorry.
+
+193
+00:25:20,239 --> 00:25:23,701
+I didn't see him.
+He was in the middle of the road.
+
+194
+00:25:23,993 --> 00:25:25,995
+- Hello?
+- Oh, my God.
+
+195
+00:25:26,161 --> 00:25:29,540
+- Hello! Here!
+- What's the matter with you?
+
+196
+00:25:30,457 --> 00:25:34,545
+Barry, come back here!
+Come on, now.
+
+197
+00:26:04,658 --> 00:26:06,243
+Ice cream!
+
+198
+00:26:26,221 --> 00:26:28,057
+This is nuts.
+
+199
+00:26:29,224 --> 00:26:30,726
+No.
+
+200
+00:27:11,266 --> 00:27:12,935
+Wait a minute!
+
+201
+00:27:13,686 --> 00:27:16,105
+What are you guys doing? Hey!
+
+202
+00:27:16,313 --> 00:27:19,024
+That's Ohio! That's a quarter!
+
+203
+00:27:23,946 --> 00:27:27,866
+Jesus, look at those suckers.
+They're glued to the road!
+
+204
+00:28:15,414 --> 00:28:17,291
+Honey, wake up!
+
+205
+00:28:18,000 --> 00:28:21,128
+Ronnie, wake up!
+You're not gonna believe what I saw!
+
+206
+00:28:21,378 --> 00:28:23,005
+Don't! Not now.
+
+207
+00:28:23,213 --> 00:28:25,966
+No, listen!
+I never would have believed it!
+
+208
+00:28:26,175 --> 00:28:28,761
+There was this...
+In the cab there was this whole...
+
+209
+00:28:28,969 --> 00:28:31,430
+It went... It was...
+There was a red whoosh that...
+
+210
+00:28:33,474 --> 00:28:34,808
+Roy.
+
+211
+00:28:35,017 --> 00:28:36,185
+Ike called you.
+
+212
+00:28:36,977 --> 00:28:38,687
+And McGovern.
+
+213
+00:28:38,896 --> 00:28:41,357
+They want you to call.
+They couldn't reach you.
+
+214
+00:28:41,899 --> 00:28:43,192
+I turned the radio off.
+
+215
+00:28:43,442 --> 00:28:45,611
+Don't do that.
+The phone rang off the hook.
+
+216
+00:28:45,819 --> 00:28:49,448
+It woke Sylvia up two times already.
+You'd better call them.
+
+217
+00:28:49,657 --> 00:28:52,910
+You know those pictures in National
+Geographic, the aurora borealis?
+
+218
+00:28:53,118 --> 00:28:55,746
+This is better than that. This is really...
+Come on!
+
+219
+00:28:55,954 --> 00:28:57,915
+Come on, Ronnie, get up. Come on.
+
+220
+00:28:58,123 --> 00:29:00,292
+- What's wrong?
+- Nothing. I don't know.
+
+221
+00:29:00,501 --> 00:29:02,795
+- Get up! I'm not kidding.
+- Is it an accident?
+
+222
+00:29:02,962 --> 00:29:05,965
+It's not an accident. You wanted
+to get out of the house, right?
+
+223
+00:29:06,215 --> 00:29:07,800
+Not at 4:00 in the morning.
+
+224
+00:29:08,050 --> 00:29:11,553
+Ronnie, I need you
+to see something with me.
+
+225
+00:29:11,762 --> 00:29:13,555
+It's really important.
+
+226
+00:29:13,764 --> 00:29:16,350
+Okay. All right.
+What about the kids?
+
+227
+00:29:16,558 --> 00:29:18,310
+What? Oh, the kids! I'll get the kids.
+
+228
+00:29:18,602 --> 00:29:20,562
+Sylvia, we're going on an adventure.
+
+229
+00:29:20,980 --> 00:29:23,607
+Toby! Brad! Come on! Get up.
+
+230
+00:29:23,816 --> 00:29:25,359
+It's better than Goofy Golf!
+
+231
+00:29:29,738 --> 00:29:32,116
+I'm going as fast as I can!
+
+232
+00:29:33,158 --> 00:29:34,243
+Come on.
+
+233
+00:29:35,911 --> 00:29:39,415
+All right, all right.
+Oh, hi, Mrs. Harris.
+
+234
+00:29:39,665 --> 00:29:41,292
+Roy, there's Mrs. Harris.
+
+235
+00:29:41,500 --> 00:29:45,045
+There better be a good reason for this
+because it doesn't make any sense.
+
+236
+00:29:46,463 --> 00:29:50,342
+All right, Roy, I really think
+you've proved your point.
+
+237
+00:29:50,592 --> 00:29:53,595
+Roy. Roy.
+
+238
+00:29:53,762 --> 00:29:56,015
+Roy, you're sunburned. Look at you.
+
+239
+00:30:02,104 --> 00:30:03,939
+Honey, what is that?
+
+240
+00:30:08,944 --> 00:30:10,988
+Roy, what did it look like?
+
+241
+00:30:11,989 --> 00:30:14,199
+It was like an ice-cream cone.
+
+242
+00:30:16,118 --> 00:30:17,536
+What flavour?
+
+243
+00:30:17,745 --> 00:30:19,038
+Orange.
+
+244
+00:30:19,913 --> 00:30:22,458
+It was orange.
+It wasn't like an ice-cream cone.
+
+245
+00:30:22,791 --> 00:30:25,002
+It was more like a shell.
+You know, like this:
+
+246
+00:30:25,252 --> 00:30:26,629
+Like a taco?
+
+247
+00:30:26,879 --> 00:30:31,508
+Was it like one of those Sara Lee
+moon-shaped cookies?
+
+248
+00:30:31,759 --> 00:30:34,303
+Those crescent cookies?
+
+249
+00:30:42,936 --> 00:30:45,481
+Don't you think I'm taking this
+really well?
+
+250
+00:30:49,109 --> 00:30:53,072
+I remember coming to places like this
+just to look at each other.
+
+251
+00:30:57,618 --> 00:30:59,119
+Snuggle.
+
+252
+00:33:24,974 --> 00:33:28,727
+I don't believe it.
+I don't believe it.
+
+253
+00:33:29,478 --> 00:33:30,896
+I don't believe it.
+
+254
+00:33:31,105 --> 00:33:32,147
+It's the Cotopaxi.
+
+255
+00:33:32,356 --> 00:33:35,442
+- Why is it here?
+- Beats the shit out of me.
+
+256
+00:34:10,102 --> 00:34:12,104
+Is this the bathroom?
+
+257
+00:34:29,997 --> 00:34:33,375
+Hey, this is not your toy to play with
+every time I turn around.
+
+258
+00:34:33,626 --> 00:34:35,419
+He looks like a 50l50 Bar.
+
+259
+00:34:35,628 --> 00:34:39,256
+All right, out of this house.
+All of you. Out of my house.
+
+260
+00:34:39,506 --> 00:34:41,842
+I'm sorry, but you're
+not to play with this!
+
+261
+00:34:42,051 --> 00:34:44,720
+Get out while I clean up your mess!
+
+262
+00:34:45,012 --> 00:34:46,847
+Thank you very much.
+
+263
+00:35:05,407 --> 00:35:07,618
+Roy, I found
+this overnight-tanning stuff.
+
+264
+00:35:07,826 --> 00:35:11,789
+I want you to spray it on half
+your face, so it's all one colour.
+
+265
+00:35:11,997 --> 00:35:15,042
+It makes my face look yellow.
+What does this remind you of?
+
+266
+00:35:15,876 --> 00:35:18,087
+Then we'll tell everybody
+you fell asleep...
+
+267
+00:35:18,337 --> 00:35:20,172
+...under the sun lamp
+on your right side.
+
+268
+00:35:20,506 --> 00:35:21,757
+What for?
+
+269
+00:35:23,342 --> 00:35:25,803
+- Dad, can I ask you a question?
+- What?
+
+270
+00:35:25,970 --> 00:35:27,471
+Are they for real?
+
+271
+00:35:27,680 --> 00:35:30,766
+That's what for.
+No, they are not for real.
+
+272
+00:35:31,016 --> 00:35:33,310
+Go outside and have a hot dog, okay?
+
+273
+00:35:33,560 --> 00:35:35,145
+Ronnie, don't tell him that.
+
+274
+00:35:35,646 --> 00:35:39,024
+Roy, look, don't talk about this until
+you know what you're talking about.
+
+275
+00:35:39,274 --> 00:35:43,278
+If I can't talk about it,
+how will I know what's going on?
+
+276
+00:35:43,529 --> 00:35:46,407
+- What?
+- Mom, I believe in them.
+
+277
+00:35:46,615 --> 00:35:49,994
+- I believe in them too.
+- Oh, no, you don't.
+
+278
+00:35:50,244 --> 00:35:51,870
+Dad says we do.
+
+279
+00:35:52,121 --> 00:35:53,914
+No, he does not.
+
+280
+00:35:54,707 --> 00:35:57,042
+- Do you, Roy?
+- Ronnie.
+
+281
+00:35:57,209 --> 00:36:00,713
+All I wanna do is know
+what's going on.
+
+282
+00:36:00,963 --> 00:36:04,091
+Nothing's going on!
+It's just one of those things.
+
+283
+00:36:04,341 --> 00:36:06,093
+Which things? Which things?
+
+284
+00:36:06,802 --> 00:36:09,471
+- I don't wanna hear about this.
+- This is very important!
+
+285
+00:36:09,722 --> 00:36:12,558
+I won't let it lay here.
+I'm gonna call somebody!
+
+286
+00:36:12,766 --> 00:36:14,935
+I'm not listening. I'm not listening.
+
+287
+00:36:15,144 --> 00:36:17,855
+I saw something last night
+that I can't explain.
+
+288
+00:36:19,815 --> 00:36:22,526
+I saw something last night
+I can't explain.
+
+289
+00:36:24,486 --> 00:36:26,780
+I'm going out there again tonight.
+
+290
+00:36:28,949 --> 00:36:32,244
+- No, you're not.
+- Yes, I am.
+
+291
+00:36:32,661 --> 00:36:35,539
+- No, you're not.
+- Yes, I am.
+
+292
+00:36:38,083 --> 00:36:39,418
+No, you're not.
+
+293
+00:36:39,627 --> 00:36:40,961
+Do they live on the moon?
+
+294
+00:36:41,211 --> 00:36:45,424
+They got bases there so at night
+they can come through your window.
+
+295
+00:36:45,674 --> 00:36:48,761
+This isn't a moonburn, goddamn it!
+
+296
+00:36:48,969 --> 00:36:51,889
+- You came through my window.
+- You hurt me!
+
+297
+00:36:52,097 --> 00:36:54,767
+- You took all my covers.
+- Roy's not like that.
+
+298
+00:36:54,975 --> 00:36:57,561
+He loves his work. Don't say that!
+
+299
+00:36:57,770 --> 00:37:00,230
+What did he do?
+He was with us all night!
+
+300
+00:37:00,439 --> 00:37:01,940
+I won't have to go tonight.
+
+301
+00:37:02,191 --> 00:37:04,902
+He is not like that at all!
+
+302
+00:37:05,486 --> 00:37:07,488
+Stop yelling at me!
+
+303
+00:37:07,946 --> 00:37:09,948
+Can't you tell him about this?
+
+304
+00:37:10,157 --> 00:37:11,450
+Hello?
+
+305
+00:37:11,867 --> 00:37:13,535
+I can't believe it.
+
+306
+00:37:13,744 --> 00:37:15,037
+Roy...
+
+307
+00:37:15,371 --> 00:37:17,039
+...you got fired.
+
+308
+00:37:17,998 --> 00:37:20,084
+They didn't even wanna talk to you.
+
+309
+00:38:34,575 --> 00:38:36,785
+Where were the sounds coming from?
+
+310
+00:39:03,103 --> 00:39:06,523
+Where did these sounds come from?
+Tell us, please.
+
+311
+00:39:33,634 --> 00:39:36,095
+Good evening, ladies and gentlemen.
+
+312
+00:39:40,474 --> 00:39:44,478
+I beg your pardon,
+but my English is not good too.
+
+313
+00:39:47,272 --> 00:39:48,899
+I want to share with you now...
+
+314
+00:39:49,149 --> 00:39:52,444
+...the breakthrough
+that happened in India.
+
+315
+00:39:52,820 --> 00:39:55,864
+We think it means something.
+
+316
+00:39:56,991 --> 00:39:59,827
+We think it is important.
+
+317
+00:40:00,411 --> 00:40:05,374
+To help you learn, I am using the hand
+sign created by Zoltán Kodály.
+
+318
+00:40:06,500 --> 00:40:11,755
+Kodály developed these signs
+to teach music to deaf children.
+
+319
+00:41:36,924 --> 00:41:38,384
+Hello?
+
+320
+00:41:39,218 --> 00:41:40,260
+Hi.
+
+321
+00:41:40,469 --> 00:41:42,846
+Hi, how are you? You came here too?
+
+322
+00:41:43,055 --> 00:41:44,598
+Yes. Jillian Guiler.
+
+323
+00:41:44,807 --> 00:41:47,059
+Roy Neary.
+Sorry about what happened.
+
+324
+00:41:47,309 --> 00:41:50,312
+- Good night!
+- What?
+
+325
+00:41:52,022 --> 00:41:54,233
+Look at you.
+
+326
+00:41:57,069 --> 00:41:59,363
+You got the same burn.
+
+327
+00:41:59,613 --> 00:42:03,492
+Yeah, but it's better on you.
+You got it all over at least.
+
+328
+00:42:03,742 --> 00:42:06,203
+I gotta tan the other side tonight.
+
+329
+00:42:06,787 --> 00:42:08,872
+How's the kid? I'm really sorry.
+
+330
+00:42:09,081 --> 00:42:10,582
+I'll be right back.
+
+331
+00:42:10,791 --> 00:42:13,836
+Raise your head a bit
+and give me a smile. Come on.
+
+332
+00:42:14,003 --> 00:42:17,172
+He's a little young for a record,
+don't you think?
+
+333
+00:42:37,067 --> 00:42:38,319
+Weird.
+
+334
+00:42:40,154 --> 00:42:44,742
+I know this sounds crazy, but
+ever since yesterday on the road...
+
+335
+00:42:45,492 --> 00:42:47,411
+...l've been seeing this shape.
+
+336
+00:42:49,747 --> 00:42:52,791
+In shaving cream and pillows...
+
+337
+00:43:05,179 --> 00:43:09,266
+Damn it, I know this!
+I know what this is.
+
+338
+00:43:14,772 --> 00:43:16,565
+This means something.
+
+339
+00:43:22,988 --> 00:43:24,823
+This is important.
+
+340
+00:43:25,741 --> 00:43:28,577
+- Here they come!
+- Get the camera!
+
+341
+00:43:28,786 --> 00:43:32,164
+- Out of the northwest!
+- Jimmy, come here.
+
+342
+00:43:46,095 --> 00:43:48,931
+It's like Halloween for grownups.
+
+343
+00:43:50,641 --> 00:43:52,101
+Trick or treat.
+
+344
+00:44:23,173 --> 00:44:24,425
+Wait a minute!
+
+345
+00:45:17,561 --> 00:45:18,604
+Here are the patterns.
+
+346
+00:45:18,854 --> 00:45:22,316
+- We received two 15-minute broadcasts.
+- Non-random signals?
+
+347
+00:45:22,566 --> 00:45:26,278
+104 rapid pulses. After a five-second
+interval, 40 pulses.
+
+348
+00:45:26,528 --> 00:45:28,906
+Another five-second break,
+and 30 pulses.
+
+349
+00:45:30,783 --> 00:45:35,913
+Silence, then a new set of numbers.
+40, break five. 36, break five. Ten.
+
+350
+00:45:36,121 --> 00:45:38,290
+- 104 rapid pulses.
+- Lord!
+
+351
+00:45:38,540 --> 00:45:42,252
+Wait 60 seconds and the
+whole doggone thing repeats.
+
+352
+00:45:42,878 --> 00:45:45,631
+- Where are the signals from?
+- The neighbourhood.
+
+353
+00:45:45,839 --> 00:45:47,800
+Light-travel time, roughly 7 seconds.
+
+354
+00:45:48,050 --> 00:45:50,177
+Well within the plane
+of the ecliptic.
+
+355
+00:45:50,427 --> 00:45:55,265
+Are these non-random signals here,
+40, 36, 10, in response to that?
+
+356
+00:45:55,516 --> 00:45:58,894
+No. They should be. We've sent
+this combination out for weeks.
+
+357
+00:45:59,061 --> 00:46:01,105
+But all we're getting back
+are numbers.
+
+358
+00:46:06,652 --> 00:46:10,364
+This could mean the India sounds
+reached a dead end.
+
+359
+00:46:10,698 --> 00:46:11,991
+They don't mean a thing.
+
+360
+00:46:12,199 --> 00:46:14,243
+There's so much we don't know.
+
+361
+00:46:14,451 --> 00:46:17,079
+How about where the signals originate?
+
+362
+00:46:20,082 --> 00:46:21,458
+Excuse me.
+
+363
+00:46:23,752 --> 00:46:25,754
+What letter is 104?
+
+364
+00:46:28,173 --> 00:46:29,508
+Excuse me.
+
+365
+00:46:32,720 --> 00:46:35,806
+Before I got paid to speak French...
+
+366
+00:46:38,934 --> 00:46:40,519
+...I used to read maps.
+
+367
+00:46:42,688 --> 00:46:44,982
+This first number is a longitude.
+
+368
+00:46:48,902 --> 00:46:52,072
+I've got two sets of three numbers.
+
+369
+00:46:52,281 --> 00:46:55,242
+Degrees, minutes and seconds.
+
+370
+00:46:55,451 --> 00:46:59,663
+The first number has three digits,
+and the last two are below 60.
+
+371
+00:47:00,623 --> 00:47:03,834
+It's not in the right ascension
+and declination on the sky.
+
+372
+00:47:05,210 --> 00:47:07,588
+These have to be Earth coordinates.
+
+373
+00:47:07,796 --> 00:47:09,798
+There's a globe in the office.
+
+374
+00:47:13,302 --> 00:47:14,637
+This is what we need.
+
+375
+00:47:14,845 --> 00:47:17,348
+Maybe there's a release pin
+underneath here.
+
+376
+00:47:17,765 --> 00:47:20,059
+That's a $2500 globe!
+What are you doing?
+
+377
+00:47:20,225 --> 00:47:23,020
+- It's heavy, watch your feet.
+- Let me hit the mother.
+
+378
+00:47:38,285 --> 00:47:42,122
+All right, everybody, quiet down!
+Hold it down! Quiet!
+
+379
+00:47:45,334 --> 00:47:46,710
+That's not right.
+
+380
+00:47:46,877 --> 00:47:49,213
+The antenna. How dumb!
+
+381
+00:47:49,421 --> 00:47:51,173
+- Which way's it pointing?
+- Northeast.
+
+382
+00:47:51,382 --> 00:47:52,883
+That's Wyoming.
+
+383
+00:47:59,723 --> 00:48:02,184
+We'll need a geodetic survey map
+of Wyoming.
+
+384
+00:48:02,434 --> 00:48:04,269
+I want it to the square yard.
+
+385
+00:48:04,520 --> 00:48:07,606
+The Army has a geodetic
+survey map of Wyoming.
+
+386
+00:48:07,773 --> 00:48:09,858
+We not only need...
+
+387
+00:49:59,426 --> 00:50:01,053
+Toys!
+
+388
+00:50:02,179 --> 00:50:04,098
+Toys!
+
+389
+00:51:21,300 --> 00:51:22,801
+Oh, my God!
+
+390
+00:51:51,580 --> 00:51:53,916
+You can come and play now.
+
+391
+00:51:54,166 --> 00:51:55,960
+You can come and play now.
+
+392
+00:52:01,256 --> 00:52:03,926
+Come in through the door.
+
+393
+00:52:05,803 --> 00:52:09,139
+One, two, three...
+
+394
+00:52:17,898 --> 00:52:19,274
+Oh, honey.
+
+395
+00:52:19,483 --> 00:52:21,610
+Mom, look! The sun's here!
+
+396
+00:52:24,697 --> 00:52:26,824
+Oh, honey.
+
+397
+00:52:27,491 --> 00:52:29,326
+Oh, my God!
+
+398
+00:53:07,364 --> 00:53:08,949
+Go away!
+
+399
+00:53:33,182 --> 00:53:34,600
+Clean everything up!
+
+400
+00:53:50,866 --> 00:53:52,993
+- Mom, let me listen!
+- Wait a minute! Wait.
+
+401
+00:54:10,636 --> 00:54:12,179
+- Mom, look!
+- Oh, my God.
+
+402
+00:54:20,854 --> 00:54:23,273
+Come in through the door.
+
+403
+00:54:45,170 --> 00:54:49,341
+Barry! Barry!
+
+404
+00:54:59,310 --> 00:55:00,686
+Jillian. Jillian.
+
+405
+00:55:03,731 --> 00:55:04,982
+May we have a statement?
+
+406
+00:55:05,190 --> 00:55:08,068
+The report you gave to the police
+was spectacular.
+
+407
+00:55:08,319 --> 00:55:10,404
+We need it for the 6:00 news.
+
+408
+00:55:13,073 --> 00:55:14,366
+They got him.
+
+409
+00:55:14,533 --> 00:55:15,576
+What?
+
+410
+00:55:15,784 --> 00:55:18,370
+Is it true you're leaving
+to look for your son?
+
+411
+00:55:18,621 --> 00:55:21,832
+- Has there been a ransom note?
+- Where will you start looking?
+
+412
+00:55:24,501 --> 00:55:26,337
+His name is Barry.
+
+413
+00:55:27,212 --> 00:55:29,298
+Where is your husband now,
+Mrs. Guiler?
+
+414
+00:55:30,799 --> 00:55:34,345
+Are you involved in any
+kind of parapsychologies?
+
+415
+00:55:35,346 --> 00:55:37,389
+Turn around, please. Turn around!
+
+416
+00:55:39,600 --> 00:55:42,853
+You gave the police a report.
+Would you mind repeating it?
+
+417
+00:55:46,857 --> 00:55:49,985
+Folks, you can go in now. Room 3655.
+
+418
+00:55:50,444 --> 00:55:53,781
+Ladies and gentlemen,
+this is a flying saucer.
+
+419
+00:55:53,989 --> 00:55:55,115
+That's the one I saw!
+
+420
+00:55:58,035 --> 00:56:01,288
+I swear that's the same one!
+It's the one I saw!
+
+421
+00:56:02,623 --> 00:56:05,209
+It's made of pewter, made in Japan...
+
+422
+00:56:05,417 --> 00:56:08,504
+...and thrown across the lawn
+by one of my children.
+
+423
+00:56:10,255 --> 00:56:14,551
+I wanted to point out that we're
+not all "polished brass" about this.
+
+424
+00:56:14,760 --> 00:56:17,680
+And also point out that last year...
+
+425
+00:56:17,888 --> 00:56:20,891
+...Americans shot more than seven
+billion photographs...
+
+426
+00:56:21,100 --> 00:56:26,146
+...at a record of $6.6 billion
+for film equipment and processing.
+
+427
+00:56:26,313 --> 00:56:28,232
+Now, with all those
+shutters clicking...
+
+428
+00:56:28,399 --> 00:56:31,193
+...where is the indisputable
+photographic evidence?
+
+429
+00:56:31,402 --> 00:56:34,780
+I've been in the news
+business for a long time.
+
+430
+00:56:35,030 --> 00:56:38,909
+We never took a picture
+of a plane crash as it happened...
+
+431
+00:56:39,159 --> 00:56:42,746
+...or an automobile accident
+and get it on the 6:00 news.
+
+432
+00:56:50,879 --> 00:56:54,258
+There are lots of ideas
+that would be fun to believe in.
+
+433
+00:56:54,633 --> 00:56:56,302
+Mental telepathy...
+
+434
+00:56:56,552 --> 00:56:58,053
+...time travel...
+
+435
+00:56:58,429 --> 00:57:00,097
+...immortality...
+
+436
+00:57:00,723 --> 00:57:02,599
+...even Santa Claus.
+
+437
+00:57:03,225 --> 00:57:07,396
+I know it's no fun to go home and
+say, "Guess what happened today?
+
+438
+00:57:07,604 --> 00:57:11,317
+I was in the shopping centre,
+and there was this bright light...
+
+439
+00:57:11,567 --> 00:57:13,777
+...and I rushed outside...
+
+440
+00:57:13,986 --> 00:57:15,988
+...and it was an aeroplane."
+
+441
+00:57:16,280 --> 00:57:19,199
+Excuse me, sir.
+I didn't want to see this.
+
+442
+00:57:20,534 --> 00:57:21,827
+I sure wish I had.
+
+443
+00:57:22,077 --> 00:57:23,996
+For 15 years I've been looking...
+
+444
+00:57:24,246 --> 00:57:27,249
+...for these damn silly lights
+in the night sky.
+
+445
+00:57:27,750 --> 00:57:29,126
+I've never found any.
+
+446
+00:57:29,376 --> 00:57:32,254
+I'd like to, because
+I believe in life elsewhere.
+
+447
+00:57:32,713 --> 00:57:34,006
+Why don't you admit...
+
+448
+00:57:34,214 --> 00:57:37,968
+...that the Air Force is conducting
+tests in the Foothills area?
+
+449
+00:57:38,177 --> 00:57:40,846
+It would be easy to say yes to that.
+
+450
+00:57:41,555 --> 00:57:45,225
+But I'm not going to mislead you.
+This is not the case.
+
+451
+00:57:45,809 --> 00:57:47,811
+I don't know what you saw.
+
+452
+00:57:48,062 --> 00:57:50,439
+You can't fool us by agreeing with us.
+
+453
+00:57:50,648 --> 00:57:52,107
+No, come on!
+
+454
+00:57:52,441 --> 00:57:54,360
+I saw Bigfoot once.
+
+455
+00:57:59,198 --> 00:58:03,369
+1951. Back in Sequoia National Park.
+
+456
+00:58:03,577 --> 00:58:07,831
+Had a foot on her, 37 inches.
+Heel to toe.
+
+457
+00:58:11,752 --> 00:58:15,255
+Made a sound I would not want
+to hear twice in my life.
+
+458
+00:58:20,177 --> 00:58:23,013
+I believe I've encountered
+that gentleman myself.
+
+459
+00:58:24,139 --> 00:58:26,767
+I was sitting on the porch,
+looking through the screen.
+
+460
+00:58:26,976 --> 00:58:29,353
+I seen this big white dot in the sky.
+
+461
+00:58:29,561 --> 00:58:31,855
+It turned red and blue and green.
+
+462
+00:58:36,610 --> 00:58:41,573
+UFOs do not represent a direct
+physical threat to national security.
+
+463
+00:58:42,700 --> 00:58:46,328
+We do not support them,
+and we encourage you not to.
+
+464
+00:59:24,992 --> 00:59:27,161
+Let's get in touch with
+the forest service...
+
+465
+00:59:27,369 --> 00:59:31,081
+...or we'll end up in a wilderness
+area with vehicular traffic.
+
+466
+00:59:31,457 --> 00:59:35,252
+And that's strictly sacred-cow stuff
+for those folks in Wyoming.
+
+467
+00:59:41,675 --> 00:59:44,219
+If this mission fully develops...
+
+468
+00:59:45,220 --> 00:59:50,142
+...I get white knuckles thinking about
+what might be ahead for those folks.
+
+469
+00:59:51,268 --> 00:59:53,103
+Your flight will be at 2000 hours.
+
+470
+00:59:53,312 --> 00:59:56,982
+We have a limo that'll take you
+to the heliport now.
+
+471
+00:59:57,524 --> 01:00:01,070
+And transportation will be provided
+on the other end.
+
+472
+01:00:03,572 --> 01:00:06,200
+- I like the flash-flood idea.
+- Where do you get the water?
+
+473
+01:00:06,367 --> 01:00:08,035
+We've had about two inches of rain...
+
+474
+01:00:08,202 --> 01:00:11,830
+We'll tell them one of the reservoirs
+is gonna burst.
+
+475
+01:00:11,997 --> 01:00:14,625
+Besides, there's not enough water
+in those reservoirs!
+
+476
+01:00:14,833 --> 01:00:18,170
+Wait! Contaminated water
+affects people, crops, animals.
+
+477
+01:00:18,420 --> 01:00:19,588
+Disease.
+
+478
+01:00:19,797 --> 01:00:22,466
+- Yeah, epidemic.
+- What kind of disease?
+
+479
+01:00:22,716 --> 01:00:23,759
+A plague epidemic.
+
+480
+01:00:23,968 --> 01:00:26,095
+Nobody will believe a plague.
+
+481
+01:00:26,720 --> 01:00:28,681
+- Anthrax.
+- Ranching country.
+
+482
+01:00:28,889 --> 01:00:31,225
+There are a lot of sheep in the hills.
+
+483
+01:00:31,433 --> 01:00:32,685
+Good, I like that.
+
+484
+01:00:32,893 --> 01:00:35,938
+- It'll create a panic.
+- But it may not evacuate everybody.
+
+485
+01:00:36,188 --> 01:00:39,108
+There's always some joker
+who thinks he's immune.
+
+486
+01:00:41,151 --> 01:00:45,322
+I need something so scary
+it'll clear 300 square miles...
+
+487
+01:00:45,531 --> 01:00:48,409
+...of every living Christian soul.
+
+488
+01:01:19,648 --> 01:01:21,358
+Help yourself.
+
+489
+01:01:24,403 --> 01:01:28,907
+I hate these potatoes.
+There's a dead fly in my potatoes.
+
+490
+01:01:29,116 --> 01:01:30,409
+It's okay.
+
+491
+01:03:16,849 --> 01:03:18,809
+Well, I guess you've noticed...
+
+492
+01:03:19,601 --> 01:03:24,106
+...something is a little strange
+with Dad.
+
+493
+01:03:27,318 --> 01:03:29,069
+It's okay, though.
+
+494
+01:03:31,363 --> 01:03:33,032
+I'm still Dad.
+
+495
+01:03:38,078 --> 01:03:42,124
+I can't describe it,
+what I'm feeling...
+
+496
+01:03:42,374 --> 01:03:44,710
+...and what I'm thinking.
+
+497
+01:03:47,338 --> 01:03:49,548
+This means something.
+
+498
+01:03:50,799 --> 01:03:53,093
+This is important.
+
+499
+01:04:04,229 --> 01:04:06,023
+That's not right.
+
+500
+01:04:09,818 --> 01:04:11,320
+It's not right.
+
+501
+01:04:13,447 --> 01:04:15,240
+That's not right.
+
+502
+01:04:43,560 --> 01:04:45,354
+What is it?
+
+503
+01:04:46,897 --> 01:04:49,233
+What is it?!
+
+504
+01:04:56,615 --> 01:04:58,367
+It's not fair.
+
+505
+01:05:03,872 --> 01:05:05,374
+Tell me.
+
+506
+01:05:30,149 --> 01:05:34,236
+Roy? Roy.
+
+507
+01:05:35,154 --> 01:05:36,947
+Open the door, please.
+
+508
+01:05:38,032 --> 01:05:42,244
+Please. Roy. Roy!
+
+509
+01:05:42,411 --> 01:05:44,079
+Open this door!
+
+510
+01:05:44,330 --> 01:05:46,248
+Open this door!
+
+511
+01:05:51,879 --> 01:05:53,380
+All right.
+
+512
+01:06:14,693 --> 01:06:17,613
+I don't think I know
+what's happening to me.
+
+513
+01:06:23,619 --> 01:06:28,248
+Look, Roy. What it is,
+is family therapy.
+
+514
+01:06:28,457 --> 01:06:31,168
+I mean, we all go. We all talk.
+
+515
+01:06:31,418 --> 01:06:35,381
+No one is singled out.
+Maybe it's not your fault anyway.
+
+516
+01:06:35,589 --> 01:06:40,302
+- It's waterproof. It still works.
+- Roy! Promise me you'll go!
+
+517
+01:06:40,844 --> 01:06:43,889
+You crybaby! You crybaby!
+
+518
+01:06:44,139 --> 01:06:45,975
+- You crybaby!
+- Get out of here!
+
+519
+01:06:46,225 --> 01:06:47,393
+Get out!
+
+520
+01:06:47,601 --> 01:06:50,020
+Come on, you guys. Come on.
+
+521
+01:06:50,187 --> 01:06:51,939
+You crybaby!
+
+522
+01:06:52,189 --> 01:06:53,732
+- Be quiet!
+- Stop it!
+
+523
+01:06:53,983 --> 01:06:55,567
+I don't understand it!
+
+524
+01:06:55,818 --> 01:06:58,279
+- Neither do I.
+- Get out!
+
+525
+01:06:58,529 --> 01:07:01,448
+Go to your room and close the door.
+
+526
+01:07:04,451 --> 01:07:05,494
+- Ronnie?
+- Yes.
+
+527
+01:07:05,744 --> 01:07:09,915
+I'm really scared.
+I want you to help me.
+
+528
+01:07:10,207 --> 01:07:13,252
+All this bullshit!
+It's turning this house upside down!
+
+529
+01:07:13,419 --> 01:07:15,838
+- Ronnie, just...
+- I just hate you! That's why!
+
+530
+01:07:16,088 --> 01:07:17,798
+- No!
+- Ronnie. Ronnie.
+
+531
+01:07:17,965 --> 01:07:21,302
+Hold me. Put your arms
+around me. It'll really help me.
+
+532
+01:07:21,552 --> 01:07:22,720
+It'll really help me.
+
+533
+01:07:22,928 --> 01:07:25,681
+Listen! Listen!
+Don't you see what's happening?
+
+534
+01:07:26,223 --> 01:07:28,225
+None of our friends call us anymore!
+
+535
+01:07:28,434 --> 01:07:30,644
+You're out of work! You don't care!
+
+536
+01:07:30,853 --> 01:07:33,480
+You're wrecking us!
+You're ruining us!
+
+537
+01:07:33,939 --> 01:07:36,442
+- Ronnie, just hold on.
+- No! No!
+
+538
+01:07:36,650 --> 01:07:37,901
+- Hold on.
+- No!
+
+539
+01:07:39,820 --> 01:07:41,739
+Ronnie.
+
+540
+01:07:42,323 --> 01:07:44,241
+Ronnie?
+
+541
+01:07:45,492 --> 01:07:48,537
+Ronnie, open the door now.
+Come on.
+
+542
+01:08:23,864 --> 01:08:26,909
+Well, what do you know?
+It's disintegrated.
+
+543
+01:08:30,037 --> 01:08:33,916
+Happy birthday, you thing from
+another world, you.
+
+544
+01:08:34,458 --> 01:08:36,043
+Thank you!
+
+545
+01:08:43,092 --> 01:08:45,052
+Well, I guess he's had enough.
+
+546
+01:08:47,513 --> 01:08:49,848
+Are you going to yell at me?
+
+547
+01:09:05,531 --> 01:09:08,450
+Ronnie? Everything's fine.
+
+548
+01:09:18,669 --> 01:09:20,754
+All this stuff is coming down.
+
+549
+01:09:25,718 --> 01:09:28,470
+It's all gonna be like it was.
+
+550
+01:09:36,645 --> 01:09:41,734
+That's the last straw!
+Now I use my secret weapon!
+
+551
+01:10:10,971 --> 01:10:12,765
+Roy?
+
+552
+01:10:12,931 --> 01:10:16,644
+Roy, I'm sorry about last night. Roy!
+
+553
+01:10:19,688 --> 01:10:21,941
+Roy, what are you doing?
+
+554
+01:10:22,942 --> 01:10:24,443
+Jesus!
+
+555
+01:10:33,786 --> 01:10:35,079
+The plants are fine there!
+
+556
+01:10:36,497 --> 01:10:37,706
+Can you hear me?
+
+557
+01:10:38,374 --> 01:10:39,541
+Wait!
+
+558
+01:10:39,750 --> 01:10:41,752
+Wait! What are you doing?
+
+559
+01:10:41,961 --> 01:10:43,128
+You're gonna love it!
+
+560
+01:10:43,337 --> 01:10:45,756
+- What do you mean?
+- You'll really love this.
+
+561
+01:10:45,965 --> 01:10:48,676
+Roy, what are you doing?
+
+562
+01:10:54,139 --> 01:10:55,849
+Oh, Roy!
+
+563
+01:10:56,642 --> 01:10:57,685
+My God!
+
+564
+01:10:59,353 --> 01:11:00,813
+Come on, men!
+
+565
+01:11:02,314 --> 01:11:06,527
+Dad, after this, can we
+throw dirt in my window?
+
+566
+01:11:10,114 --> 01:11:11,448
+Stop it.
+
+567
+01:11:12,700 --> 01:11:14,410
+Stop. Stop it.
+
+568
+01:11:14,660 --> 01:11:16,078
+Honey!
+
+569
+01:11:16,704 --> 01:11:21,041
+If I don't do this, that's when
+I'm gonna need a doctor.
+
+570
+01:11:24,670 --> 01:11:25,713
+What are you doing?
+
+571
+01:11:25,963 --> 01:11:27,631
+- I got it.
+- What are you doing?
+
+572
+01:11:27,840 --> 01:11:31,302
+I figured it out, that's all.
+Will you just listen?
+
+573
+01:11:31,552 --> 01:11:36,473
+You ever look at something crazy, and
+then see it another way and it's not?
+
+574
+01:11:36,640 --> 01:11:37,683
+No, I haven't.
+
+575
+01:11:37,891 --> 01:11:39,935
+Come on, Ronnie. Just listen.
+
+576
+01:11:40,144 --> 01:11:42,521
+- I don't know what you're doing.
+- Close your eyes.
+
+577
+01:11:42,688 --> 01:11:46,108
+Close your eyes and hold your breath,
+everything will be really pretty.
+
+578
+01:11:47,318 --> 01:11:48,360
+You're scaring us now.
+
+579
+01:11:48,569 --> 01:11:51,655
+Don't be scared. Don't be scared.
+I feel really good.
+
+580
+01:11:51,905 --> 01:11:53,657
+Everything's gonna be all right.
+
+581
+01:11:53,866 --> 01:11:55,993
+I haven't felt this good in years.
+
+582
+01:11:56,243 --> 01:11:58,412
+Everything's gonna be okay.
+I can feel it.
+
+583
+01:12:01,790 --> 01:12:04,627
+- Now what else? What else?
+- Like this? Like this?
+
+584
+01:12:05,919 --> 01:12:07,171
+Right.
+
+585
+01:12:46,168 --> 01:12:47,461
+Like this?
+
+586
+01:12:50,339 --> 01:12:51,715
+Chicken wire.
+
+587
+01:13:02,184 --> 01:13:04,269
+Whatever you're doing,
+it's against the law!
+
+588
+01:13:04,436 --> 01:13:06,105
+He's putting it back, Mrs. Harris.
+
+589
+01:13:06,313 --> 01:13:07,398
+I'll pay you for this.
+
+590
+01:13:07,564 --> 01:13:08,607
+Take it. Take it.
+
+591
+01:13:08,816 --> 01:13:10,609
+I'm perfectly fine.
+
+592
+01:13:10,859 --> 01:13:12,945
+Let go of this fence.
+Come with me.
+
+593
+01:13:13,153 --> 01:13:16,031
+Do you want me to hit you?
+Let go of that fence!
+
+594
+01:13:16,240 --> 01:13:18,617
+Toby! Listen to me. Listen to me.
+
+595
+01:13:18,826 --> 01:13:20,536
+Come on, right now.
+We're going.
+
+596
+01:13:20,786 --> 01:13:23,914
+- I want to stay here!
+- Let go of the fence! Come on.
+
+597
+01:13:42,182 --> 01:13:44,351
+Stay! Stay!
+
+598
+01:13:48,314 --> 01:13:50,733
+- Where we going?
+- Where we going?
+
+599
+01:13:50,941 --> 01:13:52,651
+- Where are we going?
+- Get in the car.
+
+600
+01:13:52,818 --> 01:13:55,779
+- Where are we going?
+- Quietly, quickly, get in.
+
+601
+01:13:56,196 --> 01:13:57,406
+Get in there, Toby.
+
+602
+01:13:57,865 --> 01:13:58,907
+Quickly.
+
+603
+01:14:02,036 --> 01:14:04,496
+- Dad needs some more help!
+- Lock the doors!
+
+604
+01:14:04,705 --> 01:14:06,040
+Dad needs some more help!
+
+605
+01:14:06,248 --> 01:14:09,752
+Quiet! Just lock the doors.
+Roll up those windows.
+
+606
+01:14:09,960 --> 01:14:12,463
+Dad needs some more help!
+
+607
+01:14:12,713 --> 01:14:14,298
+Honey, where you going?
+
+608
+01:14:14,506 --> 01:14:16,425
+- What?
+- Where are you going?
+
+609
+01:14:17,259 --> 01:14:19,637
+Taking the kids to my sister's.
+
+610
+01:14:21,096 --> 01:14:23,307
+That's crazy.
+You're not even dressed.
+
+611
+01:14:24,433 --> 01:14:25,517
+What?
+
+612
+01:14:25,893 --> 01:14:27,269
+You said what?
+
+613
+01:14:32,274 --> 01:14:33,943
+Ronnie, wait!
+
+614
+01:14:34,193 --> 01:14:36,195
+Ronnie, hold it.
+
+615
+01:14:37,696 --> 01:14:39,114
+Would you hold it one minute?
+
+616
+01:15:06,392 --> 01:15:07,434
+Morning.
+
+617
+01:15:46,974 --> 01:15:50,144
+What is wrong with me today?
+
+618
+01:15:56,233 --> 01:15:57,484
+Who is it, please?
+
+619
+01:15:57,860 --> 01:16:02,114
+It's the mailman. There's a package
+for Julie Anderson.
+
+620
+01:16:05,200 --> 01:16:08,245
+You can just leave it at the door!
+
+621
+01:16:09,913 --> 01:16:14,251
+I can't do that.
+I'm supposed to C. O.D. Lik e that.
+
+622
+01:16:14,460 --> 01:16:15,794
+And besides...
+
+623
+01:16:16,754 --> 01:16:19,214
+...you and I have to have
+a little talk...
+
+624
+01:16:20,215 --> 01:16:21,800
+...about Kim.
+
+625
+01:16:41,362 --> 01:16:44,239
+Lik e sands through the hourglass...
+
+626
+01:16:44,490 --> 01:16:47,451
+...so are the Days of Our Lives.
+
+627
+01:17:13,185 --> 01:17:16,981
+Good evening. At the top of the news
+tonight, a rail disaster.
+
+628
+01:17:17,189 --> 01:17:19,066
+At Devil's Tower, Wyoming...
+
+629
+01:17:19,275 --> 01:17:22,736
+...a trainload of dangerous
+chemical gas went off the rails...
+
+630
+01:17:22,945 --> 01:17:25,572
+...and forced the widest
+area evacuation...
+
+631
+01:17:25,781 --> 01:17:29,034
+...in the history of these
+controversial Army rail shipments.
+
+632
+01:17:29,243 --> 01:17:32,579
+Whenever you want me to.
+Tomorrow is fine.
+
+633
+01:17:34,540 --> 01:17:36,667
+I can do other things.
+
+634
+01:17:37,376 --> 01:17:39,628
+I'm trying to be.
+
+635
+01:17:40,963 --> 01:17:42,006
+Yes, I am.
+
+636
+01:17:42,214 --> 01:17:45,175
+The Army and National Guard are
+supervising the evacuation.
+
+637
+01:17:45,592 --> 01:17:50,055
+I am an adult, okay?
+Even though there's no such thing.
+
+638
+01:17:50,264 --> 01:17:51,890
+It was a joke!
+
+639
+01:17:52,099 --> 01:17:54,852
+- The danger will be over
+within 72 hours.
+
+640
+01:17:55,519 --> 01:17:58,314
+Ronnie, anything you want.
+
+641
+01:17:58,647 --> 01:18:01,275
+Anything you want, I'll do.
+
+642
+01:18:04,236 --> 01:18:05,738
+For how long?
+
+643
+01:18:11,744 --> 01:18:13,370
+All of you?
+
+644
+01:18:14,705 --> 01:18:19,251
+No. Ronnie, I wanna talk
+about this in person.
+
+645
+01:18:20,336 --> 01:18:23,881
+This is not... We can't talk
+about this on the telephone.
+
+646
+01:18:25,299 --> 01:18:27,926
+Ronnie! Don't hang up!
+Just don't...
+
+647
+01:18:28,093 --> 01:18:34,224
+- meat should remain unaffected.
+This means order your steak well-done.
+
+648
+01:18:34,391 --> 01:18:37,561
+Devil's Tower, Wyoming was
+the first national monument...
+
+649
+01:18:37,770 --> 01:18:41,523
+...erected in this country by
+Theodore Roosevelt in 1915.
+
+650
+01:18:41,774 --> 01:18:45,277
+Thousands of civilian refugees
+are fleeing the area...
+
+651
+01:18:45,486 --> 01:18:48,906
+...spurred by rumours that the
+overturned tank er cars...
+
+652
+01:18:49,156 --> 01:18:53,661
+...at Walkashi Needles Junction were
+filled to capacity with nerve gas.
+
+653
+01:18:53,827 --> 01:18:55,496
+In a few minutes,
+we're going to be...
+
+654
+01:18:55,704 --> 01:18:59,249
+- boasts 400, 000 vacationers.
+
+655
+01:18:59,416 --> 01:19:02,127
+Fortunately, during this mishap
+there have been no fatalities.
+
+656
+01:19:02,336 --> 01:19:04,880
+- Evacuate this area,
+which soon...
+
+657
+01:19:05,130 --> 01:19:08,801
+...will become the "hot zone,"
+depending on the prevailing winds.
+
+658
+01:19:09,051 --> 01:19:12,805
+This is as close to the disaster
+as we've been allowed to get.
+
+659
+01:19:13,055 --> 01:19:15,724
+- Due to a strong prevailing
+north-south wind.
+
+660
+01:19:15,933 --> 01:19:18,727
+Army engineers and the
+Wyoming National Guard...
+
+661
+01:19:18,936 --> 01:19:22,439
+...are making every effort to
+contain the leaking toxins...
+
+662
+01:19:22,690 --> 01:19:25,818
+...and evacuate an area of almost
+200 square miles.
+
+663
+01:19:26,026 --> 01:19:29,405
+Everyone is being warned:
+Stay out of the area.
+
+664
+01:19:29,655 --> 01:19:32,658
+Everyone, please,
+stay out of the area.
+
+665
+01:19:32,741 --> 01:19:34,910
+- And thousands of others
+are homeless.
+
+666
+01:19:35,119 --> 01:19:39,540
+U.S. Army Materiel Command has
+issued these new area restrictions:
+
+667
+01:19:39,790 --> 01:19:42,167
+All roadways north of Crowheart on
+Interstate 25.
+
+668
+01:19:42,334 --> 01:19:43,377
+Shit.
+
+669
+01:19:43,544 --> 01:19:46,755
+All roads leading into the
+Grand Tetons west of Meteste.
+
+670
+01:19:46,964 --> 01:19:49,883
+All multilane undivided
+full-traffic interchange...
+
+671
+01:19:50,092 --> 01:19:54,054
+...railroad, local and historic
+stage roads south of Cody.
+
+672
+01:20:04,356 --> 01:20:07,234
+Why aren't there fat lines
+instead of these thin ones?
+
+673
+01:20:08,819 --> 01:20:10,362
+Yo!
+
+674
+01:20:11,780 --> 01:20:14,116
+- Holy mother of...
+- You're going the wrong way!
+
+675
+01:20:14,450 --> 01:20:18,996
+Yo! Turn back around. Back this way.
+
+676
+01:20:19,622 --> 01:20:21,165
+What's the matter with you?
+
+677
+01:20:21,457 --> 01:20:23,000
+Yes, sir. Sorry, officer.
+
+678
+01:20:23,250 --> 01:20:26,086
+It's just a rental, officer.
+Just a rental.
+
+679
+01:20:26,879 --> 01:20:28,213
+My fault! My fault!
+
+680
+01:20:28,464 --> 01:20:30,758
+Starting with the letter "F,"
+as in "Frank"...
+
+681
+01:20:31,008 --> 01:20:33,177
+...to the letter "J" as in "Jack"...
+
+682
+01:20:33,385 --> 01:20:37,765
+...please find your way to the loading
+platform for immediate boarding.
+
+683
+01:20:41,393 --> 01:20:43,729
+You'll be real disappointed
+and sorry...
+
+684
+01:20:43,938 --> 01:20:48,442
+...if you don't have an early-warning
+system, such as a bird, a gas mask.
+
+685
+01:20:48,651 --> 01:20:50,778
+Why, even my dog has a gas mask.
+
+686
+01:20:50,986 --> 01:20:53,656
+And any of you folks are
+worth more than a dog.
+
+687
+01:20:56,408 --> 01:21:00,037
+Roy? Roy!
+
+688
+01:21:01,664 --> 01:21:03,666
+Roy!
+
+689
+01:21:16,845 --> 01:21:18,097
+Roy?
+
+690
+01:21:21,225 --> 01:21:22,977
+Roy?
+
+691
+01:21:25,354 --> 01:21:26,897
+Roy!
+
+692
+01:21:28,107 --> 01:21:30,025
+Roy.
+
+693
+01:21:32,611 --> 01:21:34,071
+Roy!
+
+694
+01:21:38,701 --> 01:21:41,704
+I don't care where you go,
+just get behind the barricade!
+
+695
+01:21:42,871 --> 01:21:45,082
+There's no way out!
+
+696
+01:22:08,564 --> 01:22:09,607
+What are we doing?
+
+697
+01:22:09,815 --> 01:22:13,193
+Only way to get back is cross-country.
+We'll break through the fence.
+
+698
+01:22:13,402 --> 01:22:15,237
+- Let's go.
+- All right, hold on. Hold on.
+
+699
+01:22:39,345 --> 01:22:41,680
+The police dragged the river for him.
+
+700
+01:22:41,889 --> 01:22:44,808
+I told them he wasn't in the river.
+He wasn't.
+
+701
+01:22:45,059 --> 01:22:49,730
+Then they went around to every house
+within five miles...
+
+702
+01:22:50,731 --> 01:22:54,818
+...looking inside
+back-yard refrigerators.
+
+703
+01:22:58,864 --> 01:23:02,242
+They asked if I'd seen any strangers
+in the neighbourhood.
+
+704
+01:24:10,394 --> 01:24:12,605
+I don't believe it's real.
+
+705
+01:24:14,732 --> 01:24:16,775
+I don't believe it's real.
+
+706
+01:24:18,027 --> 01:24:19,486
+It's real.
+
+707
+01:24:26,076 --> 01:24:29,330
+Let's get down there. Get some gas
+and get down in there.
+
+708
+01:24:32,541 --> 01:24:33,584
+What are those?
+
+709
+01:24:58,025 --> 01:25:02,196
+Look, I guarantee you.
+This whole thing is a put-on.
+
+710
+01:25:49,118 --> 01:25:51,412
+What do you want?
+Get your hands off!
+
+711
+01:25:53,706 --> 01:25:56,125
+- How are you feeling?
+- I feel fine!
+
+712
+01:25:56,834 --> 01:26:00,170
+According to my birds, the only bad air
+is from you guys farting around!
+
+713
+01:26:11,307 --> 01:26:13,225
+- Move them out!
+- What's happening?
+
+714
+01:26:13,434 --> 01:26:15,728
+- What? Where are we going?
+- Go to the van.
+
+715
+01:26:15,894 --> 01:26:17,271
+Where are you taking her?
+
+716
+01:26:17,479 --> 01:26:19,565
+Hold it! Why can't we go together?
+
+717
+01:26:19,732 --> 01:26:20,774
+Watch your step.
+
+718
+01:26:21,275 --> 01:26:22,818
+Roy.
+
+719
+01:26:39,084 --> 01:26:42,087
+We have very little time, Mr. Neary.
+This is Mr. Lacombe.
+
+720
+01:26:42,254 --> 01:26:44,506
+- Hello.
+- We need answers from you...
+
+721
+01:26:44,673 --> 01:26:46,800
+...that are honest, direct
+and to the point.
+
+722
+01:26:47,009 --> 01:26:48,135
+Where is Jillian?
+
+723
+01:26:50,429 --> 01:26:53,557
+Do you realise the danger you
+and your friend have risked?
+
+724
+01:26:54,600 --> 01:26:57,895
+In coming here, you've
+exposed yourself to toxic gas.
+
+725
+01:26:58,103 --> 01:26:59,688
+Well, I'm alive.
+
+726
+01:26:59,897 --> 01:27:01,273
+We're talking.
+
+727
+01:27:02,274 --> 01:27:04,318
+This is true, Mr. Neary.
+
+728
+01:27:05,235 --> 01:27:08,614
+But if the wind blew from
+the south instead of the north...
+
+729
+01:27:10,032 --> 01:27:12,242
+...this conversation would not be
+taking place.
+
+730
+01:27:12,451 --> 01:27:14,328
+There's nothing wrong with the air.
+
+731
+01:27:15,829 --> 01:27:17,414
+What makes you say that?
+
+732
+01:27:17,665 --> 01:27:19,917
+I just know.
+There's nothing wrong with it.
+
+733
+01:27:20,459 --> 01:27:22,670
+Go outside and make me a liar.
+
+734
+01:27:26,882 --> 01:27:29,301
+I wanna talk to the man in charge.
+
+735
+01:27:29,510 --> 01:27:31,887
+Mr. Lacombe is the highest authority.
+
+736
+01:27:32,262 --> 01:27:34,098
+He isn't even an American.
+
+737
+01:27:36,475 --> 01:27:39,436
+Mr. Neary, are you an artist
+or a painter?
+
+738
+01:27:40,604 --> 01:27:41,647
+No.
+
+739
+01:27:45,276 --> 01:27:48,362
+Have you been hearing a persistent
+ringing in your ears?
+
+740
+01:27:48,570 --> 01:27:50,406
+Almost an agreeable ringing?
+
+741
+01:27:50,614 --> 01:27:51,657
+No.
+
+742
+01:27:53,075 --> 01:27:55,244
+Having headaches, migraines?
+
+743
+01:27:55,744 --> 01:27:56,829
+Yeah.
+
+744
+01:27:58,080 --> 01:28:00,124
+An irritation in your eyes
+and your sinuses?
+
+745
+01:28:00,374 --> 01:28:01,500
+Yeah.
+
+746
+01:28:02,626 --> 01:28:05,838
+Do you have hives?
+Do you have allergies?
+
+747
+01:28:07,923 --> 01:28:10,175
+And burning on your face
+and on your body?
+
+748
+01:28:10,384 --> 01:28:12,970
+- Yes. Who are you people?
+- Look at this.
+
+749
+01:28:13,220 --> 01:28:16,223
+I got one like it in my living room.
+Who are you people?
+
+750
+01:28:22,104 --> 01:28:24,607
+Monsieur Neary, please,
+one more question.
+
+751
+01:28:26,358 --> 01:28:28,944
+Have you recently had
+a close encounter?
+
+752
+01:28:30,112 --> 01:28:33,198
+A close encounter
+with something very unusual?
+
+753
+01:28:36,118 --> 01:28:38,245
+Who are you people?
+
+754
+01:28:44,793 --> 01:28:48,756
+- These people strangers to you?
+- Yeah. Except for her.
+
+755
+01:28:50,966 --> 01:28:53,802
+And the two of you felt compelled
+to be here?
+
+756
+01:28:54,928 --> 01:28:56,805
+Yeah, you might say that.
+
+757
+01:28:57,306 --> 01:29:00,559
+- But what did you expect to find?
+- An answer.
+
+758
+01:29:02,186 --> 01:29:04,104
+That's not crazy, is it?
+
+759
+01:29:20,371 --> 01:29:23,374
+Hold it, hold it, hold it.
+
+760
+01:29:23,624 --> 01:29:24,792
+Is that it?
+
+761
+01:29:25,793 --> 01:29:28,212
+Is that all you're gonna ask me?
+
+762
+01:29:29,129 --> 01:29:31,632
+Well, I got a couple of thousand
+goddamn questions.
+
+763
+01:29:31,840 --> 01:29:36,053
+I wanna speak to someone in charge.
+I wanna lodge a complaint.
+
+764
+01:29:36,428 --> 01:29:38,722
+You have no right
+to make people crazy.
+
+765
+01:29:38,931 --> 01:29:43,143
+You think I investigate every
+Walter Cronkite story there is?
+
+766
+01:29:43,560 --> 01:29:47,231
+If this is just nerve gas, how come I
+know everything in such detail?
+
+767
+01:29:47,439 --> 01:29:49,191
+I've never been here before.
+
+768
+01:29:50,150 --> 01:29:52,069
+How come I know so much?
+
+769
+01:29:52,361 --> 01:29:54,280
+What the hell is going on
+around here?!
+
+770
+01:29:54,488 --> 01:29:56,532
+Who the hell are you people?!
+
+771
+01:30:21,390 --> 01:30:23,475
+Is that it?! Answer me!
+
+772
+01:30:24,184 --> 01:30:27,605
+I didn't come this far to get
+taken on any bus ride home!
+
+773
+01:30:50,210 --> 01:30:52,296
+Five minutes. Five!
+
+774
+01:30:52,963 --> 01:30:55,174
+We're gonna hold
+for a couple of minutes.
+
+775
+01:31:29,124 --> 01:31:32,461
+You brought 12 people to
+the decontamination camp...
+
+776
+01:31:32,670 --> 01:31:37,091
+...instead of the evacuation centre
+where they belong. Why?
+
+777
+01:31:37,299 --> 01:31:40,135
+- Because this means something.
+- This means something.
+
+778
+01:31:42,012 --> 01:31:45,266
+These people have come from
+all over their country...
+
+779
+01:31:47,017 --> 01:31:50,437
+...to a place they've been told
+will endanger their lives.
+
+780
+01:31:50,646 --> 01:31:51,772
+Why?
+
+781
+01:31:52,022 --> 01:31:55,734
+Because somebody could be trying
+to subvert this whole operation...
+
+782
+01:31:55,985 --> 01:31:59,446
+...by sending in fanatics, cultists
+and Christ knows what all.
+
+783
+01:32:00,239 --> 01:32:01,782
+Yes.
+
+784
+01:32:02,700 --> 01:32:04,868
+Thank you very much.
+
+785
+01:32:07,037 --> 01:32:09,498
+This is a small group of people...
+
+786
+01:32:10,958 --> 01:32:14,211
+...who have shared a vision in common.
+
+787
+01:32:14,837 --> 01:32:16,005
+Look.
+
+788
+01:32:19,133 --> 01:32:22,219
+It's still a mystery to me
+why they are here.
+
+789
+01:32:22,469 --> 01:32:24,471
+Even they do not know why.
+
+790
+01:32:43,115 --> 01:32:44,867
+Jillian!
+
+791
+01:32:45,951 --> 01:32:47,911
+- Jillian.
+- Don't! You'll be poisoned!
+
+792
+01:32:48,329 --> 01:32:51,582
+Listen, there's nothing wrong
+with the air around here.
+
+793
+01:32:51,790 --> 01:32:55,794
+The Army's getting us out because
+they don't want any witnesses.
+
+794
+01:32:56,462 --> 01:32:59,798
+If the Army doesn't want us here,
+it's none of our business.
+
+795
+01:33:00,049 --> 01:33:03,594
+We wanted to see the mountain.
+It was a coincidence when I painted it.
+
+796
+01:33:03,844 --> 01:33:05,429
+You can take it off!
+
+797
+01:33:05,638 --> 01:33:08,432
+The air here is better
+than in Los Angeles.
+
+798
+01:33:09,391 --> 01:33:13,187
+Listen. How many of you people are
+for getting out of here?
+
+799
+01:33:18,734 --> 01:33:22,237
+I don't know what's happening either.
+I must find out what's going on.
+
+800
+01:33:26,992 --> 01:33:31,705
+For every one of these anxious,
+anguished people who've come here...
+
+801
+01:33:34,208 --> 01:33:38,963
+...there must be hundreds more touched
+by the vision who never made it here.
+
+802
+01:33:39,964 --> 01:33:42,883
+Simply because they never watch
+the television.
+
+803
+01:33:44,551 --> 01:33:47,846
+Or perhaps they watched it, but never
+made the psychic connection.
+
+804
+01:33:48,097 --> 01:33:51,892
+It's a coincidence. It's not scientific.
+
+805
+01:33:54,395 --> 01:33:56,313
+Listen to me, Major Walsh...
+
+806
+01:33:56,522 --> 01:33:59,066
+...it is an event sociological.
+
+807
+01:34:17,918 --> 01:34:20,129
+Hey! Wait a minute!
+
+808
+01:34:36,103 --> 01:34:38,188
+- My name's Neary!
+- Larry Butler!
+
+809
+01:34:38,397 --> 01:34:40,065
+- How are you?
+- Okay! You?
+
+810
+01:34:40,316 --> 01:34:42,109
+- Fine, fine!
+- That's good!
+
+811
+01:34:42,735 --> 01:34:47,197
+Everybody keep their masks on until
+you're out of here and out of danger.
+
+812
+01:34:47,406 --> 01:34:51,619
+Listen, we wanna get out of here!
+What's the matter with you?
+
+813
+01:35:06,967 --> 01:35:10,179
+- Major Walsh, Major Walsh.
+- Yes, sir.
+
+814
+01:35:10,346 --> 01:35:12,973
+I'll have the rest of them
+off the mountain in one hour.
+
+815
+01:35:13,182 --> 01:35:15,935
+Major, I want you to use infrared...
+
+816
+01:35:16,143 --> 01:35:18,687
+...and get me a photo analysis of
+the northern face.
+
+817
+01:35:18,896 --> 01:35:20,940
+Yes, sir, it's already been ordered.
+
+818
+01:35:21,190 --> 01:35:23,233
+Major Walsh, listen.
+
+819
+01:35:23,442 --> 01:35:26,987
+I don't lik e to do this. We're in
+enough trouble with these cattlemen.
+
+820
+01:35:27,237 --> 01:35:31,116
+If you can't get these folks
+out of the area by 2000 hours...
+
+821
+01:35:31,367 --> 01:35:33,661
+...start dusting with EZ-4.
+
+822
+01:35:34,328 --> 01:35:35,537
+What's EZ-4?
+
+823
+01:35:35,788 --> 01:35:39,166
+It's a sleep aerosol. Same stuff we
+used with the livestock.
+
+824
+01:35:39,375 --> 01:35:40,834
+Comes out of Riot Control.
+
+825
+01:35:41,043 --> 01:35:44,964
+They'll sleep for six hours and
+wake up with a headache, that's all.
+
+826
+01:35:45,172 --> 01:35:48,884
+We didn't choose this place.
+We didn't choose these people!
+
+827
+01:35:49,134 --> 01:35:51,220
+They were invited!
+
+828
+01:35:57,268 --> 01:35:59,645
+They belong here more than we.
+
+829
+01:36:07,361 --> 01:36:09,029
+I shouldn't have given up jogging.
+
+830
+01:36:09,238 --> 01:36:12,616
+See that notch in the mountain?
+We'll make it in no time.
+
+831
+01:36:12,825 --> 01:36:14,410
+Here come three more.
+
+832
+01:36:17,371 --> 01:36:19,331
+The authority in this park...
+
+833
+01:36:19,540 --> 01:36:23,085
+...has been superseded by
+the United States government.
+
+834
+01:36:23,419 --> 01:36:25,963
+There's a ravine leading straight up.
+
+835
+01:36:26,171 --> 01:36:29,091
+- It's an easier climb.
+- It's no good.
+
+836
+01:36:29,300 --> 01:36:32,928
+When you get to the top, it's
+a 300-foot drop down. Get down!
+
+837
+01:36:33,137 --> 01:36:35,723
+What do you think is
+down on the other side?
+
+838
+01:36:36,432 --> 01:36:39,560
+There's a box canyon on the other side
+with ravines and trails...
+
+839
+01:36:39,768 --> 01:36:41,979
+...if you take this incline
+to the right.
+
+840
+01:36:42,187 --> 01:36:44,982
+I never imagined that.
+I only painted one side.
+
+841
+01:36:45,190 --> 01:36:48,110
+- There was no canyon in my doodles.
+- Next time, sculpt.
+
+842
+01:36:48,319 --> 01:36:51,238
+You give us a lot of credit.
+That's an hour's climb.
+
+843
+01:36:51,447 --> 01:36:52,615
+Come on, let's go.
+
+844
+01:36:58,162 --> 01:37:00,748
+The authority in this park...
+
+845
+01:37:00,956 --> 01:37:05,252
+...has been superseded by
+the United States government.
+
+846
+01:37:05,461 --> 01:37:10,007
+You are entering
+a military reservation...
+
+847
+01:37:10,257 --> 01:37:12,926
+...and subject to military law.
+
+848
+01:37:13,135 --> 01:37:14,720
+Call the bastard.
+
+849
+01:37:18,599 --> 01:37:20,601
+Bahama, this is Pyramid. Over.
+
+850
+01:37:20,851 --> 01:37:22,019
+Go ahead.
+
+851
+01:37:22,227 --> 01:37:24,563
+Nothing to report at midstation.
+
+852
+01:37:24,772 --> 01:37:27,650
+Up ahead there's thousands
+of places to hide.
+
+853
+01:37:27,900 --> 01:37:31,862
+We'll need three times the men
+to cover this in one hour.
+
+854
+01:37:32,154 --> 01:37:35,324
+Get everybody off the northern face,
+call the dark side of the moon...
+
+855
+01:37:35,574 --> 01:37:37,284
+...and tell them we're gonna dust.
+
+856
+01:38:04,019 --> 01:38:05,396
+Get down!
+
+857
+01:38:06,397 --> 01:38:09,191
+You are entering a military
+reservation...
+
+858
+01:38:09,441 --> 01:38:13,028
+...and subject to military law.
+
+859
+01:38:42,641 --> 01:38:45,561
+Larry! Larry, come on!
+
+860
+01:39:03,078 --> 01:39:06,248
+Larry! Don't let them see you!
+Get down!
+
+861
+01:39:42,076 --> 01:39:45,996
+They're just crop-dusting.
+Los Angeles!
+
+862
+01:39:50,084 --> 01:39:52,920
+- Larry?
+- Don't stop!
+
+863
+01:39:53,504 --> 01:39:55,422
+Don't look back! Come on, come on!
+
+864
+01:40:19,113 --> 01:40:20,531
+Roy!
+
+865
+01:40:26,829 --> 01:40:29,623
+Hurry! We're only 10 feet
+from the top.
+
+866
+01:40:29,873 --> 01:40:32,876
+Just a few more feet! We can
+slide down the other side!
+
+867
+01:40:40,217 --> 01:40:42,720
+Come on, hurry. I'll come down.
+
+868
+01:40:42,886 --> 01:40:43,929
+Don't come down.
+
+869
+01:40:44,972 --> 01:40:46,682
+Come on, come on. Come on!
+
+870
+01:40:46,890 --> 01:40:49,018
+- Don't worry. We'll make it.
+- Roy.
+
+871
+01:40:49,184 --> 01:40:51,312
+Come on. Come on. Move it.
+Move your ass!
+
+872
+01:40:51,562 --> 01:40:52,980
+Come on.
+
+873
+01:40:57,651 --> 01:41:01,363
+Roy, come on. Come on.
+Please, come on.
+
+874
+01:41:02,489 --> 01:41:03,616
+Hurry!
+
+875
+01:41:05,868 --> 01:41:06,952
+Hold it!
+
+876
+01:41:11,123 --> 01:41:12,249
+Jump! Jump!
+
+877
+01:41:25,304 --> 01:41:28,349
+- Do you see that?
+- Oh, yes.
+
+878
+01:41:29,058 --> 01:41:30,184
+Good.
+
+879
+01:41:31,185 --> 01:41:33,771
+Is it on?
+Check the speak er system here.
+
+880
+01:41:33,979 --> 01:41:36,148
+I want this up all the way.
+
+881
+01:41:39,151 --> 01:41:40,694
+Are you reading me on this one?
+
+882
+01:41:41,487 --> 01:41:42,780
+How about here?
+
+883
+01:41:45,032 --> 01:41:49,286
+- Testing. Testing.
+- Okay, one, two, three, four.
+
+884
+01:41:50,204 --> 01:41:51,956
+Testing. Testing.
+
+885
+01:41:52,164 --> 01:41:55,292
+One, two, three, testing.
+
+886
+01:42:02,633 --> 01:42:06,428
+Gentlemen, ladies.
+Tak e your positions, please.
+
+887
+01:42:07,638 --> 01:42:09,598
+This is not a drill.
+
+888
+01:42:09,807 --> 01:42:13,310
+I repeat, this is not a drill.
+
+889
+01:42:14,311 --> 01:42:17,982
+Could we have the lights
+in the arena down 60 percent, please?
+
+890
+01:42:18,399 --> 01:42:20,067
+60 percent.
+
+891
+01:42:24,405 --> 01:42:28,200
+I don't think we could ask for
+a more beautiful evening, do you?
+
+892
+01:42:37,042 --> 01:42:39,420
+Okay, watch the skies, please.
+
+893
+01:42:40,129 --> 01:42:45,092
+We now show uncorrelated targets
+approaching from the north-northwest.
+
+894
+01:43:35,017 --> 01:43:38,103
+We're the only ones who know.
+The only ones.
+
+895
+01:43:47,738 --> 01:43:49,323
+You see that?
+
+896
+01:43:51,367 --> 01:43:52,493
+Yes.
+
+897
+01:43:53,285 --> 01:43:54,328
+Good.
+
+898
+01:44:42,751 --> 01:44:47,256
+All ground personnel not
+D-class approved...
+
+899
+01:44:47,464 --> 01:44:51,302
+...please evacuate the centre
+approach mark er.
+
+900
+01:44:51,885 --> 01:44:56,348
+Audio analysis personnel,
+behind the double yellow line.
+
+901
+01:45:02,396 --> 01:45:04,857
+ITC, stereo, time and resistance.
+
+902
+01:45:05,524 --> 01:45:06,942
+Auto ready?
+
+903
+01:45:07,610 --> 01:45:10,404
+- Tone interpolation on interlock.
+- Altitude and tabling.
+
+904
+01:45:10,613 --> 01:45:12,615
+ARP and interlock now.
+
+905
+01:45:13,157 --> 01:45:15,659
+Speed set at seven and a half.
+
+906
+01:45:15,868 --> 01:45:19,121
+All positive functions, standing by.
+
+907
+01:45:43,562 --> 01:45:44,813
+Go ahead.
+
+908
+01:45:45,147 --> 01:45:46,273
+- Sunset.
+- Go.
+
+909
+01:45:47,441 --> 01:45:50,069
+Okay. Start with the tone.
+
+910
+01:45:57,117 --> 01:45:58,285
+- Tang.
+- Go.
+
+911
+01:45:59,328 --> 01:46:01,121
+Up a full tone.
+
+912
+01:46:04,333 --> 01:46:06,126
+Down a major third.
+
+913
+01:46:06,460 --> 01:46:08,379
+Now drop an octave.
+
+914
+01:46:13,467 --> 01:46:14,718
+- Cool blue.
+- Go.
+
+915
+01:46:14,969 --> 01:46:16,971
+Up a perfect fifth.
+
+916
+01:46:19,556 --> 01:46:21,433
+Nothing. Nothing at all.
+
+917
+01:46:26,397 --> 01:46:27,606
+Give me a tone.
+
+918
+01:46:28,065 --> 01:46:30,276
+- "Re" to the second.
+- Up a full tone.
+
+919
+01:46:30,484 --> 01:46:32,361
+- "Mi" to the third.
+- Down a major third.
+
+920
+01:46:32,569 --> 01:46:34,655
+- "Do" to the first.
+- Drop an octave.
+
+921
+01:46:34,863 --> 01:46:36,573
+"Do" up a perfect fifth.
+
+922
+01:46:36,782 --> 01:46:38,450
+"Sol" to the fifth.
+
+923
+01:46:54,591 --> 01:46:55,843
+I know that.
+
+924
+01:46:58,637 --> 01:46:59,805
+Faster.
+
+925
+01:47:15,613 --> 01:47:16,739
+Kick that mule!
+
+926
+01:47:20,993 --> 01:47:22,453
+Let's go!
+
+927
+01:48:04,244 --> 01:48:05,704
+I'm very happy tonight.
+
+928
+01:48:06,121 --> 01:48:07,873
+- Congratulations.
+- Thank you.
+
+929
+01:48:08,582 --> 01:48:11,794
+Not a Merle Haggard, but it was great.
+
+930
+01:48:31,438 --> 01:48:32,815
+Mr. Lacombe?
+
+931
+01:48:39,405 --> 01:48:42,116
+What is it? What's happening?
+
+932
+01:49:37,713 --> 01:49:40,299
+Come on. Come on, let's go.
+
+933
+01:49:41,926 --> 01:49:43,385
+Keep down.
+
+934
+01:49:49,224 --> 01:49:50,809
+They're talking way over my head.
+
+935
+01:51:00,379 --> 01:51:02,298
+- Shit.
+- Duck, duck!
+
+936
+01:51:38,417 --> 01:51:39,710
+Photo one.
+
+937
+01:51:39,918 --> 01:51:43,297
+Fantastic! Keep those reloads coming.
+
+938
+01:51:43,505 --> 01:51:45,049
+Fantastic!
+
+939
+01:51:51,722 --> 01:51:53,807
+- You wanna see better?
+- I can see fine.
+
+940
+01:51:54,058 --> 01:51:57,144
+- We can't stay here.
+- I can.
+
+941
+01:51:58,103 --> 01:52:01,690
+- Why?
+- Because Barry's not here.
+
+942
+01:52:02,608 --> 01:52:04,610
+I'm just not ready.
+
+943
+01:52:08,447 --> 01:52:10,574
+I can't stay.
+I've gotta get down there.
+
+944
+01:52:10,824 --> 01:52:12,326
+I know.
+
+945
+01:52:45,859 --> 01:52:50,030
+This is data control to all personnel.
+
+946
+01:52:50,447 --> 01:52:53,659
+We monitor no biologic hazards.
+
+947
+01:52:53,867 --> 01:52:56,203
+Range safety clear.
+
+948
+01:54:03,729 --> 01:54:06,482
+Oh, my God.
+
+949
+01:54:59,994 --> 01:55:02,204
+Oh, my God.
+
+950
+01:55:26,186 --> 01:55:27,479
+Holy shit.
+
+951
+01:57:19,550 --> 01:57:21,802
+There is a safety-hazard zone...
+
+952
+01:57:22,011 --> 01:57:25,889
+...extending 25 metres from the ship.
+
+953
+01:57:26,307 --> 01:57:31,145
+Special teams are exempt and
+should be aware of low gravity.
+
+954
+01:57:31,395 --> 01:57:35,816
+Expect some dizziness,
+and look out for a static charge.
+
+955
+01:57:38,110 --> 01:57:41,947
+All departments at operational
+during this phase...
+
+956
+01:57:42,197 --> 01:57:44,366
+...signify by beeping twice.
+
+957
+01:57:44,575 --> 01:57:47,620
+If everything's ready here on
+the dark side of the moon...
+
+958
+01:57:48,037 --> 01:57:49,622
+...play the five tones.
+
+959
+01:58:59,149 --> 01:59:01,777
+Give her six quavers, then pause.
+
+960
+01:59:02,903 --> 01:59:04,238
+She sent us four quavers...
+
+961
+01:59:04,446 --> 01:59:07,741
+...a group of five quavers,
+a group of four semiquavers.
+
+962
+01:59:22,214 --> 01:59:24,466
+All these phrases have
+in common are five signals.
+
+963
+01:59:24,633 --> 01:59:27,970
+- Hope somebody's taking all this down.
+- What are we saying to each other?
+
+964
+01:59:28,137 --> 01:59:30,889
+It seems they're trying to teach us
+a basic tonal vocabulary.
+
+965
+01:59:31,098 --> 01:59:32,474
+It's the first day of school.
+
+966
+01:59:40,816 --> 01:59:43,819
+Take everything from the lady.
+Follow her pattern note for note.
+
+967
+02:00:00,628 --> 02:00:03,213
+We have a translation interlock
+on their audio signal.
+
+968
+02:00:03,422 --> 02:00:05,799
+We're taking over
+this conversation now.
+
+969
+02:01:07,569 --> 02:01:09,405
+Let's go! Come on!
+
+970
+02:02:46,126 --> 02:02:47,962
+I am Claude Lacombe.
+
+971
+02:02:51,382 --> 02:02:52,800
+Frank Taylor...
+
+972
+02:02:53,050 --> 02:02:55,594
+...Lieutenant J.G., United States
+Navy Reserve...
+
+973
+02:02:55,803 --> 02:02:57,721
+...064199.
+
+974
+02:02:57,930 --> 02:03:00,224
+Lieutenant, welcome home.
+
+975
+02:03:00,683 --> 02:03:02,434
+This way to debriefing.
+
+976
+02:03:02,768 --> 02:03:03,811
+Harry Ward Craig...
+
+977
+02:03:04,061 --> 02:03:06,146
+...Captain, United States Navy...
+
+978
+02:03:06,355 --> 02:03:08,649
+...043431.
+
+979
+02:03:08,857 --> 02:03:12,111
+Captain, would you come
+right this way?
+
+980
+02:03:13,988 --> 02:03:16,448
+Welcome back, Navy. Welcome back.
+
+981
+02:03:18,367 --> 02:03:21,537
+"Craig, Harry Ward.
+Captain, United States Navy...
+
+982
+02:03:21,745 --> 02:03:23,789
+...0434311."
+
+983
+02:03:24,081 --> 02:03:27,251
+Disappeared off Chicken Shoals,
+flight 19.
+
+984
+02:03:29,253 --> 02:03:32,965
+Matthew McMichael, Lieutenant,
+United States Naval Reserve...
+
+985
+02:03:33,549 --> 02:03:35,884
+...0909411.
+- Lieutenant.
+
+986
+02:03:36,093 --> 02:03:37,720
+Good to have you back.
+
+987
+02:03:38,679 --> 02:03:40,889
+Furlow, Otis B...
+
+988
+02:03:41,140 --> 02:03:44,059
+...Lieutenant J. G.,
+United States Navy.
+
+989
+02:03:44,268 --> 02:03:47,354
+They haven't even aged.
+Einstein was right.
+
+990
+02:03:47,563 --> 02:03:49,690
+Einstein was probably one of them.
+
+991
+02:03:50,274 --> 02:03:52,526
+Erickson, David A...
+
+992
+02:03:52,735 --> 02:03:55,821
+...Lieutenant J. G.,
+United States Navy...
+
+993
+02:03:56,113 --> 02:04:00,075
+...0639552.
+
+994
+02:04:01,201 --> 02:04:03,579
+Henkle, Robert F...
+
+995
+02:04:03,787 --> 02:04:07,207
+...Lieutenant J. G.,
+United States Navy...
+
+996
+02:04:34,485 --> 02:04:39,573
+Went missing July 1955,
+Pensacola, Florida.
+
+997
+02:04:39,740 --> 02:04:41,075
+Monsieur Neary...
+
+998
+02:04:41,825 --> 02:04:43,494
+...what do you want?
+
+999
+02:04:46,372 --> 02:04:49,541
+I just wanna know that
+it's really happening.
+
+1000
+02:04:52,836 --> 02:04:57,716
+I went up in the air,
+and I saw our house.
+
+1001
+02:04:57,925 --> 02:05:01,011
+I saw you going up in the air.
+Did you see me running after you?
+
+1002
+02:05:01,178 --> 02:05:03,555
+- Yes.
+- Yes?
+
+1003
+02:05:07,309 --> 02:05:09,395
+All right, now we have to talk.
+
+1004
+02:05:12,273 --> 02:05:14,275
+He wants to speak about
+Mr. Neary's case.
+
+1005
+02:05:14,566 --> 02:05:17,152
+Swensen, Matthew Daniel...
+
+1006
+02:05:17,361 --> 02:05:20,948
+...reported missing April 1976.
+
+1007
+02:05:21,782 --> 02:05:24,618
+- Are they going away?
+- Yes.
+
+1008
+02:05:28,956 --> 02:05:30,040
+Wait a second, wait.
+
+1009
+02:05:30,249 --> 02:05:34,336
+He says these are ordinary people
+under extraordinary circumstances.
+
+1010
+02:05:35,546 --> 02:05:38,757
+Delores, Rudolph E...
+
+1011
+02:05:38,966 --> 02:05:42,553
+...reported missing
+December '51, Bisbee...
+
+1012
+02:05:43,053 --> 02:05:44,597
+...Arizona.
+
+1013
+02:05:48,559 --> 02:05:50,394
+Goodbye.
+
+1014
+02:06:00,779 --> 02:06:01,822
+Monsieur Neary...
+
+1015
+02:06:03,991 --> 02:06:05,492
+...I envy you.
+
+1016
+02:08:03,861 --> 02:08:06,697
+I'm told we can count on your
+complete cooperation.
+
+1017
+02:08:06,947 --> 02:08:09,450
+- What's your blood type?
+- I don't know.
+
+1018
+02:08:09,658 --> 02:08:12,369
+- What's your birth date?
+- December 4th, 1944.
+
+1019
+02:08:12,536 --> 02:08:14,997
+Have you been inoculated against
+smallpox, diphtheria?
+
+1020
+02:08:15,247 --> 02:08:18,250
+Is there any liver disease
+in your family?
+
+1021
+02:09:17,351 --> 02:09:19,895
+May the Lord be praised at all times.
+
+1022
+02:09:20,104 --> 02:09:22,815
+May God help us and grant us
+a happy journey.
+
+1023
+02:09:23,065 --> 02:09:24,358
+Show us your ways.
+
+1024
+02:09:24,566 --> 02:09:26,443
+And lead us along your paths.
+
+1025
+02:09:26,694 --> 02:09:30,239
+God has given you
+his angels charge over you.
+
+1026
+02:09:30,489 --> 02:09:34,034
+Grant these pilgrims, we pray,
+a happy journey...
+
+1027
+02:09:34,285 --> 02:09:39,206
+...and peaceful days, so that with
+your holy angel as a guide...
+
+1028
+02:09:39,415 --> 02:09:42,918
+...they may safely reach their
+destination...
+
+1029
+02:13:24,181 --> 02:13:25,557
+Bye!
