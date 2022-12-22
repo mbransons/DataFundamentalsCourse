@@ -1,0 +1,3 @@
+label,csvname,neutral_lists,group_lists,do_individual_neutral_words,do_individual_group_words
+movies,finalrun.csv,"['final_project/study_data/personalitytraits_original', 'male_pairs', 'female_pairs', 'names_hispanic', 'names_white','names_asian','occupations1950', 'occupations1950_professional']","['male_pairs', 'female_pairs', 'names_hispanic', 'names_white', 'names_asian']",TRUE,TRUE
+
